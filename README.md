@@ -52,6 +52,10 @@ Canary
 https://discordapp.com/api/download/canary?platform=win
 
 
+**Mac custom client**
+Accord
+https://github.com/evelyneee/accord
+
 **Modded:**
 
 Betterdiscord
