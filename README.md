@@ -1,102 +1,90 @@
-# Discord 3rd parties CLients(Or Mods) Are Here!
+# Discord 3rd parties CLients(Or Mods) Are Here
+
 All 3rd party clients will update as needed
 
-
-
-
-**Mobile clients for Android:**
+**For Android:**
 
 Aliucord
 
-https://github.com/Aliucord/Aliucord
+<https://github.com/Aliucord/Aliucord>
 
-Cutthecord
+Opencord (In-Dev)
 
-https://gitdab.com/distok/cutthecord
+<https://github.com/X1nto/OpenCord>
 
-Opencord
+> Treecord - Default Discord v67.12, It's dead.
+> Don't use Bluecord.
+> Cutthecord - Latest supported Discord Android version: 87.2 - Alpha (87202), It's Dead.
 
-https://github.com/X1nto/OpenCord
+**For iOS:**
 
-Treecord
+Enmity
 
-https://github.com/Treecord/Treecord
+<https://github.com/enmity-mod/enmity-ios/>
 
-Bluecord(SUS as hell)-(closed sourced but clearly stole from cutthecord)
-
-https://bluesmods.com/bluecord/
-
-
-
-**Iphone mod:**
-
-Enminty
-
-https://www.reddit.com/r/jailbreak/comments/tvm260/free_release_enmity_plugins_for_mobile_discord/
-
-
-**Desktop clients:**
+## Desktop clients
 
 **Not modded:**
 
-Just discord(I call it regular)
+Stable
 
-https://discord.com/
+<https://discord.com/download>
 
 PTB
 
-https://dl-ptb.discordapp.net/distro/app/ptb/win/x86/1.0.1013/DiscordPTBSetup.exe
+<https://dl-ptb.discordapp.net/distro/app/ptb/win/x86/1.0.1013/DiscordPTBSetup.exe>
 
 Canary
 
-https://discordapp.com/api/download/canary?platform=win
-
-
-**Mac custom client**
-Accord
-https://github.com/evelyneee/accord
+<https://discordapp.com/api/download/canary?platform=win>
 
 **Modded:**
 
+Accord (In-Dev) (MacOS only)
+
+<https://github.com/evelyneee/accord>
+
 Betterdiscord
 
-https://betterdiscord.app/
+<https://betterdiscord.app/>
 
-Kernel-Not up to date
+Kernel
 
-https://github.com/kernel-mod/installer-cli
+<https://github.com/kernel-mod/installer-cli>
 
-Powercord(This software is run by assholes and yes you can install it on main)
+Powercord
 
-https://powercord.dev/
+<https://powercord.dev/>
 
-Goosemod(instalable on web as well)
+Goosemod (Works on browser too)
 
-https://goosemod.com/
+<https://goosemod.com/>
 
-Vizality(Could not get it to work maybe just my pc having issues on w11)(some people say its dead)
+Vizality (Closed Alpha)
 
-https://vizality.com/
+<https://vizality.com/>
 
-Cumcord(not a joke very funny name)
+Cumcord
 
-https://github.com/Cumcord/Cumcord
+<https://github.com/Cumcord/Cumcord>
 
-Armcord
+Armcord (ARM devices preferred)
 
-https://github.com/armcord/armcord
+<https://github.com/armcord/armcord>
 
-abaddon(Could not get working but idk)
+**Re-Implementations:**
 
-https://github.com/uowuo/abaddon
+Abaddon
+
+<https://github.com/uowuo/abaddon>
 
 GTK4cord
 
-https://github.com/diamondburned/gtkcord4
+<https://github.com/diamondburned/gtkcord4>
 
-GTK3cord
+GTK3cord (Archived, Not maintained anymore)
 
-https://github.com/diamondburned/gtkcord3
+<https://github.com/diamondburned/gtkcord3>
 
 Will update as needed!
 
