@@ -95,6 +95,9 @@ GTK3cord
 https://github.com/diamondburned/gtkcord3
 
 **Will update as needed!
+
 **feel free to dm me on discord if you discover more!
+
 **I am not responsible for you getting banned from using a 3rd party or you getting kicked from servers.
+
 Discord @DoggoVT#5773
