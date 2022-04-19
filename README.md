@@ -26,7 +26,7 @@ Bluecord(SUS as hell)-(closed sourced but clearly stole from cutthecord)
 
 https://bluesmods.com/bluecord/
 
-Will add more when discovered.
+
 
 **Iphone mod:**
 
@@ -34,9 +34,10 @@ Enminty
 
 https://www.reddit.com/r/jailbreak/comments/tvm260/free_release_enmity_plugins_for_mobile_discord/
 
+
 **Desktop clients:**
 
-Not modded:
+**Not modded:**
 
 reg
 
@@ -49,6 +50,7 @@ https://dl-ptb.discordapp.net/distro/app/ptb/win/x86/1.0.1013/DiscordPTBSetup.ex
 Canary
 
 https://discordapp.com/api/download/canary?platform=win
+
 
 **Modded:**
 
@@ -91,3 +93,7 @@ https://github.com/diamondburned/gtkcord4
 GTK3cord
 
 https://github.com/diamondburned/gtkcord3
+
+**Will update as needed!**
+**feel free to dm me on discord if you discover more!
+I am not responsible for you getting banned from using a 3rd party or you getting kicked from servers.
