@@ -1,4 +1,4 @@
-# Discord 3rd parties CLients(Or Mods) Are Here
+# Discord Client Encyclopedia
 
 All 3rd party clients will update as needed
 
