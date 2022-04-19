@@ -1,4 +1,4 @@
-# Discord 3rd parties CLients are here!
+# Discord 3rd parties CLients(Or Mods) Are Here!
 All 3rd party clients will update as needed
 
 
