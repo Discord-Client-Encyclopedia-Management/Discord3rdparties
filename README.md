@@ -58,7 +58,7 @@ Betterdiscord
 
 https://betterdiscord.app/
 
-Kernal Cord
+Kernal 
 
 https://github.com/kernel-mod/installer-cli
 
