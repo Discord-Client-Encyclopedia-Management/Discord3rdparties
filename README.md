@@ -39,7 +39,7 @@ https://www.reddit.com/r/jailbreak/comments/tvm260/free_release_enmity_plugins_f
 
 **Not modded:**
 
-reg
+Just discord(I call it regular)
 
 https://discord.com/
 
@@ -62,7 +62,7 @@ Betterdiscord
 
 https://betterdiscord.app/
 
-Kernal 
+Kernel-Not up to date
 
 https://github.com/kernel-mod/installer-cli
 
@@ -74,15 +74,15 @@ Goosemod(instalable on web as well)
 
 https://goosemod.com/
 
-Vizality(Could not get it to work maybe just my pc having issues on w11)
+Vizality(Could not get it to work maybe just my pc having issues on w11)(some people say its dead)
 
 https://vizality.com/
 
-Cumcord(not a joke very funny runs all powercord apps as well as running bd)
+Cumcord(not a joke very funny name)
 
 https://github.com/Cumcord/Cumcord
 
-Armcord(OP)(runs all others plugins)
+Armcord
 
 https://github.com/armcord/armcord
 
