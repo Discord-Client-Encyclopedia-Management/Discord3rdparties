@@ -13,7 +13,9 @@ Opencord (In-Dev)
 <https://github.com/X1nto/OpenCord>
 
 > Treecord - Default Discord v67.12, It's dead.
+
 > Don't use Bluecord.
+
 > Cutthecord - Latest supported Discord Android version: 87.2 - Alpha (87202), It's Dead.
 
 **For iOS:**
