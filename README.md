@@ -88,6 +88,11 @@ GTK3cord (Archived, Not maintained anymore)
 
 <https://github.com/diamondburned/gtkcord3>
 
+OpenAsar is a rewrite of part of Discord's desktop code, making it faster by optmizing it, being fully open-source and adding extra theming to the splash screen of any discord client mod you use.
+
+<https://openasar.dev/>
+
+
 Will update as needed!
 
 feel free to dm me on discord if you discover more!
