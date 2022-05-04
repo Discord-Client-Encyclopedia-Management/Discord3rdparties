@@ -60,7 +60,7 @@ Cumcord
 
 <https://github.com/Cumcord/Cumcord>
 
-## ReImplementations
+## Re-Implementations
 
 6cord (Predecessor of GTKcord3)
 
