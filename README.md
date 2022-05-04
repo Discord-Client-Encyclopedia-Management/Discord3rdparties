@@ -23,6 +23,10 @@ But for history <https://bluesmods.com/bluecord/> Since he is apparently unable 
 
 **For iOS:**
 
+iOS 5 and 6 client
+
+<https://github.com/cellomonster/iOS-Discord-Classic>
+
 Enmity
 
 <https://github.com/enmity-mod/enmity-ios/>
@@ -121,16 +125,11 @@ Rikka (currently not open for public use, will remove this text when it already 
 
 <https://github.com/V3L0C1T13S/Rikka>
 
-#Re-Implementations:
+# Re-Implementations:
 
 Pesterchump(homestuck parody client,out of date,looking for new devs,basically dead.)
 
 <https://github.com/henry232323/Pesterchum-Discord>
-
-
-ios 5 and 6 client
-
-<https://github.com/cellomonster/iOS-Discord-Classic>
 
 Discordo
 
