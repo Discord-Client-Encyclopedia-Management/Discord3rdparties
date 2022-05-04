@@ -117,7 +117,7 @@ Armcord (ARM devices preferred)
 
 <https://github.com/armcord/armcord>
 
-#Re-Implementations:
+#ReImplementations:
 
 Pesterchump(homestuck parody client,out of date,looking for new devs,basically dead.)
 
