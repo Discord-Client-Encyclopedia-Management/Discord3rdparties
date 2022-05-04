@@ -46,6 +46,10 @@ Accord (In-Dev) (MacOS only)
 
 <https://github.com/evelyneee/accord>
 
+Openasar(start up mod)
+
+<https://github.com/GooseMod/OpenAsar>
+
 Betterdiscord
 
 <https://betterdiscord.app/>
