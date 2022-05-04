@@ -121,11 +121,12 @@ Armcord (ARM devices preferred)
 
 Pesterchump(homestuck parody client,out of date,looking for new devs,basically dead.)
 
+<https://github.com/henry232323/Pesterchum-Discord>
+
+
 ios 5 and 6 client
 
 <https://github.com/cellomonster/iOS-Discord-Classic>
-
-<https://github.com/henry232323/Pesterchum-Discord>
 
 Discordo
 
@@ -160,7 +161,7 @@ Discordflex
 <https://github.com/ZenithRogue/DiscordFlex>
 
 
-##Discord for consoles
+###Discord For Consoles
 
 
 Switchcord
