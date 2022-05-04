@@ -74,6 +74,14 @@ EnhancedDiscord(dead)
 
 <https://github.com/joe27g/EnhancedDiscord>
 
+Terminalcord(proof of concept,dead)
+
+<https://github.com/xynxynxyn/terminal-discord>
+
+Discord-QT(dead)
+
+<https://github.com/ruslang02/discord-qt>
+
 Powercord
 
 <https://powercord.dev/>
@@ -133,6 +141,14 @@ Switchcord
 Discord3ds
 
 <https://github.com/yourWaifu/Unofficial-Discord-3DS-Client>
+
+Vitacord
+
+<https://github.com/devingDev/VitaCord>
+
+Crocadile(TEMPLEOS)
+
+<https://github.com/tbodt/crocodile>
 
 Will update as needed!
 
