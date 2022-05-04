@@ -46,6 +46,10 @@ Accord (In-Dev) (MacOS only)
 
 <https://github.com/evelyneee/accord>
 
+Enyo Fast client
+
+,https://github.com/EnyoYoen/Fast-Discord>
+
 Disorder terminal client(dead)
 
 <https://github.com/lexffe/discorder>
