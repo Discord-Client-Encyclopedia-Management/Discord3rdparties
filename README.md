@@ -46,6 +46,10 @@ Accord (In-Dev) (MacOS only)
 
 <https://github.com/evelyneee/accord>
 
+Disorder terminal client(dead)
+
+<https://github.com/lexffe/discorder>
+
 Openasar(start up mod)
 
 <https://github.com/GooseMod/OpenAsar>
@@ -107,6 +111,14 @@ Armcord (ARM devices preferred)
 <https://github.com/armcord/armcord>
 
 **Re-Implementations:**
+
+Pesterchump(homestuck parody client,out of date,looking for new devs,basically dead.)
+
+ios 5 and 6 client
+
+<https://github.com/cellomonster/iOS-Discord-Classic>
+
+<https://github.com/henry232323/Pesterchum-Discord>
 
 Discordo
 
