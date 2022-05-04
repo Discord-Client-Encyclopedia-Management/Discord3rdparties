@@ -47,7 +47,7 @@ All 3rd party clients will update as needed.
 | EnhancedDiscord | https://github.com/joe27g/EnhancedDiscord | A lightweight Discord client mod. | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🔴 Abandonned |
 | Lightcord | https://github.com/Lightcord/Lightcord | Lightcord is a simple and customizable client for Discord. It includes BandagedBD, Glasstron and a discord.js-like api. | [Javascript](https://en.wikipedia.org/wiki/JavaScript), [Typescript](https://en.wikipedia.org/wiki/TypeScript) | 🔴 Discontinued and abandoned |
 
-### Re-implementations
+### Reimplementations
 
 | Name | Link | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: | :---: |
