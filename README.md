@@ -189,6 +189,10 @@ NXcord(for switch,dead)
 
 <https://github.com/cheuble/3DiScord>
 
+Rikka (currently not open for public use, will remove this text when it already is public)
+
+<https://github.com/V3L0C1T13S/Rikka>
+
 
 
 Will update as needed!
