@@ -21,7 +21,7 @@ All 3rd party clients will update as needed.
 | Enmity | https://enmity.app/ | The power of addons, all in your hand. | [Typescript](https://en.wikipedia.org/wiki/TypeScript) | 🟢 Active |
 | Discord Classic | https://github.com/cellomonster/iOS-Discord-Classic | A bare-bones Discord client for iOS 5 and 6. | [Objective-C](https://en.wikipedia.org/wiki/Objective-C) | 🔴 Discontinued |
 
-## Desktop clients
+## For iOS
 
 ### Official
 
