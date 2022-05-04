@@ -159,7 +159,9 @@ Discordflex
 
 <https://github.com/ZenithRogue/DiscordFlex>
 
-##DIscord for consoles
+
+##Discord for consoles
+
 
 Switchcord
 
