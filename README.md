@@ -13,10 +13,13 @@ Opencord (In-Dev)
 <https://github.com/X1nto/OpenCord>
 
 > Treecord - Default Discord v67.12, It's dead.
+<https://github.com/Treecord/Treecord> for history
 
-> Don't use Bluecord.
+> Don't use Bluecord.Scams and spying.
+But for history <https://bluesmods.com/bluecord/> Since he is apparently unable to use github.
 
-> Cutthecord - Latest supported Discord Android version: 87.2 - Alpha (87202), It's Dead.
+> Cutthecord - Latest supported Discord Android version: 87.2 - Alpha (87202), It's Dead. For history:
+<https://gitdab.com/distok/cutthecord>
 
 **For iOS:**
 
