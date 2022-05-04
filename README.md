@@ -70,6 +70,10 @@ Cordless(will get you banned for sure do not use, cool idea for a client though.
 
 <https://github.com/diamondburned/6cord>
 
+EnhancedDiscord(dead)
+
+<https://github.com/joe27g/EnhancedDiscord>
+
 Powercord
 
 <https://powercord.dev/>
