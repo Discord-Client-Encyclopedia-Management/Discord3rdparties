@@ -49,6 +49,10 @@ Accord (In-Dev) (MacOS only)
 
 <https://github.com/evelyneee/accord>
 
+Astra (Private)
+
+<https://github.com/Astra-mod/Astra>
+
 Enyo Fast client
 
 ,https://github.com/EnyoYoen/Fast-Discord>
