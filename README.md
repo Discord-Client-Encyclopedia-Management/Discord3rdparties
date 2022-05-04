@@ -117,6 +117,10 @@ Armcord (ARM devices preferred)
 
 <https://github.com/armcord/armcord>
 
+Rikka (currently not open for public use, will remove this text when it already is public)
+
+<https://github.com/V3L0C1T13S/Rikka>
+
 #Re-Implementations:
 
 Pesterchump(homestuck parody client,out of date,looking for new devs,basically dead.)
@@ -161,8 +165,7 @@ Discordflex
 <https://github.com/ZenithRogue/DiscordFlex>
 
 
-#Discord For Consoles
-
+## Discord For Consoles
 
 Switchcord
 
@@ -191,12 +194,6 @@ NXcord(for switch,dead)
 3dicord
 
 <https://github.com/cheuble/3DiScord>
-
-Rikka (currently not open for public use, will remove this text when it already is public)
-
-<https://github.com/V3L0C1T13S/Rikka>
-
-
 
 Will update as needed!
 
