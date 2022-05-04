@@ -96,6 +96,14 @@ Armcord (ARM devices preferred)
 
 **Re-Implementations:**
 
+Discordo
+
+<https://github.com/ayntgl/discordo>
+
+Discline(dead)
+
+<https://github.com/mitchweaver/Discline>
+
 voidcord
 
 <https://github.com/kunamech/voidcord>
