@@ -62,6 +62,14 @@ Kernel
 
 <https://github.com/kernel-mod/installer-cli>
 
+Cordless(will get you banned for sure do not use, cool idea for a client though.)
+
+<https://github.com/Bios-Marcel/cordless>
+
+6cord(dead)
+
+<https://github.com/diamondburned/6cord>
+
 Powercord
 
 <https://powercord.dev/>
