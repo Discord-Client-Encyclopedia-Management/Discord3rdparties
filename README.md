@@ -50,6 +50,10 @@ Openasar(start up mod)
 
 <https://github.com/GooseMod/OpenAsar>
 
+Lightcord(dead)
+
+<https://github.com/Lightcord/Lightcord>
+
 Betterdiscord
 
 <https://betterdiscord.app/>
@@ -80,6 +84,10 @@ Armcord (ARM devices preferred)
 
 **Re-Implementations:**
 
+voidcord
+
+<https://github.com/kunamech/voidcord>
+
 Abaddon
 
 <https://github.com/uowuo/abaddon>
@@ -95,6 +103,16 @@ GTK3cord (Archived, Not maintained anymore)
 Ripcord(Cancelled please do not use)
 
 <https://cancel.fm/ripcord/>
+
+**DIscord for consoles**
+
+Switchcord
+
+<https://github.com/vbe0201/switchcord>
+
+Discord3ds
+
+<https://github.com/yourWaifu/Unofficial-Discord-3DS-Client>
 
 Will update as needed!
 
