@@ -2,7 +2,7 @@
 
 All 3rd party clients will update as needed
 
-**For Android:**
+## For Android
 
 Aliucord
 
@@ -12,58 +12,25 @@ Opencord (In-Dev)
 
 <https://github.com/X1nto/OpenCord>
 
-> Treecord - Default Discord v67.12, It's dead.
-<https://github.com/Treecord/Treecord> for history
+Treecord - Uses default discord v67.12, It's dead.
 
-> Don't use Bluecord.Scams and spying.
-But for history <https://bluesmods.com/bluecord/> Since he is apparently unable to use github.
+<https://github.com/Treecord/Treecord>
 
-> Cutthecord - Latest supported Discord Android version: 87.2 - Alpha (87202), It's Dead. For history:
+Bluecord (Don't use, Dev has a shitty scammy past)
+
+<https://bluesmods.com/bluecord/>
+
+CutTheCord - Latest supported Discord Android version: 87.2 - Alpha (87202), It's Dead.
+
 <https://gitdab.com/distok/cutthecord>
 
-**For iOS:**
+## For iOS
 
 Enmity
 
 <https://github.com/enmity-mod/enmity-ios/>
 
-## Desktop clients
-
-**Not modded:**
-
-Stable
-
-<https://discord.com/download>
-
-PTB
-
-<https://dl-ptb.discordapp.net/distro/app/ptb/win/x86/1.0.1013/DiscordPTBSetup.exe>
-
-Canary
-
-<https://discordapp.com/api/download/canary?platform=win>
-
-**Modded:**
-
-Accord (In-Dev) (MacOS only)
-
-<https://github.com/evelyneee/accord>
-
-Enyo Fast client
-
-,https://github.com/EnyoYoen/Fast-Discord>
-
-Disorder terminal client(dead)
-
-<https://github.com/lexffe/discorder>
-
-Openasar(start up mod)
-
-<https://github.com/GooseMod/OpenAsar>
-
-Lightcord(dead)
-
-<https://github.com/Lightcord/Lightcord>
+## For Desktop
 
 Betterdiscord
 
@@ -73,31 +40,15 @@ Kernel
 
 <https://github.com/kernel-mod/installer-cli>
 
-Cordless(will get you banned for sure do not use, cool idea for a client though.)
-
-<https://github.com/Bios-Marcel/cordless>
-
-6cord(dead)
-
-<https://github.com/diamondburned/6cord>
-
-EnhancedDiscord(dead)
+EnhancedDiscord (dead)
 
 <https://github.com/joe27g/EnhancedDiscord>
-
-Terminalcord(proof of concept,dead)
-
-<https://github.com/xynxynxyn/terminal-discord>
-
-Discord-QT(dead)
-
-<https://github.com/ruslang02/discord-qt>
 
 Powercord
 
 <https://powercord.dev/>
 
-Goosemod (Works on browser too)
+Goosemod
 
 <https://goosemod.com/>
 
@@ -105,94 +56,125 @@ Vizality (Closed Alpha)
 
 <https://vizality.com/>
 
-Discordlite(alive and pythony)
-
-<https://github.com/therealcyber71/Discord-Lite>
-
 Cumcord
 
 <https://github.com/Cumcord/Cumcord>
 
-Armcord (ARM devices preferred)
+## ReImplementations
 
-<https://github.com/armcord/armcord>
+6cord (Predecessor of GTKcord3)
 
-#ReImplementations:
-
-Pesterchump(homestuck parody client,out of date,looking for new devs,basically dead.)
-
-<https://github.com/henry232323/Pesterchum-Discord>
-
-
-ios 5 and 6 client
-
-<https://github.com/cellomonster/iOS-Discord-Classic>
-
-Discordo
-
-<https://github.com/ayntgl/discordo>
-
-Discline(dead)
-
-<https://github.com/mitchweaver/Discline>
-
-voidcord
-
-<https://github.com/kunamech/voidcord>
+<https://github.com/diamondburned/6cord>
 
 Abaddon
 
 <https://github.com/uowuo/abaddon>
 
-GTK4cord
+Accord (In-Dev) (MacOS only)
 
-<https://github.com/diamondburned/gtkcord4>
+<https://github.com/evelyneee/accord>
+
+Armcord (ARM devices preferred)
+
+<https://github.com/armcord/armcord>
+
+Cordless (Shut Down)
+
+<https://github.com/Bios-Marcel/cordless>
+
+Discline (Archived)
+
+<https://github.com/mitchweaver/Discline>
+
+Discord-QT (No updates since a year)
+
+<https://github.com/ruslang02/discord-qt>
+
+Discorder (Not Maintained Anymore)
+
+<https://github.com/lexffe/discorder>
+
+DiscordFlex (Dead)
+
+<https://github.com/ZenithRogue/DiscordFlex>
+
+Discordlite
+
+<https://github.com/therealcyber71/Discord-Lite>
+
+Discordo (Archived)
+
+<https://github.com/ayntgl/discordo>
+
+Fast-Discord (Fast Client for low-end devices)
+
+<https://github.com/EnyoYoen/Fast-Discord>
 
 GTK3cord (Archived, Not maintained anymore)
 
 <https://github.com/diamondburned/gtkcord3>
 
-Ripcord(Cancelled please do not use)
+GTK4cord
+
+<https://github.com/diamondburned/gtkcord4>
+
+Lightcord (dead)
+
+<https://github.com/Lightcord/Lightcord>
+
+Pesterchump (Unmaintained, Looking for contributors)
+
+<https://github.com/henry232323/Pesterchum-Discord>
+
+Ripcord (Don't Use)
 
 <https://cancel.fm/ripcord/>
 
-Discordflex
+Terminalcord (Predecessor to Cordless)
 
-<https://github.com/ZenithRogue/DiscordFlex>
+<https://github.com/xynxynxyn/terminal-discord>
 
+voidcord
 
-#Discord For Consoles
+<https://github.com/kunamech/voidcord>
 
+## Discord For Non-Desktop
 
-Switchcord
+iOS Discord Classic (Archived)
+
+<https://github.com/cellomonster/iOS-Discord-Classic>
+
+iOS Discord Raspberry (Dead)
+
+<https://github.com/mariomario720/iOS-Discord-Raspberry>
+
+Switchcord (Archived)
 
 <https://github.com/vbe0201/switchcord>
 
-Discord3ds
+Discord3ds (Dead)
 
 <https://github.com/yourWaifu/Unofficial-Discord-3DS-Client>
 
-Vitacord
+Vitacord (Dead)
 
 <https://github.com/devingDev/VitaCord>
 
-Crocadile(TEMPLEOS)
+Crocadile (TempleOS)
 
 <https://github.com/tbodt/crocodile>
 
-Windows 10 mobile phone unicord
+Unicord
 
 <https://github.com/UnicordDev/Unicord>
 
-NXcord(for switch,dead)
+NXcord (Dead)
 
 <https://github.com/Grarak/NXCord>
 
-3dicord
+3dicord (Archived)
 
 <https://github.com/cheuble/3DiScord>
-
-
 
 Will update as needed!
 
