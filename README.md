@@ -94,6 +94,10 @@ Vizality (Closed Alpha)
 
 <https://vizality.com/>
 
+Discordlite(alive and pythony)
+
+<https://github.com/therealcyber71/Discord-Lite>
+
 Cumcord
 
 <https://github.com/Cumcord/Cumcord>
@@ -132,6 +136,10 @@ Ripcord(Cancelled please do not use)
 
 <https://cancel.fm/ripcord/>
 
+Discordflex
+
+<https://github.com/ZenithRogue/DiscordFlex>
+
 **DIscord for consoles**
 
 Switchcord
@@ -149,6 +157,20 @@ Vitacord
 Crocadile(TEMPLEOS)
 
 <https://github.com/tbodt/crocodile>
+
+Windows 10 mobile phone unicord
+
+<https://github.com/UnicordDev/Unicord>
+
+NXcord(for switch,dead)
+
+<https://github.com/Grarak/NXCord>
+
+3dicord
+
+<https://github.com/cheuble/3DiScord>
+
+
 
 Will update as needed!
 
