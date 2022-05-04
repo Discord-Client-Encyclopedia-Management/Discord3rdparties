@@ -92,6 +92,10 @@ GTK3cord (Archived, Not maintained anymore)
 
 <https://github.com/diamondburned/gtkcord3>
 
+Ripcord(Cancelled please do not use)
+
+<https://cancel.fm/ripcord/>
+
 Will update as needed!
 
 feel free to dm me on discord if you discover more!
