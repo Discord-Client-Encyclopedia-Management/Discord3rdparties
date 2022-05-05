@@ -46,7 +46,7 @@ All 3rd party clients will update as needed.
 | DiscordQt | https://github.com/ruslang02/discord-qt | A Discord desktop client powered by Node.JS and NodeGui. | [Typescript](https://en.wikipedia.org/wiki/TypeScript) | 🟠 On hiatus since July 2021 |
 | EnhancedDiscord | https://github.com/joe27g/EnhancedDiscord | A lightweight Discord client mod. | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🔴 Abandonned |
 | Lightcord | https://github.com/Lightcord/Lightcord | Lightcord is a simple and customizable client for Discord. It includes BandagedBD, Glasstron and a discord.js-like api. | [Javascript](https://en.wikipedia.org/wiki/JavaScript), [Typescript](https://en.wikipedia.org/wiki/TypeScript) | 🔴 Discontinued and abandoned |
-| discord-lite(mac os x) | https://github.com/dosdude1/discord-lite | Mac OS X version 10.4 (Tiger) | Objective-C & html | 🔴 3 month hiatus |
+| Discord Lite | https://github.com/dosdude1/discord-lite | An ultra-lightweight native Discord client for vintage and modern Mac OS | [Objective-C](https://en.wikipedia.org/wiki/Objective-C) | 🟠 On hiatus since January 2022 |
 
 ### Reimplementations
 
