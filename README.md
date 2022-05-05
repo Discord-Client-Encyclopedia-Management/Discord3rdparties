@@ -13,6 +13,7 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
   * [Reimplementations](#reimplementations)
 * [Console clients](#console-clients)
 * [Other](#other)
+* [Contributing](#contributing)
 * [Further comments](#further-comments)
 
 ## Mobile clients
@@ -99,6 +100,10 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 | :---: | :---: | :---: | :---: | :---: |
 | Fosscord | https://fosscord.com/ | Fosscord is a free open source selfhostable discord compatible chat, voice and video platform | [Javascript](https://en.wikipedia.org/wiki/JavaScript), [Typescript](https://en.wikipedia.org/wiki/TypeScript) | 🟢 Active |
 | crocodile | https://github.com/tbodt/crocodile | Discord client for TempleOS. | [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) | 🟠 On hiatus since November 2017 | 
+
+## Contributing
+
+Please refer to [CONTRIBUTING.md](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties/blob/main/.github/CONTRIBUTING.md) if you want to contribute to this project.
 
 ## Further comments
 
