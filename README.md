@@ -2,6 +2,18 @@
 
 All 3rd party clients will update as needed.
 
+## Table of Contents
+
+* [Mobile clients](#mobile-clients)
+  * [Android](#android)
+  * [iOS](#ios)
+* [Desktop clients](#desktop-clients)
+  * [Official](#official)
+  * [Modded / Mods](#modded--mods)
+  * [Reimplementations](#reimplementations)
+* [Console clients](#console-clients)
+* [Other](#other)
+
 ## Mobile clients
 
 ### Android
@@ -21,7 +33,7 @@ All 3rd party clients will update as needed.
 | Enmity | https://enmity.app/ | The power of addons, all in your hand. | [Typescript](https://en.wikipedia.org/wiki/TypeScript) | 🟢 Active |
 | Discord Classic | https://github.com/cellomonster/iOS-Discord-Classic | A bare-bones Discord client for iOS 5 and 6. | [Objective-C](https://en.wikipedia.org/wiki/Objective-C) | 🔴 Discontinued |
 
-## For iOS
+## Desktop clients
 
 ### Official
 
@@ -70,7 +82,7 @@ All 3rd party clients will update as needed.
 | Terminalcord | https://github.com/xynxynxyn/terminal-discord | Simple terminal client for discord with a minimal look and UI. | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🔴 Discontinued |
 | Cordless | https://github.com/Bios-Marcel/cordless | Cordless is a custom Discord client that aims to have a low memory footprint and be aimed at power-users. | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) | ⛔ Discontinued and will make you ban |
 
-## Consoles clients
+## Console clients
 
 | Name | Link | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: | :---: |
