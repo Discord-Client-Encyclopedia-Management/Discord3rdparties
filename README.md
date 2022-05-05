@@ -53,31 +53,31 @@ All 3rd party clients will update as needed.
 | :---: | :---: | :---: | :---: | :---: |
 | Accord | https://github.com/evelyneee/accord | Client for modern Macs | [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)) | 🟢 Active |
 | Fast-Discord | https://github.com/EnyoYoen/Fast-Discord | Client written in C++ and Qt | [C++](https://en.wikipedia.org/wiki/C++) | 🟢 Active |
-| Disorder | https://github.com/lexffe/discorder | Command line discord client | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) | 🟠 On hiatus since November 2016 |
-| Cordless | https://github.com/Bios-Marcel/cordless | Cordless is a custom Discord client that aims to have a low memory footprint and be aimed at power-users. | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) | ⛔ Discontinued and will make you ban |
-| 6cord | https://6cord.diamondb.xyz/ | A terminal front-end for the Discord chat service | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) | 🔴 Discontinued |
-| Terminalcord | https://github.com/xynxynxyn/terminal-discord | Simple terminal client for discord with a minimal look and UI. | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🔴 Discontinued |
-| Discord-Lite | https://github.com/therealcyber71/Discord-Lite | A Light-Weight Discord Client written in Python for developers, by developers. | [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) | 🟠 On hiatus since March 2022 |
-| Pesterchum-Discord | https://github.com/henry232323/Pesterchum-Discord | A Discord client mimicking the Pesterchum chat client from Homestuck, for the few people who are still interested in that. | [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) | 🟠 On hiatus since July 2020 |
-| Discordo | https://github.com/ayntgl/discordo | A lightweight, secure, and feature-rich Discord terminal client | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) | 🔴 Discontinued |
-| Discline | https://github.com/mitchweaver/Discline | A terminal Discord client that you can actually use. | [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) | 🔴 Discontinued |
-| Voidcord | https://github.com/kunamech/voidcord | A lightweight and extendable Discord web client on top of Neutralinojs. | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🟠 On hiatus since January 2022 |
 | Abaddon | https://github.com/uowuo/abaddon | Alternative Discord client made in C++ with GTK | [C++](https://en.wikipedia.org/wiki/C++) | 🟢 Active |
 | GTK4cord | https://github.com/diamondburned/gtkcord4 | GTK4 Discord client in Go, attempt #4. | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) | 🟢 Active |
-| GTK3cord | https://github.com/diamondburned/gtkcord3 | A Gtk3 Discord client in Golang | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) | 🔴 Discontinued in favor of GTK4cord |
-| Ripcord | https://cancel.fm/ripcord/ | Alternative desktop chat client for Slack (and Discord) designed for power users. | | 🟠 On hiatus since July 2021 |
-| Discordflex | https://github.com/ZenithRogue/DiscordFlex | A custom Discord client built from the ground up. | [Javascript](https://en.wikipedia.org/wiki/JavaScript), [Vue.js](https://en.wikipedia.org/wiki/Vue.js) | 🟠 On hiatus since May 2020 |
 | Unicord | https://github.com/UnicordDev/Unicord | Discord Client for Windows 10 and Windows 10 Mobile | [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) | 🟢 Active |
-| Discord Lite | https://github.com/dosdude1/discord-lite | An ultra-lightweight native Discord client for vintage and modern Mac OS | [Objective-C](https://en.wikipedia.org/wiki/Objective-C) | 🟠 On hiatus since January 2022 |
+| Discord-Lite | https://github.com/therealcyber71/Discord-Lite | A Light-Weight Discord Client written in Python for developers, by developers. | [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) | 🟠 On hiatus since March 2022 |
+| Discord Lite | https://github.com/dosdude1/discord-lite | An ultra-lightweight native Discord client for vintage and modern MacOS | [Objective-C](https://en.wikipedia.org/wiki/Objective-C) | 🟠 On hiatus since January 2022 |
+| Voidcord | https://github.com/kunamech/voidcord | A lightweight and extendable Discord web client on top of Neutralinojs. | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🟠 On hiatus since January 2022 |
+| Ripcord | https://cancel.fm/ripcord/ | Alternative desktop chat client for Slack (and Discord) designed for power users. | | 🟠 On hiatus since July 2021 |
+| Pesterchum-Discord | https://github.com/henry232323/Pesterchum-Discord | A Discord client mimicking the Pesterchum chat client from Homestuck, for the few people who are still interested in that. | [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) | 🟠 On hiatus since July 2020 |
+| Discordflex | https://github.com/ZenithRogue/DiscordFlex | A custom Discord client built from the ground up. | [Javascript](https://en.wikipedia.org/wiki/JavaScript), [Vue.js](https://en.wikipedia.org/wiki/Vue.js) | 🟠 On hiatus since May 2020 |
+| Disorder | https://github.com/lexffe/discorder | Command line discord client | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) | 🟠 On hiatus since November 2016 |
+| GTK3cord | https://github.com/diamondburned/gtkcord3 | A Gtk3 Discord client in Golang | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) | 🔴 Discontinued in favor of GTK4cord |
+| Discordo | https://github.com/ayntgl/discordo | A lightweight, secure, and feature-rich Discord terminal client | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) | 🔴 Discontinued |
+| Discline | https://github.com/mitchweaver/Discline | A terminal Discord client that you can actually use. | [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) | 🔴 Discontinued |
+| 6cord | https://6cord.diamondb.xyz/ | A terminal front-end for the Discord chat service | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) | 🔴 Discontinued |
+| Terminalcord | https://github.com/xynxynxyn/terminal-discord | Simple terminal client for discord with a minimal look and UI. | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🔴 Discontinued |
+| Cordless | https://github.com/Bios-Marcel/cordless | Cordless is a custom Discord client that aims to have a low memory footprint and be aimed at power-users. | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) | ⛔ Discontinued and will make you ban |
 
 ## Consoles clients
 
 | Name | Link | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: | :---: |
-| Switchcord | https://github.com/vbe0201/switchcord | An unofficial Discord client for the Nintendo Switch console. | [C++](https://en.wikipedia.org/wiki/C++) | 🔴 Discontinued |
 | Unofficial Discord 3DS Client | https://github.com/yourWaifu/Unofficial-Discord-3DS-Client | This just a simple Discord client for the 3DS build using the `Sleepy Discord` library and the `Wslay` library. | [C++](https://en.wikipedia.org/wiki/C++) | 🟠 On hiatus since November 2017 |
 | Vitacord | https://github.com/devingDev/VitaCord | Discord Client for PS Vita / PS TV | [C++](https://en.wikipedia.org/wiki/C++) |  🟠 On hiatus since March 2018 |
 | NXCord | https://github.com/Grarak/NXCord | Unofficial Nintendo Switch Discord client | [C++](https://en.wikipedia.org/wiki/C++) | 🟠 On hiatus since April 2020 |
+| Switchcord | https://github.com/vbe0201/switchcord | An unofficial Discord client for the Nintendo Switch console. | [C++](https://en.wikipedia.org/wiki/C++) | 🔴 Discontinued |
 | 3DiScord | https://github.com/cheuble/3DiScord | A Discord client for the Nintendo 3DS | [C++](https://en.wikipedia.org/wiki/C++) | ⛔ Discontinued and will make you ban |
 
 ## Other
