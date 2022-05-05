@@ -35,7 +35,7 @@ All 3rd party clients will update as needed.
 
 | Name | Link | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: | :---: |
-| Openasar | https://github.com/GooseMod/OpenAsar | Alternative `app.asar` for Discord. Makes your client feel snappier. | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🟢 Active |
+| Openasar | https://openasar.dev/ | Alternative `app.asar` for Discord. Makes your client feel snappier. | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🟢 Active |
 | BetterDiscord | https://betterdiscord.app/ | BetterDiscord extends the functionality of DiscordApp by enhancing it with new features.  | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🟢 Active |
 | Kernel | https://github.com/kernel-mod | A super small and fast Electron client mod with the most capability. | [Typescript](https://en.wikipedia.org/wiki/TypeScript) | 🟢 Active |
 | Powercord | https://powercord.dev/ | A lightweight Discord client mod focused on simplicity and performance. | [Javascript](https://en.wikipedia.org/wiki/JavaScript), [Typescript](https://en.wikipedia.org/wiki/TypeScript) | 🟢 Active |
