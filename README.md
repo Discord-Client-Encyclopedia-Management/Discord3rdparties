@@ -46,7 +46,6 @@ All 3rd party clients will update as needed.
 | DiscordQt | https://github.com/ruslang02/discord-qt | A Discord desktop client powered by Node.JS and NodeGui. | [Typescript](https://en.wikipedia.org/wiki/TypeScript) | 🟠 On hiatus since July 2021 |
 | EnhancedDiscord | https://github.com/joe27g/EnhancedDiscord | A lightweight Discord client mod. | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🔴 Abandonned |
 | Lightcord | https://github.com/Lightcord/Lightcord | Lightcord is a simple and customizable client for Discord. It includes BandagedBD, Glasstron and a discord.js-like api. | [Javascript](https://en.wikipedia.org/wiki/JavaScript), [Typescript](https://en.wikipedia.org/wiki/TypeScript) | 🔴 Discontinued and abandoned |
-| Discord Lite | https://github.com/dosdude1/discord-lite | An ultra-lightweight native Discord client for vintage and modern Mac OS | [Objective-C](https://en.wikipedia.org/wiki/Objective-C) | 🟠 On hiatus since January 2022 |
 
 ### Reimplementations
 
@@ -69,6 +68,7 @@ All 3rd party clients will update as needed.
 | Ripcord | https://cancel.fm/ripcord/ | Alternative desktop chat client for Slack (and Discord) designed for power users. | | 🟠 On hiatus since July 2021 |
 | Discordflex | https://github.com/ZenithRogue/DiscordFlex | A custom Discord client built from the ground up. | [Javascript](https://en.wikipedia.org/wiki/JavaScript), [Vue.js](https://en.wikipedia.org/wiki/Vue.js) | 🟠 On hiatus since May 2020 |
 | Unicord | https://github.com/UnicordDev/Unicord | Discord Client for Windows 10 and Windows 10 Mobile | [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) | 🟢 Active |
+| Discord Lite | https://github.com/dosdude1/discord-lite | An ultra-lightweight native Discord client for vintage and modern Mac OS | [Objective-C](https://en.wikipedia.org/wiki/Objective-C) | 🟠 On hiatus since January 2022 |
 
 ## Consoles clients
 
