@@ -56,6 +56,7 @@ All 3rd party clients will update as needed.
 | Abaddon | https://github.com/uowuo/abaddon | Alternative Discord client made in C++ with GTK | [C++](https://en.wikipedia.org/wiki/C++) | 🟢 Active |
 | GTK4cord | https://github.com/diamondburned/gtkcord4 | GTK4 Discord client in Go, attempt #4. | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) | 🟢 Active |
 | Unicord | https://github.com/UnicordDev/Unicord | Discord Client for Windows 10 and Windows 10 Mobile | [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) | 🟢 Active |
+| Fosscord | https://fosscord.com/ | Fosscord is a free open source selfhostable discord compatible chat, voice and video platform | [Javascript](https://en.wikipedia.org/wiki/JavaScript), [Typescript](https://en.wikipedia.org/wiki/TypeScript) | 🟢 Active |
 | Discord-Lite | https://github.com/therealcyber71/Discord-Lite | A Light-Weight Discord Client written in Python for developers, by developers. | [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) | 🟠 On hiatus since March 2022 |
 | Discord Lite | https://github.com/dosdude1/discord-lite | An ultra-lightweight native Discord client for vintage and modern MacOS | [Objective-C](https://en.wikipedia.org/wiki/Objective-C) | 🟠 On hiatus since January 2022 |
 | Voidcord | https://github.com/kunamech/voidcord | A lightweight and extendable Discord web client on top of Neutralinojs. | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🟠 On hiatus since January 2022 |
