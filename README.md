@@ -42,7 +42,7 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 | Name | Link | Infos |
 | :---: | :---: | :---: |
 | Discord |[[Web](https://discord.com/app)] [[Windows](https://discord.com/api/download/?platform=win)] [[macOS](https://discord.com/api/download/?platform=osx)] [[Debian/Ubuntu](https://discord.com/api/download/?platform=linux)] [[Tarball](https://discord.com/api/download/?platform=linux&format=tar.gz)] | Main software ||
-| Discord PTB | [[Web](https://ptb.discord.com/app)] [[Windows](https://discord.com/api/download/ptb?platform=win)] [[macOS](https://discord.com/api/download/ptb?platform=osx)] [[Debian/Ubuntu](https://discord.com/api/downloadptb?platform=linux)] [[Tarball](https://discord.com/api/download/ptb?platform=linux&format=tar.gz)] | Public Test Build ||
+| Discord PTB | [[Web](https://ptb.discord.com/app)] [[Windows](https://discord.com/api/download/ptb?platform=win)] [[macOS](https://discord.com/api/download/ptb?platform=osx)] [[Debian/Ubuntu](https://discord.com/api/download/ptb?platform=linux)] [[Tarball](https://discord.com/api/download/ptb?platform=linux&format=tar.gz)] | Public Test Build ||
 | Discord Canary | [[Web](https://canary.discord.com/app)] [[Windows](https://discord.com/api/download/canary?platform=win)] [[macOS](https://discord.com/api/download/canary?platform=osx)] [[Debian/Ubuntu](https://discord.com/api/download/canary?platform=linux)] [[Tarball](https://discord.com/api/download/canary?platform=linux&format=tar.gz)] | Discord's [canary build](https://semaphoreci.com/blog/what-is-canary-deployment), releases features earlier than PTB |
 
 ### Modded / Mods
