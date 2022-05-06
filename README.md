@@ -88,6 +88,7 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 
 | Name | Link | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: | :---: |
+| A-client-for-Discord-for-3DS | https://github.com/XeathJP/A-client-for-Discord-for-3DS | Applications that can use discord on 3DS | [C++](https://en.wikipedia.org/wiki/C++) | 🟠 On hiatus, since since January 2022 |
 | NXCord | https://github.com/Grarak/NXCord | Unofficial Nintendo Switch Discord client | [C++](https://en.wikipedia.org/wiki/C++) | 🟠 On hiatus, since April 2020 |
 | Vitacord | https://github.com/devingDev/VitaCord | Discord Client for PS Vita / PS TV | [C++](https://en.wikipedia.org/wiki/C++) | 🟠 On hiatus, since March 2018 |
 | Unofficial Discord 3DS Client | https://github.com/yourWaifu/Unofficial-Discord-3DS-Client | This just a simple Discord client for the 3DS build using the `Sleepy Discord` library and the `Wslay` library. | [C++](https://en.wikipedia.org/wiki/C++) | 🟠 On hiatus, since November 2017 |
