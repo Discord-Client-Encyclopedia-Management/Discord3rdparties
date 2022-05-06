@@ -101,6 +101,7 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 | :---: | :---: | :---: | :---: | :---: |
 | Fosscord | https://fosscord.com/ | Fosscord is a free open source selfhostable discord compatible chat, voice and video platform | [Javascript](https://en.wikipedia.org/wiki/JavaScript), [Typescript](https://en.wikipedia.org/wiki/TypeScript) | 🟢 Active |
 | crocodile | https://github.com/tbodt/crocodile | Discord client for TempleOS. | [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) | 🟠 On hiatus, since November 2017 |
+| discord-ppc | https://github.com/vistafan12/discord-ppc | Discord version for PowerPC architecture | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🟠 On hiatus, since June 2017 |
 
 ## Contributing
 
