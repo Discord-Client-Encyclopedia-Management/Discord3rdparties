@@ -15,6 +15,7 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 * [Other](#other)
 * [Contributing](#contributing)
 * [Further comments](#further-comments)
+* [Disclaimer](#disclaimer)
 
 ## Mobile clients
 
@@ -111,8 +112,8 @@ Please refer to [CONTRIBUTING.md](https://github.com/Discord-Client-Encyclopedia
 
 Will update as needed!
 
-Feel free to dm me on discord if you discover more!
+Feel free to dm @lexyclear on Discord if you discover more! `DoggoVT#5773`
 
-I am not responsible for you getting banned from using a 3rd party or you getting kicked from servers.
+## Disclaimer
 
-Discord @DoggoVT#5773
+We (contributors to this project) are not responsible for you getting banned from using a 3rd party or you getting kicked from servers.
