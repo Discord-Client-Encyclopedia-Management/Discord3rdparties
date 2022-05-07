@@ -58,7 +58,6 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 | Cumcord | https://github.com/Cumcord/Cumcord | Cumcord is a Discord client mod that focuses on making the Discord plugin development experience easier. | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🟢 Active |
 | Armcord | https://github.com/armcord/armcord | ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight. | [Typescript](https://en.wikipedia.org/wiki/TypeScript) | 🟢 Active |
 | Vizality | https://vizality.com/ | An Discord app client modification, allowing for a truly customizable experience through the use of plugins, themes, and built-in settings. *Runs on web browsers too* | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🟢 Active *(Closed Alpha)* |
-| DiscordQt | https://github.com/ruslang02/discord-qt | A Discord desktop client powered by Node.JS and NodeGui. | [Typescript](https://en.wikipedia.org/wiki/TypeScript) | 🟠 On hiatus, since July 2021 |
 | EnhancedDiscord | https://github.com/joe27g/EnhancedDiscord | A lightweight Discord client mod. | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🔴 Abandoned |
 | Lightcord | https://github.com/Lightcord/Lightcord | Lightcord is a simple and customizable client for Discord. It includes BandagedBD, Glasstron and a discord.js-like api. | [Javascript](https://en.wikipedia.org/wiki/JavaScript), [Typescript](https://en.wikipedia.org/wiki/TypeScript) | 🔴 Discontinued, and abandoned |
 
@@ -75,6 +74,7 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 | Discord Lite | https://github.com/dosdude1/discord-lite | An ultra-lightweight native Discord client for vintage and modern MacOS | [Objective-C](https://en.wikipedia.org/wiki/Objective-C) | 🟠 On hiatus, since January 2022 |
 | Voidcord | https://github.com/kunamech/voidcord | A lightweight and extendable Discord web client on top of Neutralinojs. | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🟠 On hiatus, since January 2022 |
 | Ripcord | https://cancel.fm/ripcord/ | Alternative desktop chat client for Slack (and Discord) designed for power users. | | 🟠 On hiatus, since July 2021 |
+| DiscordQt | https://github.com/ruslang02/discord-qt | A Discord desktop client powered by Node.JS and NodeGui. | [Typescript](https://en.wikipedia.org/wiki/TypeScript) | 🟠 On hiatus, since July 2021 |
 | Pesterchum-Discord | https://github.com/henry232323/Pesterchum-Discord | A Discord client mimicking the Pesterchum chat client from Homestuck, for the few people who are still interested in that. | [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) | 🟠 On hiatus, since July 2020 |
 | Discordflex | https://github.com/ZenithRogue/DiscordFlex | A custom Discord client built from the ground up. | [Javascript](https://en.wikipedia.org/wiki/JavaScript), [Vue.js](https://en.wikipedia.org/wiki/Vue.js) | 🟠 On hiatus, since May 2020 |
 | Disorder | https://github.com/lexffe/discorder | Command line discord client | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) | 🟠 On hiatus, since November 2016 |
