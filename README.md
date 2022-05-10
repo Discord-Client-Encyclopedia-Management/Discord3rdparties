@@ -112,8 +112,6 @@ Please refer to [CONTRIBUTING.md](https://github.com/Discord-Client-Encyclopedia
 
 Will update as needed!
 
-Feel free to dm @lexyclear on Discord if you discover more! `DoggoVT#5773`
-
 ## Disclaimer
 
 We (contributors to this project) are not responsible for you getting banned from using a 3rd party or you getting kicked from servers.
