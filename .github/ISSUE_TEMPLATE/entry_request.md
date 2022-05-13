@@ -1,3 +1,10 @@
+---
+name: Suggestion
+about: You know a client or mod that isn't on our list and want it to be added.
+labels: suggestion
+
+---
+
 <!-- CLICK "Preview" FOR INSTRUCTIONS IN A MORE READABLE FORMAT -->
 
 ## Description
