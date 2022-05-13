@@ -67,6 +67,7 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
+| [Swiftcord](https://github.com/cryptoAlgorithm/Swiftcord) | A completely native Discord client for macOS built 100% in Swift and SwiftUI! | [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)) | 🟢 Active |
 | [Discord-PWA](https://github.com/NeverDecaf/discord-PWA) | A wrapper for the Discord web client as a Progressive Web Application, for use with Chromium based browsers. | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🟢 Active |
 | [Discord-Sandbox](https://githubc.com/khlam/discord-sandboxed) | Open-source Sandbox Discord client for the privacy-minded. Say NO to intrusive data collection. | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🟢 Active |
 | [Accord](https://github.com/evelyneee/accord) | Client for modern Macs | [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)) | 🟢 Active |
