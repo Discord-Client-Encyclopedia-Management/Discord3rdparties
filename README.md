@@ -71,6 +71,7 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 | [Accord](https://github.com/evelyneee/accord) | Client for modern Macs | [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)) | 🟢 Active |
 | [Discord-PWA](https://github.com/NeverDecaf/discord-PWA) | A wrapper for the Discord web client as a Progressive Web Application, for use with Chromium based browsers. | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🟢 Active |
 | [Discord-Sandbox](https://github.com/khlam/discord-sandboxed) | Open-source Sandbox Discord client for the privacy-minded. Say NO to intrusive data collection. | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🟢 Active |
+| [Discordo](https://github.com/ayntgl/discordo) | A lightweight, secure, and feature-rich Discord terminal client | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) | 🟢 Active |
 | [Fast-Discord](https://github.com/EnyoYoen/Fast-Discord) | Client written in C++ and Qt | [C++](https://en.wikipedia.org/wiki/C++) | 🟢 Active |
 | [GTK4cord](https://github.com/diamondburned/gtkcord4) | GTK4 Discord client in Go, attempt #4. | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) | 🟢 Active |
 | [Swiftcord](https://github.com/cryptoAlgorithm/Swiftcord) | A completely native Discord client for macOS built 100% in Swift and SwiftUI! | [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)) | 🟢 Active |
@@ -86,7 +87,6 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 | [Disorder](https://github.com/lexffe/discorder) | Command line discord client | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) | 🟠 On hiatus, since November 2016 |
 | [6cord](https://6cord.diamondb.xyz/) | A terminal front-end for the Discord chat service | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) | 🔴 Discontinued |
 | [Terminalcord](https://github.com/xynxynxyn/terminal-discord) | Simple terminal client for discord with a minimal look and UI. | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🔴 Discontinued |
-| [Discordo](https://github.com/ayntgl/discordo) | A lightweight, secure, and feature-rich Discord terminal client | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) | 🔴 Discontinued |
 | [Discline](https://github.com/mitchweaver/Discline) | A terminal Discord client that you can actually use. | [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) | 🔴 Discontinued |
 | [GTK3cord](https://github.com/diamondburned/gtkcord3) | A Gtk3 Discord client in Golang | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) | 🔴 Discontinued. development shifted to GTK4cord |
 | [Discord-Terminal](https://github.com/atlx/discord-term) | An extensible Discord terminal client. Can be used with bot or user tokens. | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🔴 Discontinued, Looking for maintainers |
