@@ -88,6 +88,7 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 | [Pesterchum-Discord](https://github.com/henry232323/Pesterchum-Discord) | A Discord client mimicking the Pesterchum chat client from Homestuck, for the few people who are still interested in that. | [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) | 🟠 On hiatus, since July 2020 |
 | [DiscordFlex](https://github.com/ZenithRogue/DiscordFlex) | A custom Discord client built from the ground up. | [Javascript](https://en.wikipedia.org/wiki/JavaScript), [Vue.js](https://en.wikipedia.org/wiki/Vue.js) | 🟠 On hiatus, since May 2020 |
 | [Disorder](https://github.com/lexffe/discorder) | Command line discord client | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) | 🟠 On hiatus, since November 2016 |
+| [Harmony](https://github.com/hlafaille/Harmony) | A Java-based Discord client. | [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) | 🔴 Discontinued |
 | [6cord](https://6cord.diamondb.xyz/) | A terminal front-end for the Discord chat service | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) | 🔴 Discontinued |
 | [Terminalcord](https://github.com/xynxynxyn/terminal-discord) | Simple terminal client for discord with a minimal look and UI. | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🔴 Discontinued |
 | [Discline](https://github.com/mitchweaver/Discline) | A terminal Discord client that you can actually use. | [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) | 🔴 Discontinued |
