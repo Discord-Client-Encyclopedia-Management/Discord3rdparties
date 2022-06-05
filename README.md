@@ -60,6 +60,7 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 | [OpenAsar](https://openasar.dev/) | Alternative `app.asar` for Discord. Makes your client feel snappier. | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🟢 Active |
 | [Powercord](https://powercord.dev/) | A lightweight Discord client mod focused on simplicity and performance. | [Javascript](https://en.wikipedia.org/wiki/JavaScript), [Typescript](https://en.wikipedia.org/wiki/TypeScript) | 🟢 Active |
 | [Vizality](https://vizality.com/) | An Discord app client modification, allowing for a truly customizable experience through the use of plugins, themes, and built-in settings. *Runs on web browsers too* | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🟢 Active *(Closed Alpha)* |
+| [Crycord](https://crycord.geopjr.dev/) | A Discord Client modification with plugins. Uses BeautifulDiscord's CSS injector. Oh it's also written in Crystal! | [Crystal](https://en.wikipedia.org/wiki/Crystal_(programming_language)) | 🟠 On hiatus, since May 2021 |
 | [EnhancedDiscord](https://github.com/joe27g/EnhancedDiscord) | A lightweight Discord client mod. | [Javascript](https://en.wikipedia.org/wiki/JavaScript) | 🔴 Abandoned |
 | [Lightcord](https://github.com/Lightcord/Lightcord) | Lightcord is a simple and customizable client for Discord. It includes BandagedBD, Glasstron and a discord.js-like api. | [Javascript](https://en.wikipedia.org/wiki/JavaScript), [Typescript](https://en.wikipedia.org/wiki/TypeScript) | 🔴 Discontinued, and abandoned |
 
