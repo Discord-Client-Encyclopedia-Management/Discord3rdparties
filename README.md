@@ -127,7 +127,7 @@ Please refer to [CONTRIBUTING.md](https://github.com/Discord-Client-Encyclopedia
 
 Will update as needed!
 
-If you would like feel free to reach out to DoggoVT#5773(head of team) to send more clients found!
+If you would like feel free to reach out to DoggoVT#5773(Head of Team) to send more clients found!
 
 ## Disclaimer
 
