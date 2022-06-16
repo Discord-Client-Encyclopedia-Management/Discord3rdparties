@@ -127,6 +127,8 @@ Please refer to [CONTRIBUTING.md](https://github.com/Discord-Client-Encyclopedia
 
 Will update as needed!
 
+If you would like feel free to reach out to DoggoVT#5773(head of team) to send more clients found!
+
 ## Disclaimer
 
-We (contributors to this project) are not responsible for you getting banned from using a 3rd party or you getting kicked from servers.
+We (contributors) are not responsible for you getting banned from using a 3rd party or you getting kicked from servers.
