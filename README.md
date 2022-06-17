@@ -114,6 +114,7 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
+| [purple-discord](https://github.com/EionRobb/purple-discord) | A libpurple/Pidgin plugin for Discord | [![C][C-Badge]][C-Url] | 🟢 Active |
 | [Fosscord](https://fosscord.com/) | Fosscord is a free open source selfhostable discord compatible chat, voice and video platform | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [discord-aos](https://github.com/ruslang02/discord-aos) | Discord client for Sailfish OS  | [![Qt][Qt-Badge]][Qt-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 On hiatus, since November 2021 |
 | [crocodile](https://github.com/tbodt/crocodile) | Discord client for TempleOS. | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since November 2017 |
@@ -132,6 +133,9 @@ If you would like feel free to reach out to DoggoVT#5773(Head of Team) to send m
 ## Disclaimer
 
 We (contributors) are not responsible for you getting banned from using a 3rd party or you getting kicked from servers.
+
+[C-Badge]: https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white
+[C-Url]: https://en.wikipedia.org/wiki/C_(programming_language)
 
 [C++-Badge]: https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white
 [C++-Url]: https://en.wikipedia.org/wiki/C++
