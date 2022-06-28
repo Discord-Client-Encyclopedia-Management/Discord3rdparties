@@ -6,22 +6,22 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 
 - [Discord Client Encyclopedia](#discord-client-encyclopedia)
 	- [Table of Contents](#table-of-contents)
-	- [Mobile clients](#mobile-clients)
-		- [Android](#android)
-		- [iOS](#ios)
-	- [Desktop clients](#desktop-clients)
-		- [Official](#official)
-		- [Modded / Mods](#modded--mods)
-		- [Reimplementations](#reimplementations)
+	- [Mobile](#mobile)
+		- [Android Clients & Mods](#android-clients--mods)
+		- [iOS Clients & Mods](#ios-clients--mods)
+	- [Desktop](#desktop)
+		- [Official Clients](#official-clients)
+		- [Mods](#mods)
+		- [Third-Party Reimplementations](#third-party-reimplementations)
 	- [Console clients](#console-clients)
 	- [Other](#other)
 	- [Contributing](#contributing)
 	- [Further comments](#further-comments)
 	- [Disclaimer](#disclaimer)
 
-## Mobile clients
+## Mobile
 
-### Android
+### Android Clients & Mods
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
@@ -31,16 +31,16 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 | [Treecord](https://github.com/Treecord/Treecord) | A modded Discord client for Android! | [![Shell Script][Shell Script-Badge]][Shell Script-Url] |  🟠 On hiatus, since April 2021 |
 | [~~Bluecord~~](https://bluesmods.com/bluecord/) | Modded client mod for android | Closed Source | ⛔ Malware (scams and spying) |
 
-### iOS
+### iOS Clients & Mods
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
 | [Enmity](https://enmity.app/) | The power of addons, all in your hand. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Discord Classic](https://github.com/cellomonster/iOS-Discord-Classic) | A bare-bones Discord client for iOS 5 and 6. | [![Objective-C][Objective-C-Badge]][Objective-C-Url] | 🔴 Discontinued |
 
-## Desktop clients
+## Desktop
 
-### Official
+### Official Clients
 
 | Name | Link | Infos |
 | :---: | :---: | :---: |
@@ -49,7 +49,7 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 | [Discord Canary](https://canary.discord.com) | [Web](https://canary.discord.com/app), [Windows](https://discord.com/api/download/canary?platform=win), [macOS](https://discord.com/api/download/canary?platform=osx), [Debian/Ubuntu](https://discord.com/api/download/canary?platform=linux), [Tarball](https://discord.com/api/download/canary?platform=linux&format=tar.gz) | Discord's [canary build](https://semaphoreci.com/blog/what-is-canary-deployment), releases features earlier than PTB |
 | Discord Development | [Windows](https://discord.com/api/download/development?platform=win), [macOS](https://discord.com/api/download/development?platform=osx), [Debian/Ubuntu](https://discord.com/api/download/development?platform=linux), [Tarball](https://discord.com/api/download/development?platform=linux&format=tar.gz) | Essentially Discord's canary build but with updates a few days earlier |
 
-### Modded / Mods
+### Mods
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
@@ -66,7 +66,7 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 | [EnhancedDiscord](https://github.com/joe27g/EnhancedDiscord) | A lightweight Discord client mod. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Abandoned |
 | [Lightcord](https://github.com/Lightcord/Lightcord) | Lightcord is a simple and customizable client for Discord. It includes BandagedBD, Glasstron and a discord.js-like api. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued, and abandoned |
 
-### Reimplementations
+### Third-Party Reimplementations
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
