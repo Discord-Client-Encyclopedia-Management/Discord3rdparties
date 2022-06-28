@@ -140,7 +140,7 @@ We (contributors) are not responsible for you getting banned from using a 3rd pa
 [C++-Badge]: https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white
 [C++-Url]: https://en.wikipedia.org/wiki/C++
 
-[C#-Badge]: https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white
+[C#-Badge]: https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white
 [C#-Url]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 
 [Crystal-Badge]: https://img.shields.io/badge/Crystal-%23000000.svg?style=flat&logo=crystal&logoColor=white
