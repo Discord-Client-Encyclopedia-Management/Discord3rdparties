@@ -18,4 +18,4 @@ Please be aware of the following things when making suggestions:
    issue will likely be closed extremely abruptly.
 2. Make sure that the information you provided is accurate and if the
    project does not says it's archived or discontinued, it will be
-   marked as on hiatus.
+   marked as on hiatus. 👍
