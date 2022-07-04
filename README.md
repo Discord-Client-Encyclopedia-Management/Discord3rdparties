@@ -61,7 +61,7 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 | [Kernel](https://github.com/kernel-mod) | A super small and fast Electron client mod with the most capability. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [OpenAsar](https://openasar.dev/) | Alternative `app.asar` for Discord. Makes your client feel snappier. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Powercord](https://powercord.dev/) | A lightweight Discord client mod focused on simplicity and performance. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
-| [Rikka](https://github.com/rikka-org/Rikka) | Free as in freedom Discord client mod | [![TypeScript][TypeScript-Badge]][TypeScript-Url] [![Rust][Rust-Badge]][Rust-Url] | 🟢 Active
+| [Rikka](https://github.com/rikka-org/Rikka) | Free as in freedom Discord client mod | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active
 | [Vizality](https://vizality.com/) | An Discord app client modification, allowing for a truly customizable experience through the use of plugins, themes, and built-in settings. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active *(Closed Alpha)* |
 | [Crycord](https://crycord.geopjr.dev/) | A Discord Client modification with plugins. Uses BeautifulDiscord's CSS injector. Oh it's also written in Crystal! | [![Crystal][Crystal-Badge]][Crystal-Url] | 🟠 On hiatus, since May 2021 |
 | [EnhancedDiscord](https://github.com/joe27g/EnhancedDiscord) | A lightweight Discord client mod. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Abandoned |
@@ -182,6 +182,3 @@ We (contributors) are not responsible for you getting banned from using a 3rd pa
 
 [Vue.js-Badge]: https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D
 [Vue.js-Url]: https://en.wikipedia.org/wiki/Vue.js
-
-[Rust-Badge]: https://img.shields.io/static/v1?style=flat&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF&label=
-[Rust-Url]: https://en.wikipedia.org/wiki/Rust_(programming_language)
