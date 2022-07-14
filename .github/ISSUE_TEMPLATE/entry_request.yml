@@ -28,7 +28,7 @@ body:
       id: entry-languages
       attributes:
           label: Language(s)
-          placeholder: Example: Javascript, Typescript
+          placeholder: "Example: Javascript, Typescript"
       validations:
           required: true
     - type: dropdown
@@ -36,10 +36,10 @@ body:
       attributes:
           label: Development Status
           options:
-            - Active
-            - On hiatus
-            - Discontinued
-            - Malware (scams and spying)
+              - Active
+              - On hiatus
+              - Discontinued
+              - Malware (scams and spying)
       validations:
           required: true
     - type: textarea
