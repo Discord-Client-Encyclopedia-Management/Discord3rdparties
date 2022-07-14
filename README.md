@@ -12,6 +12,7 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 	- [Desktop](#desktop)
 		- [Official Clients](#official-clients)
 		- [Mods](#mods)
+			- [Plugin bundlers](#plugin-bundlers)
 		- [Third-Party Reimplementations](#third-party-reimplementations)
 	- [Console clients](#console-clients)
 	- [Other](#other)
@@ -65,6 +66,14 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 | [Crycord](https://crycord.geopjr.dev/) | A Discord Client modification with plugins. Uses BeautifulDiscord's CSS injector. Oh it's also written in Crystal! | [![Crystal][Crystal-Badge]][Crystal-Url] | 🟠 On hiatus, since May 2021 |
 | [EnhancedDiscord](https://github.com/joe27g/EnhancedDiscord) | A lightweight Discord client mod. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Abandoned |
 | [Lightcord](https://github.com/Lightcord/Lightcord) | Lightcord is a simple and customizable client for Discord. It includes BandagedBD, Glasstron and a discord.js-like api. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued, and abandoned |
+
+#### Plugin bundlers
+
+| Name | Features | Language(s) | Development Status |
+| :---: | :---: | :---: | :---: |
+| [BetterDiscordBuilder](https://github.com/BetterDiscordBuilder/bdbuilder) | Simplified plugin bundler for BetterDiscord. Supports JSX/TSX and TypeScript | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
+| [Ittai (AAGaming's fork)](https://git.catvibers.me/Ittai/ittai) | Fork of Ittai that can bundle plugins to BetterDiscord, Powercord and Goosemod, making a plugin cross-platform. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
+| [Ittai (Original)](https://github.com/Kyza/ittai) | Bundler for BetterDiscord, Powercord and Goosemod, making a plugin cross-platform. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Abandoned |
 
 ### Third-Party Reimplementations
 
