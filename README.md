@@ -57,6 +57,7 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 | [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) | Simple Python script that adds CSS hot-reload to Discord. | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
 | [BetterDiscord](https://betterdiscord.app/) | BetterDiscord extends the functionality of DiscordApp by enhancing it with new features.  | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Cumcord](https://github.com/Cumcord/Cumcord) | Cumcord is a Discord client mod that focuses on making the Discord plugin development experience easier. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
+| [Demoncord](https://git.ruthenic.com/Demon/demoncord-rewrite) | A Discord client mod by satanists, for satanists. |[![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [GooseMod](https://goosemod.com/) | GooseMod is a new, store-driven Discord mod. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Topaz](https://topaz.goosemod.com/) | Topaz is an upcoming mod which aims to be "next-gen" by using advanced tech to add never-before-seen innovative features. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Kernel](https://github.com/kernel-mod) | A super small and fast Electron client mod with the most capability. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
