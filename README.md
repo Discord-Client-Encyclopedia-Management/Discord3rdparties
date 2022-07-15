@@ -54,12 +54,12 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
-| [Armcord](https://github.com/armcord/armcord) | ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) | Simple Python script that adds CSS hot-reload to Discord. | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
 | [BetterDiscord](https://betterdiscord.app/) | BetterDiscord extends the functionality of DiscordApp by enhancing it with new features.  | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Cumcord](https://github.com/Cumcord/Cumcord) | Cumcord is a Discord client mod that focuses on making the Discord plugin development experience easier. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Demoncord](https://git.ruthenic.com/Demon/demoncord-rewrite) | A Discord client mod by satanists, for satanists. |[![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
-| [Goosemod](https://goosemod.com/) | GooseMod is a new, store-driven Discord mod. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
+| [GooseMod](https://goosemod.com/) | GooseMod is a new, store-driven Discord mod. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
+| [Topaz](https://topaz.goosemod.com/) | Topaz is an upcoming mod which aims to be "next-gen" by using advanced tech to add never-before-seen innovative features. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Kernel](https://github.com/kernel-mod) | A super small and fast Electron client mod with the most capability. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [OpenAsar](https://openasar.dev/) | Alternative `app.asar` for Discord. Makes your client feel snappier. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Powercord](https://powercord.dev/) | A lightweight Discord client mod focused on simplicity and performance. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
@@ -82,6 +82,7 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 | :---: | :---: | :---: | :---: |
 | [Abaddon](https://github.com/uowuo/abaddon) | Alternative Discord client made in C++ with GTK | [![C++][C++-Badge]][C++-Url] | 🟢 Active |
 | [Accord](https://github.com/evelyneee/accord) | Client for modern Macs | [![Swift][Swift-Badge]][Swift-Url] | 🟢 Active |
+| [Armcord](https://github.com/armcord/armcord) | ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Discord-PWA](https://github.com/NeverDecaf/discord-PWA) | A wrapper for the Discord web client as a Progressive Web Application, for use with Chromium based browsers. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Discord-Sandbox](https://github.com/khlam/discord-sandboxed) | Open-source Sandbox Discord client for the privacy-minded. Say NO to intrusive data collection. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Discordo](https://github.com/ayntgl/discordo) | A lightweight, secure, and feature-rich Discord terminal client | [![Go][Go-Badge]][Go-Url] | 🟢 Active |
