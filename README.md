@@ -63,6 +63,7 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 | [Kernel](https://github.com/kernel-mod) | A super small and fast Electron client mod with the most capability. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [OpenAsar](https://openasar.dev/) | Alternative `app.asar` for Discord. Makes your client feel snappier. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Powercord](https://powercord.dev/) | A lightweight Discord client mod focused on simplicity and performance. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
+| [Rikka](https://github.com/rikka-org/Rikka) | Free as in freedom Discord client mod | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active
 | [Vizality](https://vizality.com/) | An Discord app client modification, allowing for a truly customizable experience through the use of plugins, themes, and built-in settings. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active *(Closed Alpha)* |
 | [Crycord](https://crycord.geopjr.dev/) | A Discord Client modification with plugins. Uses BeautifulDiscord's CSS injector. Oh it's also written in Crystal! | [![Crystal][Crystal-Badge]][Crystal-Url] | 🟠 On hiatus, since May 2021 |
 | [EnhancedDiscord](https://github.com/joe27g/EnhancedDiscord) | A lightweight Discord client mod. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Abandoned |
