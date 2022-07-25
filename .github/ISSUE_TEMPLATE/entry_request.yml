@@ -1,0 +1,49 @@
+name: 🌟 Entry request
+description: You know a client or mod that isn't on our list and want it to be added.
+title: "[Entry]: <name>"
+labels: [suggestion]
+body:
+    - type: input
+      id: entry-name
+      attributes:
+          label: Name
+      validations:
+          required: true
+    - type: input
+      id: entry-link
+      attributes:
+          label: Link
+          description: Website, github link...
+      validations:
+          required: true
+    - type: input
+      id: entry-features
+      attributes:
+          label: Features
+          description: Small description with the main features of the entry.
+          placeholder: Often le description of the repo details.
+      validations:
+          required: true
+    - type: input
+      id: entry-languages
+      attributes:
+          label: Language(s)
+          placeholder: "Example: Javascript, Typescript"
+      validations:
+          required: true
+    - type: dropdown
+      id: entry-status
+      attributes:
+          label: Development Status
+          options:
+              - Active
+              - On hiatus
+              - Discontinued
+              - Malware (scams and spying)
+      validations:
+          required: true
+    - type: textarea
+      id: further-comments
+      attributes:
+          label: Further comments
+          description: If you have any comments about the client/mod or anything about it, the author history...
