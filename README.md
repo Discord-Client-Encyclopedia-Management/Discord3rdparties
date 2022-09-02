@@ -2,14 +2,9 @@
 
 A non-exhaustive collection of third-party clients and mods for Discord.
 
-## Disclaimer
-
-We (contributors) are not responsible for you getting banned from using a 3rd party or you getting kicked from servers.
-
 ## Table of Contents
 
 - [Discord Client Encyclopedia](#discord-client-encyclopedia)
-	- [Disclaimer](#disclaimer)
 	- [Table of Contents](#table-of-contents)
 	- [Mobile](#mobile)
 		- [Android Clients & Mods](#android-clients--mods)
@@ -23,6 +18,7 @@ We (contributors) are not responsible for you getting banned from using a 3rd pa
 	- [Other](#other)
 	- [Contributing](#contributing)
 	- [Further comments](#further-comments)
+	- [Disclaimer](#disclaimer)
 
 ## Mobile
 
@@ -152,6 +148,10 @@ Please refer to [CONTRIBUTING.md](https://github.com/Discord-Client-Encyclopedia
 Will update as needed!
 
 If you would like feel free to reach out to [DoggoVT#5773](https://discord.com/users/571095664050569227) (Head of Team) to send more clients found!
+
+## Disclaimer
+
+We (contributors) are not responsible for you getting banned from using a 3rd party or you getting kicked from servers.
 
 [C-Badge]: https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white
 [C-Url]: https://en.wikipedia.org/wiki/C_(programming_language)
