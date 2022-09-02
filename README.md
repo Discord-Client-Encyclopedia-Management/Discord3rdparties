@@ -150,7 +150,7 @@ Please refer to [CONTRIBUTING.md](https://github.com/Discord-Client-Encyclopedia
 
 Will update as needed!
 
-If you would like feel free to reach out to DoggoVT#5773(Head of Team) to send more clients found!
+If you would like feel free to reach out to [DoggoVT#5773](https://discord.com/users/571095664050569227) (Head of Team) to send more clients found!
 
 [C-Badge]: https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white
 [C-Url]: https://en.wikipedia.org/wiki/C_(programming_language)
