@@ -129,6 +129,7 @@ A non-exhaustive collection of Discord 3rd party clients and mods.
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
+| [Arcscord](https://github.com/Arcoz0308/arcscord) | NodeJS library written in typescript who interact with the Discord API | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [purple-discord](https://github.com/EionRobb/purple-discord) | A libpurple/Pidgin plugin for Discord | [![C][C-Badge]][C-Url] | 🟢 Active |
 | [Fosscord](https://fosscord.com/) | Fosscord is a free open source selfhostable discord compatible chat, voice and video platform | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [discord-aos](https://github.com/ruslang02/discord-aos) | Discord client for Sailfish OS  | [![Qt][Qt-Badge]][Qt-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 On hiatus, since November 2021 |
