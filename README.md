@@ -1,6 +1,6 @@
 # Discord Client Encyclopedia
 
-A non-exhaustive collection of Discord 3rd party clients and mods.
+A non-exhaustive collection of third-party clients and mods for Discord.
 
 ## Disclaimer
 
