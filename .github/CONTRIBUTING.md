@@ -1,6 +1,6 @@
 # How to contribute
 
-First off, thanks for taking the time to contribute! 🎉👍
+First off, thanks for taking the time to contribute! 🎉🎉👍
 
 ## You know a client or mod that isn't on our list ? 📝
 
