@@ -200,3 +200,6 @@ We (contributors) are not responsible for you getting banned from using a 3rd pa
 
 [Vue.js-Badge]: https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D
 [Vue.js-Url]: https://en.wikipedia.org/wiki/Vue.js
+
+[Zig-Badge]: https://img.shields.io/badge/Zig-%23F7A41D.svg?style=flat&logo=zig&logoColor=white
+[Zig-Url]: https://en.wikipedia.org/wiki/Zig_(programming_language)
