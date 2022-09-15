@@ -146,7 +146,7 @@ The following are server implementations that reimplement Discord's client-serve
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
-| [Litecord](https://gitlab.com/litecord/litecord) | Partial reimplementation of Discord API Server, not intended for self hosting | [![Python][JavaScript-Badge]][Python-Url] | 🟢 Active |
+| [Litecord](https://gitlab.com/litecord/litecord) | Partial reimplementation of Discord API Server, not intended for self hosting | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
 | [Fosscord](https://fosscord.com/) | Almost fully featured re-implementation of Discord API Server, intended for self hosting | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 
 
