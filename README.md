@@ -56,7 +56,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | :---: | :---: | :---: | :---: |
 | [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) | Simple Python script that adds CSS hot-reload to Discord. | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
 | [BetterDiscord](https://betterdiscord.app/) | BetterDiscord extends the functionality of DiscordApp by enhancing it with new features.  | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
-| [Cumcord](https://github.com/Cumcord/Cumcord) | Cumcord is a Discord client mod that focuses on making the Discord plugin development experience easier. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
+| [Cumcord](https://github.com/Cumcord/Cumcord) | Cumcord is a Discord client mod that focuses on making the Discord plugin development experience easier. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [Demoncord](https://git.ruthenic.com/Demon/demoncord-rewrite) | A Discord client mod by satanists, for satanists. |[![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [GooseMod](https://goosemod.com/) | GooseMod is a new, store-driven Discord mod. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [hykord](https://github.com/xHyroM/hykord) | xHyroM's @discord client modification. Supports BD Themes and is working on BD and PC/RP plugin support. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] [![Zig][Zig-Badge]][Zig-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
