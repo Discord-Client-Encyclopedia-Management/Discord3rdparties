@@ -215,5 +215,5 @@ We (contributors) are not responsible for you getting banned from using a 3rd pa
 [Zig-Badge]: https://img.shields.io/badge/Zig-%23F7A41D.svg?style=flat&logo=zig&logoColor=white
 [Zig-Url]: https://en.wikipedia.org/wiki/Zig_(programming_language)
 
-[Nim-Badge]: https://img.shields.io/badge/Zig-%23161820.svg?style=flat&logo=nim&logoColor=%23ffe953
+[Nim-Badge]: https://img.shields.io/badge/Nim-%23161820.svg?style=flat&logo=nim&logoColor=%23ffe953
 [Nim-Url]: https://en.wikipedia.org/wiki/Nim_(programming_language)
