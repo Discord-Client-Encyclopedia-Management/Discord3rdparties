@@ -27,7 +27,7 @@ To use a badge:
 | Javascript    | [![JavaScript][JavaScript-Badge]][JavaScript-Url]       | `[![JavaScript][JavaScript-Badge]][JavaScript-Url]`       |
 | Kotlin        | [![Kotlin][Kotlin-Badge]][Kotlin-Url]                   | `[![Kotlin][Kotlin-Badge]][Kotlin-Url]`                   |
 | Nim           | [![Nim][Nim-Badge]][Nim-Url]                            | `[![Nim][Nim-Badge]][Nim-Url]`                            |
-| Objective-C   | [![Objective-C][Objective-C-Badge]][Objective-C-Url]    | `[![Objective-C][Objective-C-Badge]][Objective-C-Url]`    |
+| Objective C   | [![Objective C][Objective C-Badge]][Objective C-Url]    | `[![Objective C][Objective C-Badge]][Objective C-Url]`    |
 | Python        | [![Python][Python-Badge]][Python-Url]                   | `[![Python][Python-Badge]][Python-Url]`                   |
 | Qt            | [![Qt][Qt-Badge]][Qt-Url]                               | `[![Qt][Qt-Badge]][Qt-Url]`                               |
 | Shell Script  | [![Shell Script][Shell Script-Badge]][Shell Script-Url] | `[![Shell Script][Shell Script-Badge]][Shell Script-Url]` |
@@ -66,8 +66,8 @@ To use a badge:
 [Nim-Badge]: https://img.shields.io/badge/Nim-%23161820.svg?style=flat&logo=nim&logoColor=%23ffe953
 [Nim-Url]: https://en.wikipedia.org/wiki/Nim_(programming_language) "Nim"
 
-[Objective-C-Badge]: https://img.shields.io/badge/Objective%20C-000000.svg?&style=flat&logo=Apple&logoColor=white
-[Objective-C-Url]: https://en.wikipedia.org/wiki/Objective-C "Objective-C"
+[Objective C-Badge]: https://img.shields.io/badge/Objective%20C-000000.svg?&style=flat&logo=Apple&logoColor=white
+[Objective C-Url]: https://en.wikipedia.org/wiki/Objective-C "Objective-C"
 
 [Python-Badge]: https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54
 [Python-Url]: https://en.wikipedia.org/wiki/Python_(programming_language) "Python"
