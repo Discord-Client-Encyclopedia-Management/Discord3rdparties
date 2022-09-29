@@ -152,7 +152,7 @@ The following are server implementations that reimplement Discord's client-serve
 
 ## Contributing
 
-Please refer to [CONTRIBUTING.md](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties/blob/main/.github/CONTRIBUTING.md) if you want to contribute to this project.
+Please refer to [CONTRIBUTING.md](/.github/CONTRIBUTING.md) if you want to contribute to this project.
 
 ## Further comments
 
