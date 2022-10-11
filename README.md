@@ -104,6 +104,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Discord-Lite](https://github.com/therealcyber71/Discord-Lite) | A Light-Weight Discord Client written in Python for developers, by developers. | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since March 2022 |
 | [Discord Lite](https://github.com/dosdude1/discord-lite) | An ultra-lightweight native Discord client for vintage and modern MacOS | [![Objective-C][Objective-C-Badge]][Objective-C-Url] | 🟠 On hiatus, since January 2022 |
 | [Voidcord](https://github.com/kunamech/voidcord) | A lightweight and extendable Discord web client on top of Neutralinojs. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟠 On hiatus, since January 2022 |
+| [Mirdorph](https://gitlab.gnome.org/ranchester/mirdorph) | A crappy low feature Discord Client using libadwaita | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since September 2021 |
 | [Ripcord](https://cancel.fm/ripcord/) | Alternative desktop chat client for Slack (and Discord) designed for power users. | Closed Source | 🟠 On hiatus, since July 2021 |
 | [DiscordQt](https://github.com/ruslang02/discord-qt) | A Discord desktop client powered by Node.JS and NodeGui. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 On hiatus, since July 2021 |
 | [protocord](https://github.com/diamondburned/protocord) | A prototype CLI for a tiny Discord client. | [![Go][Go-Badge]][Go-Url] | 🟠 On hiatus, since January 2021 |
