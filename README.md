@@ -26,7 +26,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
-| [Aliucord](https://github.com/Aliucord/Aliucord) | A modification for the Discord Android App | [![Java][Java-Badge]][Java-Url] [![Kotlin][Kotlin-Badge]][Kotlin-Url] [![Dart][Dart-Badge]][Dart-Url] | 🟠 Actively working on a new version, for now way out of date. |
+| [Aliucord](https://github.com/Aliucord/Aliucord) | A modification for the Discord Android App | [![Java][Java-Badge]][Java-Url] [![Kotlin][Kotlin-Badge]][Kotlin-Url] [![Dart][Dart-Badge]][Dart-Url] | 🛈🟠 Actively working on a new version, for now way out of date. |
 | [Opencord](https://github.com/X1nto/OpenCord) | An open-source reimplementation of the Discord Android app | [![Kotlin][Kotlin-Badge]][Kotlin-Url] | 🟢 Active |
 | [CutTheCord](https://gitdab.com/distok/cutthecord) | Modular Client Mod for Discord's Android app. | [![Python][Python-Badge]][Python-Url] [![Java][Java-Badge]][Java-Url] | 🟠 On hiatus, since August 2021 |
 | [Treecord](https://github.com/Treecord/Treecord) | A modded Discord client for Android! | [![Shell Script][Shell Script-Badge]][Shell Script-Url] |  🟠 On hiatus, since April 2021 |
