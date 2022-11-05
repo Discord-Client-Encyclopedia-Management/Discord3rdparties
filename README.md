@@ -26,7 +26,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
-| [Aliucord](https://github.com/Aliucord/Aliucord) | A modification for the Discord Android App | [![Java][Java-Badge]][Java-Url] [![Kotlin][Kotlin-Badge]][Kotlin-Url] [![Dart][Dart-Badge]][Dart-Url] | 🔵 Actively working on a new version, for now way out of date. |
+| [Aliucord](https://github.com/Aliucord/Aliucord) | A modification for the Discord Android App | [![Java][Java-Badge]][Java-Url] [![Kotlin][Kotlin-Badge]][Kotlin-Url] [![Dart][Dart-Badge]][Dart-Url] | 🔵 Active *(Out of date[^1]\)* |
 | [Opencord](https://github.com/X1nto/OpenCord) | An open-source reimplementation of the Discord Android app | [![Kotlin][Kotlin-Badge]][Kotlin-Url] | 🟢 Active |
 | [CutTheCord](https://gitdab.com/distok/cutthecord) | Modular Client Mod for Discord's Android app. | [![Python][Python-Badge]][Python-Url] [![Java][Java-Badge]][Java-Url] | 🟠 On hiatus, since August 2021 |
 | [Treecord](https://github.com/Treecord/Treecord) | A modded Discord client for Android! | [![Shell Script][Shell Script-Badge]][Shell Script-Url] |  🟠 On hiatus, since April 2021 |
@@ -98,7 +98,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [RyU](https://github.com/Muunatic/RyU) | Powerful Discord Client written in JavaScript. Lightweight, Efficient, Feature-rich. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Swiftcord](https://github.com/cryptoAlgorithm/Swiftcord) | A completely native Discord client for macOS built 100% in Swift and SwiftUI! | [![Swift][Swift-Badge]][Swift-Url] | 🟢 Active |
 | [Unicord](https://github.com/UnicordDev/Unicord) | Discord Client for Windows 10 and Windows 10 Mobile | [![C#][C#-Badge]][C#-Url] | 🟢 Active |
-| [WebCord](https://github.com/SpacingBat3/WebCord) | A Discord and Fosscord API-less client made with Electron | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active *(Variable[^1]\)* |
+| [WebCord](https://github.com/SpacingBat3/WebCord) | A Discord and Fosscord API-less client made with Electron | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 Active *(Variable[^2]\)* |
 | [NativeCord](https://github.com/andre4ik3/NativeCord) | SSB (site-specific browser) for Discord. In other words, all it does is load Discord as a website... in an app. | [![Swift][Swift-Badge]][Swift-Url] | 🟠 On hiatus, since March 2022 |
 | [Unofficial-discord-client](https://github.com/Coding-Bunker/unofficial-discord-client) | Unofficial client for discord build in C++ with Qt. | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since March 2022 |
 | [Discord-Lite](https://github.com/therealcyber71/Discord-Lite) | A Light-Weight Discord Client written in Python for developers, by developers. | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since March 2022 |
@@ -150,7 +150,8 @@ The following are server implementations that reimplement Discord's client-serve
 | [Fosscord](https://fosscord.com/) | Almost fully featured re-implementation of Discord API Server, intended for self hosting | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Litecord](https://gitlab.com/litecord/litecord) | Partial reimplementation of Discord API Server, not intended for self hosting | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since October 2022|
 
-[^1]: Some occasional breaks might occur depending on the maintainers' free time.
+[^1]: Discord brought a breaking change for the mod in question.
+[^2]: Some occasional breaks might occur depending on the maintainers' free time.
 
 ## Contributing
 
