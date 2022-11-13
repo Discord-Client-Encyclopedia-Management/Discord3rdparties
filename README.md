@@ -149,7 +149,6 @@ The following are server implementations that reimplement Discord's client-serve
 | :---: | :---: | :---: | :---: |
 | [Fosscord](https://fosscord.com/) | Almost fully featured re-implementation of Discord API Server, intended for self hosting | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Litecord](https://gitlab.com/litecord/litecord) | Partial reimplementation of Discord API Server, not intended for self hosting | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since October 2022|
-| Cacophony | A component of the Catalyst Matrix homeserver that speaks Discord's client-server API <!-- add a link to the discord-catalyst concept mapping --> | [![Rust][Rust-Badge]][Rust-Url] | 🟠 Work in progress|
 
 [^1]: Discord brought a breaking change for the mod in question.
 [^2]: Some occasional breaks might occur depending on the maintainers' free time.
