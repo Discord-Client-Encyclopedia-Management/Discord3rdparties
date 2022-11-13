@@ -1,0 +1,29 @@
+name: :rocket: Feature request
+description: Suggest a feature or entry to improve our list
+labels: [suggestion]
+body:
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Describe your suggestion
+      description: How can this list be improved? Explain the entry you want to add.
+      placeholder: |
+        Example:
+          "Cumcord is a Discord client mod that focuses on making the Discord plugin development experience easier."
+    validations:
+      required: true
+
+
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: Acknowledgements
+      description: Read this carefully, we will close and ignore your issue if you skimmed through this.
+      options:
+        - label: I have searched the existing issues and this is a new ticket, **NOT** a duplicate or related to another open issue.
+          required: true
+        - label: I have written a short but informative title.
+          required: true
+        - label: I have admitted that I am a clown by having checked this box, as I have not read these acknowledgements.
+        - label: I will fill out all of the requested information in this form.
+          required: true
