@@ -114,6 +114,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Harmony](https://github.com/hlafaille/Harmony) | A Java-based Discord client. | [![Java][Java-Badge]][Java-Url] | 🔴 Discontinued |
 | [6cord](https://6cord.diamondb.xyz/) | A terminal front-end for the Discord chat service | [![Go][Go-Badge]][Go-Url] | 🔴 Discontinued |
 | [Terminalcord](https://github.com/xynxynxyn/terminal-discord) | Simple terminal client for discord with a minimal look and UI. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
+| [discord-curses](https://github.com/RX14/discord-curses) | Terminal-based discord client | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Discline](https://github.com/mitchweaver/Discline) | A terminal Discord client that you can actually use. | [![Python][Python-Badge]][Python-Url] | 🔴 Discontinued |
 | [GTK3cord](https://github.com/diamondburned/gtkcord3) | A Gtk3 Discord client in Golang | [![Go][Go-Badge]][Go-Url] | 🔴 Discontinued. development shifted to GTK4cord |
 | [Discord-Terminal](https://github.com/atlx/discord-term) | An extensible Discord terminal client. Can be used with bot or user tokens. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued, Looking for maintainers |
