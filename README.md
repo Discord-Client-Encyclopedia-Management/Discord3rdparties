@@ -114,6 +114,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [DiscordFlex](https://github.com/ZenithRogue/DiscordFlex) | A custom Discord client built from the ground up. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![Vue.js][Vue.js-Badge]][Vue.js-Url] | 🟠 On hiatus, since May 2020 |
 | [micro-discord](https://github.com/soukouki/micro-discord) | Simple discord client that doesn't use javascript | [![Ruby][Ruby-Badge]][Ruby-Url] | 🟠 On hiatus, since March 2018 |
 | [Disorder](https://github.com/lexffe/discorder) | Command line discord client | [![Go][Go-Badge]][Go-Url] | 🟠 On hiatus, since November 2016 |
+| [Rikka](https://github.com/rikka-org/Rikka) | Rikka is a fast, powerful, and extendable Discord modification. It can load plugins, manage plugins, and features a rich API. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] [![JavaSript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [Harmony](https://github.com/hlafaille/Harmony) | A Java-based Discord client. | [![Java][Java-Badge]][Java-Url] | 🔴 Discontinued |
 | [6cord](https://6cord.diamondb.xyz/) | A terminal front-end for the Discord chat service | [![Go][Go-Badge]][Go-Url] | 🔴 Discontinued |
 | [Terminalcord](https://github.com/xynxynxyn/terminal-discord) | Simple terminal client for discord with a minimal look and UI. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
