@@ -211,6 +211,9 @@ We (contributors) are not responsible for you getting banned from using a 3rd pa
 [Qt-Badge]: https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white
 [Qt-Url]: https://en.wikipedia.org/wiki/QML "Qt"
 
+[Ruby-Badge]: https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white
+[Ruby-Url]: https://en.wikipedia.org/wiki/Ruby_(programming_language) "Ruby"
+
 [Shell Script-Badge]: https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white
 [Shell Script-Url]: https://en.wikipedia.org/wiki/Shell_script "Shell Script"
 
