@@ -112,6 +112,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [protocord](https://github.com/diamondburned/protocord) | A prototype CLI for a tiny Discord client. | [![Go][Go-Badge]][Go-Url] | 🟠 On hiatus, since January 2021 |
 | [Pesterchum-Discord](https://github.com/henry232323/Pesterchum-Discord) | A Discord client mimicking the Pesterchum chat client from Homestuck, for the few people who are still interested in that. | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since July 2020 |
 | [DiscordFlex](https://github.com/ZenithRogue/DiscordFlex) | A custom Discord client built from the ground up. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![Vue.js][Vue.js-Badge]][Vue.js-Url] | 🟠 On hiatus, since May 2020 |
+| [micro-discord](https://github.com/soukouki/micro-discord) | Simple discord client that doesn't use javascript | [![Ruby][Ruby-Badge]][Ruby-Url] | 🟠 On hiatus, since March 2018 |
 | [Disorder](https://github.com/lexffe/discorder) | Command line discord client | [![Go][Go-Badge]][Go-Url] | 🟠 On hiatus, since November 2016 |
 | [Harmony](https://github.com/hlafaille/Harmony) | A Java-based Discord client. | [![Java][Java-Badge]][Java-Url] | 🔴 Discontinued |
 | [6cord](https://6cord.diamondb.xyz/) | A terminal front-end for the Discord chat service | [![Go][Go-Badge]][Go-Url] | 🔴 Discontinued |
