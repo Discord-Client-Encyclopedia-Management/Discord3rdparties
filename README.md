@@ -170,7 +170,7 @@ Please refer to [CONTRIBUTING.md](/.github/CONTRIBUTING.md) if you want to contr
 Will update as needed!
 
 If you would like feel free to reach out to [Doggo#5484](https://discord.com/users/571095664050569227) (Head of Team) on the official discord:
-https://discord.gg/3kv5yzTYQE <
+https://discord.gg/3kv5yzTYQE 
 
 ## Disclaimer
 
