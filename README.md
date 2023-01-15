@@ -75,7 +75,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Lightcord](https://github.com/Lightcord/Lightcord) | Lightcord is a simple and customizable client for Discord. It includes BandagedBD, Glasstron and a discord.js-like api. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued, and abandoned |
 | [Powercord](https://powercord.dev/) | A lightweight Discord client mod focused on simplicity and performance. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Topaz](https://topaz.goosemod.com/) | Topaz is an upcoming mod which aims to be "next-gen" by using advanced tech to add never-before-seen innovative features. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
-| ~~Acord~~ | Fix Discord’s sloppy jobs and breathe new life to the client. | Closed Source | ⛔ Malware (remote code execution backdoor) [^3] |
+| [~~Acord~~](https://acord.app/) | Fix Discord’s sloppy jobs and breathe new life to the client. | Closed Source | ⛔ Malware (remote code execution backdoor) [^3] |
 #### Plugin bundlers
 
 | Name | Features | Language(s) | Development Status |
