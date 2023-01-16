@@ -102,8 +102,8 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [GTK4cord](https://github.com/diamondburned/gtkcord4) | GTK4 Discord client in Go, attempt #4. | [![Go][Go-Badge]][Go-Url] | 🟢 Active |
 | [RyU](https://github.com/Muunatic/RyU) | Powerful Discord Client written in JavaScript. Lightweight, Efficient, Feature-rich. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Swiftcord](https://github.com/cryptoAlgorithm/Swiftcord) | A completely native Discord client for macOS built 100% in Swift and SwiftUI! | [![Swift][Swift-Badge]][Swift-Url] | 🟢 Active |
-| [Unicord](https://github.com/UnicordDev/Unicord) | Discord Client for Windows 10 and Windows 10 Mobile | [![C#][C#-Badge]][C#-Url] | 🟢 Active |
 | [WebCord](https://github.com/SpacingBat3/WebCord) | A Discord and Fosscord API-less client made with Electron | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 Active *(Variable[^2]\)* |
+| [Unicord](https://github.com/UnicordDev/Unicord) | Discord Client for Windows 10 and Windows 10 Mobile | [![C#][C#-Badge]][C#-Url] | 🟠 On hiatus, since April 2022 |
 | [NativeCord](https://github.com/andre4ik3/NativeCord) | SSB (site-specific browser) for Discord. In other words, all it does is load Discord as a website... in an app. | [![Swift][Swift-Badge]][Swift-Url] | 🟠 On hiatus, since March 2022 |
 | [Unofficial-discord-client](https://github.com/Coding-Bunker/unofficial-discord-client) | Unofficial client for discord build in C++ with Qt. | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since March 2022 |
 | [ToastCord](https://github.com/Traumatism/ToastCord) | Discord Terminal UI made in Python 3 | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since February 2022 |
