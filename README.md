@@ -56,6 +56,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
+| [Acord](https://acord.app/) | Fix Discord’s sloppy jobs and breathe new life to the client. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔵 Active *(Some obfuscated code[^3]\)* |
 | [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) | Simple Python script that adds CSS hot-reload to Discord. | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
 | [BetterDiscord](https://betterdiscord.app/) | BetterDiscord extends the functionality of DiscordApp by enhancing it with new features.  | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Demoncord](https://git.ruthenic.com/Demon/demoncord-rewrite) | A Discord client mod by satanists, for satanists. |[![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
@@ -75,7 +76,6 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Lightcord](https://github.com/Lightcord/Lightcord) | Lightcord is a simple and customizable client for Discord. It includes BandagedBD, Glasstron and a discord.js-like api. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued, and abandoned |
 | [Powercord](https://powercord.dev/) | A lightweight Discord client mod focused on simplicity and performance. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Topaz](https://topaz.goosemod.com/) | Topaz is an upcoming mod which aims to be "next-gen" by using advanced tech to add never-before-seen innovative features. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
-| [~~Acord~~](https://acord.app/) | Fix Discord’s sloppy jobs and breathe new life to the client. | Closed Source | ⛔ Malware (remote code execution backdoor) [^3] |
 #### Plugin bundlers
 
 | Name | Features | Language(s) | Development Status |
@@ -163,7 +163,7 @@ The following are server implementations that reimplement Discord's client-serve
 
 [^1]: Discord brought a breaking change for the mod in question.
 [^2]: Some occasional breaks might occur depending on the maintainers' free time.
-[^3]: Malware: Mod has obfuscated code that connects to websocket at "https://socket.acord.app/" and will [eval](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval) code sent to it. [Click me for GitHub gist with the code in question (deobfuscated)](https://gist.github.com/Vendicated/fef37323939e930b52a0e5ec379052bc) (Found in [extension.js in their release repo](https://github.com/AcordPlugin/releases/blob/4944d811f1c5e228c219d4966c5436bdfc6639d3/fixture/extension.js) ([Archive Link](https://web.archive.org/web/20230115234723/https://github.com/AcordPlugin/releases/blob/4944d811f1c5e228c219d4966c5436bdfc6639d3/fixture/extension.js))
+[^3]: Mod has obfuscated code that connects to websocket at "https://socket.acord.app/" and will [eval](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval) code sent to it. [Click me for GitHub gist with the code in question (deobfuscated)](https://gist.github.com/Vendicated/fef37323939e930b52a0e5ec379052bc) (Found in [extension.js in their release repo](https://github.com/AcordPlugin/releases/blob/4944d811f1c5e228c219d4966c5436bdfc6639d3/fixture/extension.js) ([Archive Link](https://web.archive.org/web/20230115234723/https://github.com/AcordPlugin/releases/blob/4944d811f1c5e228c219d4966c5436bdfc6639d3/fixture/extension.js))
 
 ## Contributing
 
