@@ -94,7 +94,6 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Armcord](https://github.com/armcord/armcord) | ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [ChimeraCord](https://github.com/RoboChimera/ChimeraCord) | A functional but elegant unofficial Discord client for freeBSD, that aims for feature-parity with the official Discord client. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Datcord](https://github.com/gamingdoom/datcord) | An open-source discord client using firefox. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
-| [Discord-Lite](https://github.com/therealcyber71/Discord-Lite) | A Light-Weight Discord Client written in Python for developers, by developers. | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
 | [Discord-PWA](https://github.com/NeverDecaf/discord-PWA) | A wrapper for the Discord web client as a Progressive Web Application, for use with Chromium based browsers. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Discord-Sandbox](https://github.com/khlam/discord-sandboxed) | Open-source Sandbox Discord client for the privacy-minded. Say NO to intrusive data collection. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Discordo](https://github.com/ayntgl/discordo) | A lightweight, secure, and feature-rich Discord terminal client | [![Go][Go-Badge]][Go-Url] | 🟢 Active |
@@ -130,6 +129,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [GTK3cord](https://github.com/diamondburned/gtkcord3) | A Gtk3 Discord client in Golang | [![Go][Go-Badge]][Go-Url] | 🔴 Discontinued. development shifted to GTK4cord |
 | [Discord-Terminal](https://github.com/atlx/discord-term) | An extensible Discord terminal client. Can be used with bot or user tokens. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued, Looking for maintainers |
 | [Cordless](https://github.com/Bios-Marcel/cordless) | Cordless is a custom Discord client that aims to have a low memory footprint and be aimed at power-users. | [![Go][Go-Badge]][Go-Url] | ⛔ Discontinued, Developer got banned during development |
+| [Discord-Lite](https://web.archive.org/web/20221230055539/https://github.com/therealcyber71/Discord-Lite) | A Light-Weight Discord Client written in Python for developers, by developers. | [![Python][Python-Badge]][Python-Url] | 🔴 Discontinued, Developer MIA, repo and account deleted |
 
 ## Console clients
 
