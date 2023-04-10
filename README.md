@@ -82,9 +82,9 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
-| [BetterDiscordBuilder](https://github.com/BetterDiscordBuilder/bdbuilder) | Simplified plugin bundler for BetterDiscord. Supports JSX/TSX and TypeScript | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Ittai (AAGaming's fork)](https://git.catvibers.me/Ittai/ittai) | Fork of Ittai that can bundle plugins to BetterDiscord, Powercord and Goosemod, making a plugin cross-platform. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Ittai (Original)](https://github.com/Kyza/ittai) | Bundler for BetterDiscord, Powercord and Goosemod, making a plugin cross-platform. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟠 On hiatus, since March 2021 |
+| [BetterDiscordBuilder](https://github.com/BetterDiscordBuilder/bdbuilder) | Simplified plugin bundler for BetterDiscord. Supports JSX/TSX and TypeScript | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 
 ### Third-Party Reimplementations
 
