@@ -1,7 +1,7 @@
 # Discord Client Encyclopedia
 
 <p align="center">
-  <a href="https://discord.gg/EsNDvBaHVU">
+  <a href="https://discord.gg/3kv5yzTYQE">
     <img alt="Discord" src="https://img.shields.io/discord/1044501553731600414?color=%2300C853&label=Support%20Server&logo=discord&logoColor=%2300C853&style=for-the-badge">
   </a>
 </p>
