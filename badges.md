@@ -35,6 +35,7 @@ To use a badge:
 | Typescript    | [![TypeScript][TypeScript-Badge]][TypeScript-Url]       | `[![TypeScript][TypeScript-Badge]][TypeScript-Url]`       |
 | Vue.js        | [![Vue.js][Vue.js-Badge]][Vue.js-Url]                   | `[![Vue.js][Vue.js-Badge]][Vue.js-Url]`                   |
 | Zig           | [![Zig][Zig-Badge]][Zig-Url]                            | `[![Zig][Zig-Badge]][Zig-Url]`                            |
+| Rust           | [![Rust][Rust-Badge]][Rust-Url]                        | `[![Rust][Rust-Badge]][Rust-Url]`                         |
 
 [C-Badge]: https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white
 [C-Url]: https://en.wikipedia.org/wiki/C_(programming_language) "C"
@@ -89,3 +90,6 @@ To use a badge:
 
 [Zig-Badge]: https://img.shields.io/badge/Zig-%23F7A41D.svg?style=flat&logo=zig&logoColor=white
 [Zig-Url]: https://en.wikipedia.org/wiki/Zig_(programming_language) "Zig"
+
+[Rust-Badge]: https://img.shields.io/badge/rust-%23000000.svg?&logo=rust
+[Rust-url]: https://en.wikipedia.org/wiki/Rust "Rust"
