@@ -78,11 +78,11 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Lightcord](https://github.com/Lightcord/Lightcord) | Lightcord is a simple and customizable client for Discord. It includes BandagedBD, Glasstron and a discord.js-like api. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued, and abandoned |
 | [Powercord](https://powercord.dev/) | A lightweight Discord client mod focused on simplicity and performance. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Topaz](https://topaz.goosemod.com/) | Topaz is an upcoming mod which aims to be "next-gen" by using advanced tech to add never-before-seen innovative features. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
-| [LemonCord](https://github.com/japandotorg/LemonCord) | A fast & light weight Discord Client made with love using the Rust programming language. | Rust | 🟢 Active |
+| [LemonCord](https://github.com/japandotorg/LemonCord) | A fast & light weight Discord Client made with love using the Rust programming language. | [![Rust][Rust-Badge]][Rust-Url] | 🟢 Active |
 | [ToastCord](https://github.com/Traumatism/ToastCord) |A Discord Terminal UI made in Python 3 | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since February 2022 |
-| [Disrust](https://github.com/DvorakDwarf/disrust) | A discord TUI client written entirely in Rust | Rust | 🟠 On hiatus, since January 2023 |
-| [Dorion](https://github.com/SpikeHD/Dorion) |Lightweight alternative Discord client with a smaller footprint and some fancy extensible features | Rust,[![JavaScript][JavaScript-Badge]][JavaScript-Url]  | 🟢 Active |
-| [Discord Tauri](https://github.com/DiscordTauri/discord-tauri) |A lightweight Discord wrapper made in Tauri | Rust | 🟠 On hiatus, since January 2023 FAQ states "Is this project abandoned? No" |
+| [Disrust](https://github.com/DvorakDwarf/disrust) | A discord TUI client written entirely in Rust | [![Rust][Rust-Badge]][Rust-Url] | 🟠 On hiatus, since January 2023 |
+| [Dorion](https://github.com/SpikeHD/Dorion) |Lightweight alternative Discord client with a smaller footprint and some fancy extensible features | [![Rust][Rust-Badge]][Rust-Url] ,[![JavaScript][JavaScript-Badge]][JavaScript-Url]  | 🟢 Active |
+| [Discord Tauri](https://github.com/DiscordTauri/discord-tauri) |A lightweight Discord wrapper made in Tauri | [![Rust][Rust-Badge]][Rust-Url] | 🟠 On hiatus, since January 2023 FAQ states "Is this project abandoned? No" |
 
 #### Plugin bundlers
 
