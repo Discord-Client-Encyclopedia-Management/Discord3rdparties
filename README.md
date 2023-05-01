@@ -33,7 +33,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Vendetta](https://github.com/vendetta-mod/Vendetta) | A Discord Mod that is compatible with Android and iOS! | [![TypeScript][TypeScript-Badge]][TypeScript-Url] |   🔵 Active|
 | [CutTheCord](https://gitdab.com/distok/cutthecord) | Modular Client Mod for Discord's Android app. | [![Python][Python-Badge]][Python-Url] [![Java][Java-Badge]][Java-Url] | 🟠 On hiatus, since August 2021 |
 | [Treecord](https://github.com/Treecord/Treecord) | A modded Discord client for Android! | [![Shell Script][Shell Script-Badge]][Shell Script-Url] |  🟠 On hiatus, since April 2021 |
-| [~~Bluecord~~](https://github.com/bluemods/Bluecord) | Modded client mod for android | Open source but still not trusted | ⛔ Malware (scams and spying) |
+| [~~Bluecord~~](https://github.com/bluemods/Bluecord) | Modded client mod for android | Not fully open source. | ⛔ Malware (scams and spying) |
 
 ### iOS Clients & Mods
 
