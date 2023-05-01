@@ -80,6 +80,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Topaz](https://topaz.goosemod.com/) | Topaz is an upcoming mod which aims to be "next-gen" by using advanced tech to add never-before-seen innovative features. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [LemonCord](https://github.com/japandotorg/LemonCord) | A fast & light weight Discord Client made with love using the Rust programming language. | Rust | 🟢 Active |
 | [ToastCord](https://github.com/Traumatism/ToastCord) |A Discord Terminal UI made in Python 3 | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since February 2022 |
+| [Disrust](https://github.com/DvorakDwarf/disrust) | A discord TUI client written entirely in Rust | Rust | 🟠 On hiatus, since January 2023 |
 
 #### Plugin bundlers
 
