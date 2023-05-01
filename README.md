@@ -245,3 +245,7 @@ We (contributors) are not responsible for you getting banned from using a 3rd pa
 
 [Zig-Badge]: https://img.shields.io/badge/Zig-%23F7A41D.svg?style=flat&logo=zig&logoColor=white
 [Zig-Url]: https://en.wikipedia.org/wiki/Zig_(programming_language) "Zig"
+
+[Rust-Badge]: https://img.shields.io/badge/Rust-%23000000.svg?&logo=Rust
+[Rust-url]: https://en.wikipedia.org/wiki/Rust "Rust"
+
