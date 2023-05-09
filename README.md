@@ -93,11 +93,6 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Lightcord](https://github.com/Lightcord/Lightcord) | Lightcord is a simple and customizable client for Discord. It includes BandagedBD, Glasstron and a discord.js-like api. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued, and abandoned |
 | [Powercord](https://powercord.dev/) | A lightweight Discord client mod focused on simplicity and performance. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Topaz](https://topaz.goosemod.com/) | Topaz is an upcoming mod which aims to be "next-gen" by using advanced tech to add never-before-seen innovative features. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
-| [LemonCord](https://github.com/japandotorg/LemonCord) | A fast & light weight Discord Client made with love using the Rust programming language. | [![Rust][Rust-Badge]][Rust-Url] | 🟢 Active |
-| [ToastCord](https://github.com/Traumatism/ToastCord) |A Discord Terminal UI made in Python 3 | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since February 2022 |
-| [Disrust](https://github.com/DvorakDwarf/disrust) | A discord TUI client written entirely in Rust | [![Rust][Rust-Badge]][Rust-Url] | 🟠 On hiatus, since January 2023 |
-| [Dorion](https://github.com/SpikeHD/Dorion) |Lightweight alternative Discord client with a smaller footprint and some fancy extensible features | [![Rust][Rust-Badge]][Rust-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url]  | 🟢 Active |
-| [Discord Tauri](https://github.com/DiscordTauri/discord-tauri) |A lightweight Discord wrapper made in Tauri | [![Rust][Rust-Badge]][Rust-Url] | 🟠 On hiatus, since January 2023 FAQ states "Is this project abandoned? No" |
 
 #### Plugin bundlers
 
@@ -118,12 +113,16 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Discord-PWA](https://github.com/NeverDecaf/discord-PWA) | A wrapper for the Discord web client as a Progressive Web Application, for use with Chromium based browsers. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Discord-Sandbox](https://github.com/khlam/discord-sandboxed) | Open-source Sandbox Discord client for the privacy-minded. Say NO to intrusive data collection. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Discordo](https://github.com/ayntgl/discordo) | A lightweight, secure, and feature-rich Discord terminal client | [![Go][Go-Badge]][Go-Url] | 🟢 Active |
+| [Dorion](https://github.com/SpikeHD/Dorion) |Lightweight alternative Discord client with a smaller footprint and some fancy extensible features | [![Rust][Rust-Badge]][Rust-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url]  | 🟢 Active |
 | [FeatherCord](https://github.com/OfficiallySp/FeatherCord) | FeatherCord is a lightweight alternative to the Discord client and uses up to 25% less resources compared to the default desktop client. | Closed Source | 🟢 Active |
 | [GTK4cord](https://github.com/diamondburned/gtkcord4) | GTK4 Discord client in Go, attempt #4. | [![Go][Go-Badge]][Go-Url] | 🟢 Active |
+| [LemonCord](https://github.com/japandotorg/LemonCord) | A fast & light weight Discord Client made with love using the Rust programming language. | [![Rust][Rust-Badge]][Rust-Url] | 🟢 Active |
 | [RyU](https://github.com/Muunatic/RyU) | Powerful Discord Client written in JavaScript. Lightweight, Efficient, Feature-rich. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Swiftcord](https://github.com/cryptoAlgorithm/Swiftcord) | A completely native Discord client for macOS built 100% in Swift and SwiftUI! | [![Swift][Swift-Badge]][Swift-Url] | 🟢 Active |
 | [WebCord](https://github.com/SpacingBat3/WebCord) | A Discord and Fosscord API-less client made with Electron | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 Active *(Variable[^2]\)* |
 | [Spacebar Chat](https://spacebar.chat/) | Open source, themeable and extendable discord-compatible native Spacebar client | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
+| [Discord Tauri](https://github.com/DiscordTauri/discord-tauri) |A lightweight Discord wrapper made in Tauri | [![Rust][Rust-Badge]][Rust-Url] | 🟠 On hiatus, since January 2023 FAQ states "Is this project abandoned? No" |
+| [Disrust](https://github.com/DvorakDwarf/disrust) | A discord TUI client written entirely in Rust | [![Rust][Rust-Badge]][Rust-Url] | 🟠 On hiatus, since January 2023 |
 | [Accord](https://github.com/evelyneee/accord) | Client for modern Macs | [![Swift][Swift-Badge]][Swift-Url] | 🟠 On hiatus, since December 2022 |
 | [Unicord](https://github.com/UnicordDev/Unicord) | Discord Client for Windows 10 and Windows 10 Mobile | [![C#][C#-Badge]][C#-Url] | 🟠 On hiatus, since April 2022 |
 | [NativeCord](https://github.com/andre4ik3/NativeCord) | SSB (site-specific browser) for Discord. In other words, all it does is load Discord as a website... in an app. | [![Swift][Swift-Badge]][Swift-Url] | 🟠 On hiatus, since March 2022 |
