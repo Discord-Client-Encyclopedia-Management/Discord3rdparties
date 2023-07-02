@@ -81,7 +81,6 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [OpenAsar](https://openasar.dev/) | Alternative `app.asar` for Discord. Makes your client feel snappier. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![Nim][Nim-Badge]][Nim-Url] | 🟢 Active |
 | [Replugged](https://replugged.dev) | A lightweight Discord client mod focused on simplicity and performance. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [shelter](https://github.com/uwu/shelter) | shelter is a new generation client mod built to be essentially bulletproof (i.e. Discord switch to SWC). | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
-| [Velocity](https://github.com/Velocity-Discord/Velocity) | Velocity is a Discord Client modification that allows you to extend discord's functionality and capabilities. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔵 Active *(Variable[^2]\)* |
 | [Vencord](https://github.com/Vendicated/Vencord) | Proper context isolation, Inline patches, Custom Css, Useful™ plugins | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Vizality](https://vizality.com/) | An Discord app client modification, allowing for a truly customizable experience through the use of plugins, themes, and built-in settings. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active *(Closed Alpha)* |
 | [Crycord](https://crycord.geopjr.dev/) | A Discord Client modification with plugins. Uses BeautifulDiscord's CSS injector. Oh it's also written in Crystal! | [![Crystal][Crystal-Badge]][Crystal-Url] | 🟠 On hiatus, since May 2021 |
@@ -93,6 +92,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Lightcord](https://github.com/Lightcord/Lightcord) | Lightcord is a simple and customizable client for Discord. It includes BandagedBD, Glasstron and a discord.js-like api. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued, and abandoned |
 | [Powercord](https://powercord.dev/) | A lightweight Discord client mod focused on simplicity and performance. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Topaz](https://topaz.goosemod.com/) | Topaz is an upcoming mod which aims to be "next-gen" by using advanced tech to add never-before-seen innovative features. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
+| [Velocity](https://github.com/Velocity-Discord/Velocity) | Velocity is a Discord Client modification that allows you to extend discord's functionality and capabilities. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 
 #### Plugin bundlers
 
