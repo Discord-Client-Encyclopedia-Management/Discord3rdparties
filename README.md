@@ -119,7 +119,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [LemonCord](https://github.com/japandotorg/LemonCord) | A fast & light weight Discord Client made with love using the Rust programming language. | [![Rust][Rust-Badge]][Rust-Url] | 🟢 Active |
 | [RyU](https://github.com/Muunatic/RyU) | Powerful Discord Client written in JavaScript. Lightweight, Efficient, Feature-rich. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Swiftcord](https://github.com/cryptoAlgorithm/Swiftcord) | A completely native Discord client for macOS built 100% in Swift and SwiftUI! | [![Swift][Swift-Badge]][Swift-Url] | 🟢 Active |
-| [WebCord](https://github.com/SpacingBat3/WebCord) | A Discord and Fosscord API-less client made with Electron | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 Active *(Variable[^2]\)* |
+| [WebCord](https://github.com/SpacingBat3/WebCord) | A Discord API-less client made with Electron | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 Active *(Variable[^2]\)* |
 | [Spacebar Chat](https://spacebar.chat/) | Open source, themeable and extendable discord-compatible native Spacebar client | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Discord Tauri](https://github.com/DiscordTauri/discord-tauri) |A lightweight Discord wrapper made in Tauri | [![Rust][Rust-Badge]][Rust-Url] | 🟠 On hiatus, since January 2023 FAQ states "Is this project abandoned? No" |
 | [Disrust](https://github.com/DvorakDwarf/disrust) | A discord TUI client written entirely in Rust | [![Rust][Rust-Badge]][Rust-Url] | 🟠 On hiatus, since January 2023 |
@@ -182,7 +182,7 @@ The following are server implementations that reimplement Discord's client-serve
 | :---: | :---: | :---: | :---: |
 | [Spacebar Chat](https://spacebar.chat/) | Almost fully featured re-implementation of Discord API Server, intended for self hosting | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Reflectcord](https://github.com/V3L0C1T13S/reflectcord) | Reimplementation of Discord API Server on top of Revolt.chat, intended for self hosting | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
-| [Litecord](https://gitlab.com/litecord/litecord) | Partial reimplementation of Discord API Server, not intended for self hosting | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since December 2022|
+| [Litecord](https://gitlab.com/litecord/litecord) | Partial reimplementation of Discord API Server, not intended for self hosting | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since May 2023|
 
 [^1]: Discord brought a breaking change for the mod in question.
 [^2]: Some occasional breaks might occur depending on the maintainers' free time.
