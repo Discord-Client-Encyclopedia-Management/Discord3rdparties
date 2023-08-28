@@ -54,6 +54,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
+| [Discord IOS](https://apps.apple.com/us/app/discord-chat-talk-hangout/id985746746) | The Official client | [Closed sourcel] | 🟢 Active  |
 | [Enmity](https://enmity.app/) | The power of addons, all in your hand. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active  |
 | [Vendetta](https://github.com/vendetta-mod/Vendetta) | A Discord Mod that is compatible with Android and iOS! | [![TypeScript][TypeScript-Badge]][TypeScript-Url] |    🟢 Active|
 | [Discord Classic](https://github.com/cellomonster/iOS-Discord-Classic) | A bare-bones Discord client for iOS 5 and 6. | [![Objective-C][Objective-C-Badge]][Objective-C-Url] | 🔴 Discontinued |
