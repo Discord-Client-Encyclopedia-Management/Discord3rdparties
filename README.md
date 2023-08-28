@@ -42,6 +42,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
+| [Android Official client](https://play.google.com/store/apps/details?id=com.discord&fingerprint=1129189278619021403._iqMp85lJ8wwcey3i6XvuHeKLYA&attemptId=a267ef68-ca9f-435f-99a6-f6a11875cf6c) | Official client | [Closed source] | 🟢 Active |
 | [Aliucord](https://github.com/Aliucord/Aliucord) | A modification for the Discord Android App | [![Java][Java-Badge]][Java-Url] [![Kotlin][Kotlin-Badge]][Kotlin-Url] [![Dart][Dart-Badge]][Dart-Url] | 🔵 Active *(Out of date[^1]\)* |
 | [Opencord](https://github.com/X1nto/OpenCord) | An open-source reimplementation of the Discord Android app | [![Kotlin][Kotlin-Badge]][Kotlin-Url] | 🟠 On hiatus |
 | [Vencord](https://github.com/Vencord/Android) | Vencord for Android! A WebView embedding the Discord site, loading Vencord and adding some goodies. | [![Java][Java-Badge]][Java-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
