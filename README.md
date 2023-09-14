@@ -46,8 +46,8 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Aliucord](https://github.com/Aliucord/Aliucord) | A modification for the Android Discord app | [![Java][Java-Badge]][Java-Url] [![Kotlin][Kotlin-Badge]][Kotlin-Url] [![Dart][Dart-Badge]][Dart-Url] | 🔵 Active *(Out of date[^1]\)* |
 | [Vencord](https://github.com/Vencord/Android) | Vencord for Android! A WebView embedding the Discord site, loading Vencord and adding some goodies. | [![Java][Java-Badge]][Java-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Vendetta](https://github.com/vendetta-mod/Vendetta) | A Discord mod that is compatible with Android and iOS! | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
-| [OpenCord](https://github.com/X1nto/OpenCord) | An open-source implementation of the Discord Android app | [![Kotlin][Kotlin-Badge]][Kotlin-Url] | 🟠 On hiatus |
 | [CutTheCord](https://gitdab.com/distok/cutthecord) | Modular Client Mod for Discord's Android app. | [![Python][Python-Badge]][Python-Url] [![Java][Java-Badge]][Java-Url] | 🟠 On hiatus, since August 2021 |
+| [OpenCord](https://github.com/X1nto/OpenCord) | An open-source implementation of the Discord Android app | [![Kotlin][Kotlin-Badge]][Kotlin-Url] | 🟠 On hiatus |
 | [Treecord](https://github.com/Treecord/Treecord) | A modded Discord client for Android! | [![Shell Script][Shell Script-Badge]][Shell Script-Url] | 🟠 On hiatus, since April 2021 |
 | [~~Bluecord~~](https://github.com/bluemods/Bluecord) | Modded client mod for Android | [Closed source] | [⛔ Malware (scams and spying)](https://drive.google.com/drive/u/0/folders/1Y2m2lMSpN3GlOcXyceaO88Ljnr8xuNcp) |
 
