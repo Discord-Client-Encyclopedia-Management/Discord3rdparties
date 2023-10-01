@@ -49,7 +49,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [CutTheCord](https://gitdab.com/distok/cutthecord) | Modular Client Mod for Discord's Android app. | [![Python][Python-Badge]][Python-Url] [![Java][Java-Badge]][Java-Url] | 🟠 On hiatus, since August 2021 |
 | [OpenCord](https://github.com/X1nto/OpenCord) | An open-source implementation of the Discord Android app | [![Kotlin][Kotlin-Badge]][Kotlin-Url] | 🟠 On hiatus |
 | [Treecord](https://github.com/Treecord/Treecord) | A modded Discord client for Android! | [![Shell Script][Shell Script-Badge]][Shell Script-Url] | 🟠 On hiatus, since April 2021 |
-| [~~Bluecord~~](https://github.com/bluemods/Bluecord) | Modded client mod for Android | [Closed source] | [⛔ Malware (scams and spying)](https://drive.google.com/drive/u/0/folders/1Y2m2lMSpN3GlOcXyceaO88Ljnr8xuNcp) |
+| [Bluecord](https://github.com/bluemods/Bluecord) | Modded client mod for Android | [![Java][Java-Badge]][Java-Url] [![Kotlin][Kotlin-Badge]][Kotlin-Url] | 🔵 Active *(Out of date[^1]\)* |
 
 ### iOS Clients & Mods
 
