@@ -75,7 +75,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
-| [~~Acord Premium~~](https://acord.app) | A client you have to pay for that stole its code. | [Closed source] | [⛔ Stolen code] (https://docs.google.com/document/d/1hDWGFRnnkAZHoobYzB7ql8gB1PC9kO-oCo6LkEmHNpc/edit?usp=sharing) |
+| [~~Acord Premium~~](https://acord.app) | A client you have to pay for that stole its code. | [Closed source] | [⛔ (Stolen code)] (https://docs.google.com/document/d/1hDWGFRnnkAZHoobYzB7ql8gB1PC9kO-oCo6LkEmHNpc/edit?usp=sharing) |
 | [Aero](https://github.com/aero-mod/aero) | A next-generation Discord mod empowering users and developers alike. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) | Simple Python script that adds CSS hot-reload to Discord. | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
 | [BetterDiscord](https://betterdiscord.app/) | BetterDiscord extends the functionality of DiscordApp by enhancing it with new features.  | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
