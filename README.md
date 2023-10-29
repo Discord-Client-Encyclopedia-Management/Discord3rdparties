@@ -75,6 +75,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
+| [Acord Premium](https://acord.app) | Fix Discord’s sloppy jobs and breathe new life to the client. | [Closed source] | 🟢 Active |
 | [Aero](https://github.com/aero-mod/aero) | A next-generation Discord mod empowering users and developers alike. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) | Simple Python script that adds CSS hot-reload to Discord. | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
 | [BetterDiscord](https://betterdiscord.app/) | BetterDiscord extends the functionality of DiscordApp by enhancing it with new features.  | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
@@ -87,7 +88,6 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Vencord](https://github.com/Vendicated/Vencord) | Proper context isolation, inline patches, Custom CSS, Useful™ plugins | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Vesktop](https://github.com/Vencord/Vesktop) | Vesktop is a cross platform desktop app aiming to give you a snappier Discord experience with Vencord pre-installed | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Vizality](https://vizality.com/) | An Discord app client modification, allowing for a truly customizable experience through the use of plugins, themes, and built-in settings. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active *(Closed Alpha)* |
-| [Acord Standalone](https://github.com/acord-standalone) | Fix Discord’s sloppy jobs and breathe new life to the client. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟠 On hiatus |
 | [Crycord](https://crycord.geopjr.dev/) | A Discord Client modification with plugins. Uses BeautifulDiscord's CSS injector. Oh it's also written in Crystal! | [![Crystal][Crystal-Badge]][Crystal-Url] | 🟠 On hiatus, since May 2021 |
 | [Demoncord](https://git.ruthenic.com/Demon/demoncord-rewrite) | A Discord client mod by satanists, for satanists. |[![JavaScript][JavaScript-Badge]][JavaScript-Url] |  🟠 On hiatus, since September 2022 |
 | [Cumcord](https://github.com/Cumcord/Cumcord) | Cumcord is a Discord client mod that focuses on making the Discord plugin development experience easier. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
