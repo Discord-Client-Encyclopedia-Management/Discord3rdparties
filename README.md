@@ -49,7 +49,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [CutTheCord](https://gitdab.com/distok/cutthecord) | Modular Client Mod for Discord's Android app. | [![Python][Python-Badge]][Python-Url] [![Java][Java-Badge]][Java-Url] | 🔴 Discontinued |
 | [OpenCord](https://github.com/X1nto/OpenCord) | An open-source implementation of the Discord Android app | [![Kotlin][Kotlin-Badge]][Kotlin-Url] | 🔴 Discontinued |
 | [Treecord](https://github.com/Treecord/Treecord) | A modded Discord client for Android! | [![Shell Script][Shell Script-Badge]][Shell Script-Url] | 🔴 Discontinued |
-| [~~Bluecord~~](https://github.com/bluemods/Bluecord) | Modded client mod for Android | [Closed source] | [⛔ Malware (scams and spying)](https://drive.google.com/drive/u/0/folders/1Y2m2lMSpN3GlOcXyceaO88Ljnr8xuNcp) |
+| Bluecord | Modded client mod for Android | [Closed source] | ⛔ Malware (scams and spying) |
 
 ### iOS Clients & Mods
 
@@ -75,7 +75,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
-| [~~Acord Premium~~](https://acord.app) | A client you have to pay for that stole its code. | [Closed source] | [⛔ sus behavior (Stolen code)](https://docs.google.com/document/d/1hDWGFRnnkAZHoobYzB7ql8gB1PC9kO-oCo6LkEmHNpc/edit?usp=sharing) |
+| Acord Premium | A client you have to pay for that stole its code. | [Closed source] | ⛔ sus behavior (Stolen code) |
 | [Aero](https://github.com/aero-mod/aero) | A next-generation Discord mod empowering users and developers alike. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) | Simple Python script that adds CSS hot-reload to Discord. | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
 | [BetterDiscord](https://betterdiscord.app/) | BetterDiscord extends the functionality of DiscordApp by enhancing it with new features.  | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
