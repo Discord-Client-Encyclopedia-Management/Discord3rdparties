@@ -77,7 +77,6 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | :---: | :---: | :---: | :---: |
 | [~~Acord Premium~~](https://acord.app) | A client you have to pay for that stole its code. | [Closed source] | [⛔ sus behavior (Stolen code)](https://docs.google.com/document/d/1hDWGFRnnkAZHoobYzB7ql8gB1PC9kO-oCo6LkEmHNpc/edit?usp=sharing) |
 | [Aero](https://github.com/aero-mod/aero) | A next-generation Discord mod empowering users and developers alike. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
-| [AeroChat](https://aerochat.live/) | A Discord client themed to look like WLM 09. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) | Simple Python script that adds CSS hot-reload to Discord. | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
 | [BetterDiscord](https://betterdiscord.app/) | BetterDiscord extends the functionality of DiscordApp by enhancing it with new features.  | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [DiscoCSS](https://github.com/mlvzk/discocss) | A tiny Discord CSS injector for Linux and Mac OS. | [![Shell Script][Shell Script-Badge]][Shell Script-Url] | 🟢 Active |
@@ -113,6 +112,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
 | [Abaddon](https://github.com/uowuo/abaddon) | Alternative Discord client made in C++ with GTK | [![C++][C++-Badge]][C++-Url] | 🟢 Active |
+| [AeroChat](https://aerochat.live/) | A Discord client themed to look like WLM 09. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Armcord](https://github.com/armcord/armcord) | ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [ChimeraCord](https://github.com/RoboChimera/ChimeraCord) | A functional but elegant unofficial Discord client for freeBSD, that aims for feature-parity with the official Discord client. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Datcord](https://github.com/gamingdoom/datcord) | An open-source discord client using firefox. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
