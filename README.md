@@ -118,6 +118,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
 | [Abaddon](https://github.com/uowuo/abaddon) | Alternative Discord client made in C++ with GTK | [![C++][C++-Badge]][C++-Url] | 🟢 Active |
+| [LibreDiscord](https://gitlab.com/zipdox/librediscord/-/tree/master?ref_type=heads) | LibreDiscord is a free and open source voice and video client for Discord written in C using GTK3 and GLib. | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus |
 | [AeroChat](https://aerochat.live/) | A Discord client themed to look like WLM 09. | [![React][React-Badge]][React-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url]| 🟢 Active |
 | [Armcord](https://github.com/armcord/armcord) | ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [ChimeraCord](https://github.com/RoboChimera/ChimeraCord) | A functional but elegant unofficial Discord client for freeBSD, that aims for feature-parity with the official Discord client. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
