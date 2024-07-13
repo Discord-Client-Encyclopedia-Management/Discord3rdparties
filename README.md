@@ -209,7 +209,7 @@ The following are server implementations that reimplement Discord's client-serve
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
-| [Polyphony](https://github.com/polyphony-chat/symfonia) | Almost fully featured re-implementation of Discord API Server, intended for self hosting, support for federation planned using ActivityPub as the server-server API | [![Rust][Rust-Badge][Rust-Url]] | 🟢 Active |
+| [Polyphony](https://github.com/polyphony-chat/symfonia) | Almost fully featured re-implementation of Discord API Server, intended for self hosting, support for federation planned using ActivityPub as the server-server API | [![Rust][Rust-Badge]][Rust-Url] | 🟢 Active |
 | [Reflectcord](https://github.com/V3L0C1T13S/reflectcord) | Reimplementation of Discord API Server on top of Revolt.chat, intended for self hosting | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Spacebar Chat](https://spacebar.chat/) | Almost fully featured re-implementation of Discord API Server, intended for self hosting | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Litecord](https://gitlab.com/litecord/litecord) | Partial reimplementation of Discord API Server, not intended for self hosting | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since May 2023 |
