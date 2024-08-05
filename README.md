@@ -208,7 +208,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 The following are server implementations that reimplement Discord's client-server API:
 
 | Name | Features | Language(s) | Self-hostable? | Development Status |
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: |
 | [Polyphony](https://github.com/polyphony-chat/symfonia) | Almost fully featured re-implementation of Discord API Server, support for federation planned using Polyproto as the server-server API | [![Rust][Rust-Badge]][Rust-Url] | 🟢 Yes | 🟢 Active |
 | [Reflectcord](https://github.com/V3L0C1T13S/reflectcord) | Reimplementation of Discord API Server on top of Revolt.chat | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Yes | 🟢 Active |
 | [Spacebar Chat](https://spacebar.chat/) | Almost fully featured re-implementation of Discord API Server experimental branch implementing limited support for federation using ActivityPub as the server-server API | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Yes | 🟢 Active |
