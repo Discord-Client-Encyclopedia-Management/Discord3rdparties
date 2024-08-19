@@ -243,7 +243,7 @@ We (contributors) are not responsible for you getting banned from using a 3rd pa
 [Go-Badge]: https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white
 [Go-Url]: https://en.wikipedia.org/wiki/Go_(programming_language) "Go"
 
-[Java-Badge]: https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white
+[Java-Badge]: https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white
 [Java-Url]: https://en.wikipedia.org/wiki/Java_(programming_language) "Java"
 
 [JavaScript-Badge]: https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E
