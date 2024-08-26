@@ -124,6 +124,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Discord-PWA](https://github.com/NeverDecaf/discord-PWA) | A wrapper for the Discord web client as a Progressive Web Application, for use with Chromium based browsers. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Discord Tauri](https://github.com/DiscordTauri/discord-tauri) |A lightweight Discord wrapper made in Tauri | [![Rust][Rust-Badge]][Rust-Url] | 🔴 Discontinued |
 | [NativeCord](https://github.com/andre4ik3/NativeCord) | SSB (site-specific browser) for Discord. In other words, all it does is load Discord as a website... in an app. | [![Swift][Swift-Badge]][Swift-Url] | 🟠 On hiatus, since March 2022 |
+
 ### Third-Party Reimplementations
 
 | Name | Features | Language(s) | Development Status |
@@ -213,7 +214,7 @@ The following are server implementations that reimplement Discord's client-serve
 | [Polyphony](https://github.com/polyphony-chat/symfonia) | Almost fully featured re-implementation of Discord API Server, support for federation planned using Polyproto as the server-server API | [![Rust][Rust-Badge]][Rust-Url] | 🟢 Yes | 🟢 Active |
 | [Reflectcord](https://github.com/V3L0C1T13S/reflectcord) | Reimplementation of Discord API Server on top of Revolt.chat | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Yes | 🟢 Active |
 | [Spacebar Chat](https://spacebar.chat/) | Almost fully featured re-implementation of Discord API Server experimental branch implementing limited support for federation using ActivityPub as the server-server API | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Yes | 🟢 Active |
-| Cacophony | An plugin for Catalyst matrix server implementing Discord's client-server API, partial reimplementation of Discord API | [![Rust][Rust-Badge]][Rust-Url] (Currently closed source, planned to be open sourced after further progress) | 🟠🟢 Yes, once open sourced | 🟠 Work in progress | 
+| Cacophony | An plugin for Catalyst matrix server implementing Discord's client-server API, partial reimplementation of Discord API | [![Rust][Rust-Badge]][Rust-Url] (Currently closed source, planned to be open sourced after further progress) | 🟠🟢 Yes, once open sourced | 🟠 Work in progress |
 | [Litecord](https://gitlab.com/litecord/litecord) | Partial reimplementation of Discord API Server | [![Python][Python-Badge]][Python-Url] | 🟠 Allowed, not intended | 🟠 On hiatus, since December 2023 |
 
 [^1]: Discord brought a breaking change for the mod in question.
@@ -296,5 +297,3 @@ We (contributors) are not responsible for you getting banned from using a 3rd pa
 
 [React-Badge]: https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&labelColor=black&color=blue
 [React-url]: https://en.wikipedia.org/wiki/React_(software) "React"
-
-
