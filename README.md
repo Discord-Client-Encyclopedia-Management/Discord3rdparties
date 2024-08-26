@@ -201,7 +201,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [crocodile](https://github.com/tbodt/crocodile) | Discord client for TempleOS. | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since November 2017 |
 | [discord-aos](https://github.com/ruslang02/discord-aos) | Discord client for Sailfish OS  | [![Qt][Qt-Badge]][Qt-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 On hiatus, since November 2021 |
 | [discord-ppc](https://github.com/vistafan12/discord-ppc) | Discord version for PowerPC architecture | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟠 On hiatus, since June 2017 |
-| [Arcscord](https://github.com/Arcoz0308/arcscord) | NodeJS library written in typescript who interact with the Discord API | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | c Discontinued |
+| [Arcscord](https://github.com/Arcoz0308/arcscord) | NodeJS library written in typescript who interact with the Discord API | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 
 ## Third party server implementations
 
