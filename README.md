@@ -216,8 +216,8 @@ The following are server implementations that reimplement Discord's client-serve
 | [Spacebar Chat](https://spacebar.chat/) | Almost fully featured re-implementation of Discord API Server experimental branch implementing limited support for federation using ActivityPub as the server-server API | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Yes | 🟢 Active |
 | Cacophony | An plugin for Catalyst matrix server implementing Discord's client-server API, partial reimplementation of Discord API | [![Rust][Rust-Badge]][Rust-Url] (Currently closed source, planned to be open sourced after further progress) | 🟠🟢 Yes, once open sourced | 🟠 Work in progress |
 | [Litecord](https://gitlab.com/litecord/litecord) | Partial reimplementation of Discord API Server | [![Python][Python-Badge]][Python-Url] | 🟠 Allowed, not intended | 🟠 On hiatus, since December 2023 |
-| [Oldcord](https://oldcordapp.com/) | 2015-2019 Discord server reimplementation, can be used for self hosting | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
-| [Hummus](https://hummus.sys42.net/) | 2017 Discord server reimplementation | [Closed source] | 🟢 Active |
+| [Oldcord](https://oldcordapp.com/) | 2015-2019 Discord server reimplementation, can be used for self hosting | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Yes | 🟢 Active |
+| [Hummus](https://hummus.sys42.net/) | 2017 Discord server reimplementation | [Closed source] | 🟠 Ask owner for permission | 🟢 Active |
 
 [^1]: Discord brought a breaking change for the mod in question.
 [^2]: Some occasional breaks might occur depending on the maintainers' free time.
