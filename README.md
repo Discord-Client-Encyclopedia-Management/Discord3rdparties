@@ -220,6 +220,8 @@ The following are server implementations that reimplement Discord's client-serve
 | Cacophony | An plugin for Catalyst matrix server implementing Discord's client-server API, partial reimplementation of Discord API | [![Rust][Rust-Badge]][Rust-Url] (Currently closed source, planned to be open sourced after further progress) | 🟠🟢 Yes, once open sourced | 🟠 Work in progress |
 | [Litecord](https://gitlab.com/litecord/litecord) | Partial reimplementation of Discord API Server | [![Python][Python-Badge]][Python-Url] | 🟠 Allowed, not intended | 🟠 On hiatus, since December 2023 |
 
+**Important**: **DO NOT** publish guides on how to point Discord's official clients to third party server implementations. Spacebar previously got in trouble due to this.
+
 [^1]: Discord brought a breaking change for the mod in question.
 [^2]: Some occasional breaks might occur depending on the maintainers' free time.
 
