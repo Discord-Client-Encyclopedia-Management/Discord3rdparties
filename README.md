@@ -44,7 +44,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | :---: | :---: | :---: | :---: |
 | [Discord Android](https://play.google.com/store/apps/details?id=com.discord&fingerprint=1129189278619021403._iqMp85lJ8wwcey3i6XvuHeKLYA&attemptId=a267ef68-ca9f-435f-99a6-f6a11875cf6c) | Official Android client | [Closed source] | 🟢 Active |
 | [Aliucord](https://github.com/Aliucord/Aliucord) | A modification for the Android Discord app | [![Java][Java-Badge]][Java-Url] [![Kotlin][Kotlin-Badge]][Kotlin-Url] [![Dart][Dart-Badge]][Dart-Url] | 🔵 Active *(Out of date[^1]\)* |
-| [Bunny](https://github.com/pyoncord/Bunny) | A mod for Discord's mobile apps, fork of Vendetta. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
+| [Bunny](https://github.com/pyoncord/Bunny) | A mod for Discord's mobile apps, fork of Vendetta. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [VendroidEnhanced](https://github.com/VendroidEnhanced/Vendroid) | VendroidEnhanced is a fork of [Vencord/Vendroid](https://github.com/Vencord/Android) that improves upon the original project. | [![Kotlin][Kotlin-Badge]][Kotlin-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Vendroid](https://github.com/Vencord/Vendroid) | Vencord for Android! A WebView embedding the Discord site, loading Vencord and adding some goodies. | [![Java][Java-Badge]][Java-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Revenge](https://github.com/revenge-mod/Revenge) | A modification for Discord mobile apps. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
@@ -60,7 +60,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | :---: | :---: | :---: | :---: |
 | [Discord iOS](https://apps.apple.com/us/app/discord-chat-talk-hangout/id985746746) | Official iOS client | [Closed source] | 🟢 Active |
 | [Enmity](https://enmity.unbound.rip/) | The power of addons, all in your hand. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
-| [Bunny](https://github.com/pyoncord/Bunny) | A mod for Discord's mobile apps, fork of Vendetta. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
+| [Bunny](https://github.com/pyoncord/Bunny) | A mod for Discord's mobile apps, fork of Vendetta. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Revenge](https://github.com/revenge-mod/Revenge) | A modification for Discord mobile apps. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Vendetta](https://github.com/vendetta-mod/Vendetta) | A Discord mod that is compatible with Android and iOS! | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Discord Classic](https://github.com/cellomonster/iOS-Discord-Classic) | A bare-bones Discord client for iOS 5 and 6. | [![Objective-C][Objective-C-Badge]][Objective-C-Url] | 🔴 Discontinued |
