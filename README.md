@@ -219,7 +219,7 @@ The following are server implementations that reimplement Discord's client-serve
 | [Hummus](https://hummus.sys42.net/) | 2017 Discord server reimplementation | [Closed source] | 🟠 Ask creator for permission | 🟢 Active |
 | Cacophony | An plugin for Catalyst matrix server implementing Discord's client-server API, partial reimplementation of Discord API | [![Rust][Rust-Badge]][Rust-Url] (Currently closed source, planned to be open sourced after further progress) | 🟠🟢 Yes, once open sourced | 🟠 Work in progress |
 | [Litecord](https://gitlab.com/litecord/litecord) | Partial reimplementation of Discord API Server | [![Python][Python-Badge]][Python-Url] | 🟠 Allowed, not intended | 🟠 On hiatus, since December 2023 |
-| [Miranda NG](https://miranda-ng.org) | Multi Protocol Program that supports Discord | [![C++][C++-Badge]][C++-Url] | 🟢 Active | 
+| [Miranda NG](https://miranda-ng.org) | Multi Protocol Program that supports Discord | [![C++][C++-Badge]][C++-Url] | 🟢 Yes  | 🟢 Active | 
 
 [^1]: Discord brought a breaking change for the mod in question.
 [^2]: Some occasional breaks might occur depending on the maintainers' free time.
