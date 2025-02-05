@@ -91,6 +91,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [reUpdater](https://github.com/cordpackers/reUpdater) | An open-source alternative to Discord's updater.node, featuring multithreaded downloads and allowing custom desktop client patches via an alternative update API. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Replugged](https://replugged.dev) | A lightweight Discord client mod focused on simplicity and performance. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [shelter](https://github.com/uwu/shelter) | shelter is a new generation client mod built to be essentially bulletproof (i.e. Discord switch to SWC). | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
+| [PawsomeVencord](https://github.com/enzomtpYT/PawsomeVencord) | A fork of Vencord with a whole new twist! | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Equicord](https://github.com/Equicord/Equicord) | Fork of Vencord with extra plugins and features. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Equibop](https://github.com/Equicord/equibop) | Fork of Vesktop with extra plugins and features. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Vencord](https://github.com/Vendicated/Vencord) | Proper context isolation, inline patches, Custom CSS, Useful™ plugins | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
