@@ -163,25 +163,26 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Accord](https://github.com/evelyneee/accord) | Client for modern Macs | [![Swift][Swift-Badge]][Swift-Url] | 🟠 On hiatus, since December 2022 |
 | [Unofficial-discord-client](https://github.com/Coding-Bunker/unofficial-discord-client) | Unofficial client for discord build in C++ with Qt. | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since March 2022 |
 | [Ripcord](https://cancel.fm/ripcord/) | Alternative desktop chat client for Slack (and Discord) designed for power users. | [Closed source] | 🟠 On hiatus, since July 2021 |
-| [Swiftcord](https://github.com/cryptoAlgorithm/Swiftcord) | A completely native Discord client for macOS built 100% in Swift and SwiftUI! | [![Swift][Swift-Badge]][Swift-Url] | 🔴 Broken |
-| [discord-screenaudio](https://github.com/maltejur/discord-screenaudio) | A custom Discord client that supports streaming with audio on Linux. | [![C++][C++-Badge]][C++-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
-| [ToastCord](https://github.com/Traumatism/ToastCord) | Discord Terminal UI made in Python 3 | [![Python][Python-Badge]][Python-Url] | 🔴 Discontinued |
-| [Mirdorph](https://gitlab.gnome.org/ranchester/mirdorph) | A crappy low feature Discord Client using libadwaita | [![Python][Python-Badge]][Python-Url] | 🔴 Discontinued |
-| [DiscordQt](https://github.com/ruslang02/discord-qt) | A Discord desktop client powered by Node.JS and NodeGui. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
+| [6cord](https://6cord.diamondb.xyz/) | A terminal front-end for the Discord chat service | [![Go][Go-Badge]][Go-Url] | 🔴 Discontinued |
 | [concord](https://github.com/volatide/concord) | Discord client made in Qt5 | [![Python][Python-Badge]][Python-Url] | 🔴 Discontinued |
-| [protocord](https://github.com/diamondburned/protocord) | A prototype CLI for a tiny Discord client. | [![Go][Go-Badge]][Go-Url] | 🔴 Discontinued |
-| [Pesterchum-Discord](https://github.com/henry232323/Pesterchum-Discord) | A Discord client mimicking the Pesterchum chat client from Homestuck, for the few people who are still interested in that. | [![Python][Python-Badge]][Python-Url] | 🔴 Discontinued |
+| [Cordless](https://github.com/Bios-Marcel/cordless) | Cordless is a custom Discord client that aims to have a low memory footprint and be aimed at power-users. | [![Go][Go-Badge]][Go-Url] | ⛔ Discontinued, Developer got banned during development |
+| [Discline](https://github.com/mitchweaver/Discline) | A terminal Discord client that you can actually use. | [![Python][Python-Badge]][Python-Url] | 🔴 Discontinued |
+| [discord-curses](https://github.com/RX14/discord-curses) | Terminal-based discord client | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [DiscordFlex](https://github.com/ZenithRogue/DiscordFlex) | A custom Discord client built from the ground up. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![Vue.js][Vue.js-Badge]][Vue.js-Url] | 🔴 Discontinued |
-| [micro-discord](https://github.com/soukouki/micro-discord) | Simple discord client that doesn't use javascript | [![Ruby][Ruby-Badge]][Ruby-Url] | 🔴 Discontinued |
+| [DiscordQt](https://github.com/ruslang02/discord-qt) | A Discord desktop client powered by Node.JS and NodeGui. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
+| [discord-screenaudio](https://github.com/maltejur/discord-screenaudio) | A custom Discord client that supports streaming with audio on Linux. | [![C++][C++-Badge]][C++-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
+| [Discord-Terminal](https://github.com/atlx/discord-term) | An extensible Discord terminal client. Can be used with bot or user tokens. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued, Looking for maintainers |
 | [Disorder](https://github.com/lexffe/discorder) | Command line discord client | [![Go][Go-Badge]][Go-Url] | 🔴 Discontinued |
 | [Fast-Discord](https://github.com/EnyoYoen/Fast-Discord) | Client written in C++ and Qt | [![C++][C++-Badge]][C++-Url] | 🔴 Discontinued |
 | [Harmony](https://github.com/hlafaille/Harmony) | A Java-based Discord client. | [![Java][Java-Badge]][Java-Url] | 🔴 Discontinued |
-| [6cord](https://6cord.diamondb.xyz/) | A terminal front-end for the Discord chat service | [![Go][Go-Badge]][Go-Url] | 🔴 Discontinued |
+| [micro-discord](https://github.com/soukouki/micro-discord) | Simple discord client that doesn't use javascript | [![Ruby][Ruby-Badge]][Ruby-Url] | 🔴 Discontinued |
+| [Mirdorph](https://gitlab.gnome.org/ranchester/mirdorph) | A crappy low feature Discord Client using libadwaita | [![Python][Python-Badge]][Python-Url] | 🔴 Discontinued |
+| [Pesterchum-Discord](https://github.com/henry232323/Pesterchum-Discord) | A Discord client mimicking the Pesterchum chat client from Homestuck, for the few people who are still interested in that. | [![Python][Python-Badge]][Python-Url] | 🔴 Discontinued |
+| [protocord](https://github.com/diamondburned/protocord) | A prototype CLI for a tiny Discord client. | [![Go][Go-Badge]][Go-Url] | 🔴 Discontinued |
+| [Swiftcord](https://github.com/cryptoAlgorithm/Swiftcord) | A completely native Discord client for macOS built 100% in Swift and SwiftUI! | [![Swift][Swift-Badge]][Swift-Url] | 🔴 Broken |
 | [Terminalcord](https://github.com/xynxynxyn/terminal-discord) | Simple terminal client for discord with a minimal look and UI. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
-| [discord-curses](https://github.com/RX14/discord-curses) | Terminal-based discord client | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
-| [Discline](https://github.com/mitchweaver/Discline) | A terminal Discord client that you can actually use. | [![Python][Python-Badge]][Python-Url] | 🔴 Discontinued |
-| [Discord-Terminal](https://github.com/atlx/discord-term) | An extensible Discord terminal client. Can be used with bot or user tokens. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued, Looking for maintainers |
-| [Cordless](https://github.com/Bios-Marcel/cordless) | Cordless is a custom Discord client that aims to have a low memory footprint and be aimed at power-users. | [![Go][Go-Badge]][Go-Url] | ⛔ Discontinued, Developer got banned during development |
+| [ToastCord](https://github.com/Traumatism/ToastCord) | Discord Terminal UI made in Python 3 | [![Python][Python-Badge]][Python-Url] | 🔴 Discontinued |
+
 
 ## Game console clients
 
