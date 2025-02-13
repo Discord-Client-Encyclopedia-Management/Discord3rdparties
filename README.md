@@ -187,12 +187,12 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
+| [Quarrel](https://github.com/UWPCommunity/Quarrel) | Quarrel is a Discord client for Windows and Xbox that aims to bring voice chat to Xbox and improved support for varying screen sizes on devices running windows. | [![C#][C#-Badge]][C#-Url] | 🟠 On hiatus, since August 2022|
 | [A-client-for-Discord-for-3DS](https://github.com/XeathJP/A-client-for-Discord-for-3DS) | Applications that can use discord on 3DS | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since since January 2022 |
-| [crcophony](https://github.com/freyamade/crcophony) | Fast, neat discord TUI written in Crystal (read: cacophony) | [![Crystal][Crystal-Badge]][Crystal-Url] | 🟠 On hiatus, since November 2019 |
 | [NXCord](https://github.com/Grarak/NXCord) | Unofficial Nintendo Switch Discord client | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since April 2020 |
-| [Unofficial Discord 3DS Client](https://github.com/yourWaifu/Unofficial-Discord-3DS-Client) | This just a simple Discord client for the 3DS build using the `Sleepy Discord` library and the `Wslay` library. | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since November 2017 |
-| [Quarrel](https://github.com/UWPCommunity/Quarrel) | Quarrel is a Discord client for Windows and Xbox that aims to bring voice chat to Xbox and improved support for varying screen sizes on devices running windows. | [![C#][C#-Badge]][C#-Url] | 🟠 On hiatus, since Augest 2022|
+| [crcophony](https://github.com/freyamade/crcophony) | Fast, neat discord TUI written in Crystal (read: cacophony) | [![Crystal][Crystal-Badge]][Crystal-Url] | 🟠 On hiatus, since November 2019 |
 | [VitaCord](https://github.com/devingDev/VitaCord) | Discord Client for PS Vita / PS TV | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since March 2018 |
+| [Unofficial Discord 3DS Client](https://github.com/yourWaifu/Unofficial-Discord-3DS-Client) | This just a simple Discord client for the 3DS build using the `Sleepy Discord` library and the `Wslay` library. | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since November 2017 |
 | [Switchcord](https://github.com/vbe0201/switchcord) | An unofficial Discord client for the Nintendo Switch console. | [![C++][C++-Badge]][C++-Url] | 🔴 Discontinued |
 | [3DiScord](https://github.com/cheuble/3DiScord) | A Discord client for the Nintendo 3DS | [![C++][C++-Badge]][C++-Url] | ⛔ Discontinued. will get you banned |
 
@@ -206,9 +206,9 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Sailcord (Previously SailDiscord)](https://github.com/roundedrectangle/SailDiscord) | A SailfishOS Discord Client | [![Python][Python-Badge]][Python-Url] [![Qt][Qt-Badge]][Qt-Url] | 🟢 Active |
 | [discord-j2me](https://github.com/gtrxAC/discord-j2me) | Discord client for Java ME (MIDP 1.0 & 2.0) devices | [![Java][Java-Badge]][Java-Url] | 🟢 Active |
 | [Weechat Discord](https://github.com/terminal-discord/weechat-discord) | Weechat plugin for Discord support. | [![Rust][Rust-Badge]][Rust-Url] | 🟢 Active |
+| [discord-aos](https://github.com/ruslang02/discord-aos) | Discord client for Sailfish OS  | [![Qt][Qt-Badge]][Qt-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 On hiatus, since November 2021 |
 | [bitlbee-discord](https://github.com/sm00th/bitlbee-discord) | Discord protocol plugin for BitlBee. | [![C][C-Badge]][C-Url] | 🟠 On hiatus, since September 2021 |
 | [crocodile](https://github.com/tbodt/crocodile) | Discord client for TempleOS. | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since November 2017 |
-| [discord-aos](https://github.com/ruslang02/discord-aos) | Discord client for Sailfish OS  | [![Qt][Qt-Badge]][Qt-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 On hiatus, since November 2021 |
 | [discord-ppc](https://github.com/vistafan12/discord-ppc) | Discord version for PowerPC architecture | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟠 On hiatus, since June 2017 |
 | [Arcscord](https://github.com/Arcoz0308/arcscord) | NodeJS library written in typescript who interact with the Discord API | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 
