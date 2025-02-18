@@ -233,7 +233,6 @@ The following are server implementations that reimplement Discord's client-serve
 [^3]: While the main client is still On hiatus, the community has made patchs for the client to extend its usages and fix bugs that have occured over time.
 		- [Patcher](https://github.com/geniiii/patcher)
 		- [Audio Hook](https://github.com/geniiii/ripcord-audio-hook)
-		- [Emoji Fix](https://github.com/cool-dev-code/ripcord-emoji-fix)
 
 ## Contributing
 
