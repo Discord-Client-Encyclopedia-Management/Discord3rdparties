@@ -87,6 +87,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [BetterDiscord](https://betterdiscord.app/) | BetterDiscord extends the functionality of DiscordApp by enhancing it with new features.  | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [DiscoCSS](https://github.com/mlvzk/discocss) | A tiny Discord CSS injector for Linux and Mac OS. | [![Shell Script][Shell Script-Badge]][Shell Script-Url] | 🟢 Active |
 | [Kernel](https://github.com/kernel-mod) | A super small and fast Electron client mod with the most capability. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
+| [Moonlight](https://moonlight-mod.github.io/) | Yet another Discord client mod, focused on providing a decent user and developer experience. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [OpenAsar](https://openasar.dev/) | Alternative `app.asar` for Discord. Makes your client feel snappier. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![Nim][Nim-Badge]][Nim-Url] | 🟢 Active |
 | [reUpdater](https://github.com/cordpackers/reUpdater) | An open-source alternative to Discord's updater.node, featuring multithreaded downloads and allowing custom desktop client patches via an alternative update API. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Replugged](https://replugged.dev) | A lightweight Discord client mod focused on simplicity and performance. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
