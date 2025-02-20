@@ -161,7 +161,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Unicord](https://github.com/UnicordDev/Unicord) | Discord Client for Windows 10 and Windows 10 Mobile | [![C#][C#-Badge]][C#-Url] | 🟢 Active |
 | [Accord](https://github.com/evelyneee/accord) | Client for modern Macs | [![Swift][Swift-Badge]][Swift-Url] | 🟠 On hiatus, since December 2022 |
 | [Unofficial-discord-client](https://github.com/Coding-Bunker/unofficial-discord-client) | Unofficial client for discord build in C++ with Qt. | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since March 2022 |
-| [Ripcord](https://cancel.fm/ripcord/) | Alternative desktop chat client for Slack (and Discord) designed for power users. | [Closed source] | 🟠 On hiatus, since July 2021 |
+| [Ripcord](https://cancel.fm/ripcord/) | Alternative desktop chat client for Slack (and Discord) designed for power users. | [Closed source] | 🟠 On hiatus, since July 2021 *(Patchs[^3]\)* |
 | [Swiftcord](https://github.com/cryptoAlgorithm/Swiftcord) | A completely native Discord client for macOS built 100% in Swift and SwiftUI! | [![Swift][Swift-Badge]][Swift-Url] | 🔴 Broken |
 | [6cord](https://6cord.diamondb.xyz/) | A terminal front-end for the Discord chat service | [![Go][Go-Badge]][Go-Url] | 🔴 Discontinued |
 | [concord](https://github.com/volatide/concord) | Discord client made in Qt5 | [![Python][Python-Badge]][Python-Url] | 🔴 Discontinued |
@@ -205,6 +205,8 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Sailcord (Previously SailDiscord)](https://github.com/roundedrectangle/SailDiscord) | A SailfishOS Discord Client | [![Python][Python-Badge]][Python-Url] [![Qt][Qt-Badge]][Qt-Url] | 🟢 Active |
 | [discord-j2me](https://github.com/gtrxAC/discord-j2me) | Discord client for Java ME (MIDP 1.0 & 2.0) devices | [![Java][Java-Badge]][Java-Url] | 🟢 Active |
 | [Weechat Discord](https://github.com/terminal-discord/weechat-discord) | Weechat plugin for Discord support. | [![Rust][Rust-Badge]][Rust-Url] | 🟢 Active |
+| [DiscordBotClient](https://github.com/aiko-chan-ai/DiscordBotClient) | Discord Bot Client allows you to use your bot, just like any other user account, except Friends and Groups. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active <br/> ⛔ This client is meant to be used with Discord Apps (Bots)  |
+| [DiscordBotClient (2022 - 2025)](https://github.com/ChrisEric1/ChrisEric1.GitHub.io) | older-style Discord Bot Client (lighter, fewer features). | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active <br/> ⛔ This client is meant to be used with Discord Apps (Bots) |
 | [bitlbee-discord](https://github.com/sm00th/bitlbee-discord) | Discord protocol plugin for BitlBee. | [![C][C-Badge]][C-Url] | 🟠 On hiatus, since September 2021 |
 | [crocodile](https://github.com/tbodt/crocodile) | Discord client for TempleOS. | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since November 2017 |
 | [discord-aos](https://github.com/ruslang02/discord-aos) | Discord client for Sailfish OS  | [![Qt][Qt-Badge]][Qt-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 On hiatus, since November 2021 |
@@ -228,6 +230,9 @@ The following are server implementations that reimplement Discord's client-serve
 
 [^1]: Discord brought a breaking change for the mod in question.
 [^2]: Some occasional breaks might occur depending on the maintainers' free time.
+[^3]: While the main client is still On hiatus, the community has made patchs for the client to extend its usages and fix bugs that have occured over time.
+		- [Patcher](https://github.com/geniiii/patcher)
+		- [Audio Hook](https://github.com/geniiii/ripcord-audio-hook)
 
 ## Contributing
 
