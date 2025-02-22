@@ -113,7 +113,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [GooseMod](https://goosemod.com/) | GooseMod is a new, store-driven Discord mod. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [HolyMod](https://github.com/HolyMod/HolyMod) | A lightweight client mod focused on simplicity and performance. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Lightcord](https://thelightcord.github.io/website/) | Lightcord is a simple and customizable client for Discord. | [Closed Source] | ⛔ Github and other stuff missing |
-| [Powercord](https://powercord.dev/) | A lightweight Discord client mod focused on simplicity and performance. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
+| [Powercord](https://github.com/powercord-org/powercord) | A lightweight Discord client mod focused on simplicity and performance. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Topaz](https://topaz.goosemod.com/) | Topaz is an upcoming mod which aims to be "next-gen" by using advanced tech to add never-before-seen innovative features. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [Velocity](https://github.com/Velocity-Discord/Velocity) | Velocity is a Discord Client modification that allows you to extend discord's functionality and capabilities. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 
