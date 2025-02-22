@@ -66,6 +66,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Bunny](https://github.com/pyoncord/Bunny) | A mod for Discord's mobile apps, fork of Vendetta. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 On hiatus, since September 2024 |
 | [Vendetta](https://github.com/vendetta-mod/Vendetta) | A Discord mod that is compatible with Android and iOS! | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Discord Classic](https://github.com/cellomonster/iOS-Discord-Classic) | A bare-bones Discord client for iOS 5 and 6. | [![Objective-C][Objective-C-Badge]][Objective-C-Url] | 🔴 Discontinued |
+| [Discord Classic (continuation)](https://github.com/ToruTheRedFox/iOS-Discord-Classic) | Discord client for Legacy iOS with enhanced UI and additional features. <br/> Based off the original Discord Classic. | [![Objective-C][Objective-C-Badge]][Objective-C-Url] | ⛔ Active. May get account banned. |
 
 ## Desktop
 
