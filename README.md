@@ -105,6 +105,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Crycord](https://crycord.geopjr.dev/) | A Discord Client modification with plugins. Uses BeautifulDiscord's CSS injector. Oh it's also written in Crystal! | [![Crystal][Crystal-Badge]][Crystal-Url] | 🟠 On hiatus, since May 2021 |
 | [Demoncord](https://git.ruthenic.com/Demon/demoncord-rewrite) | A Discord client mod by satanists, for satanists. |[![JavaScript][JavaScript-Badge]][JavaScript-Url] |  🟠 On hiatus, since September 2022 |
 | [EndPwn](https://github.com/EndPwnArchive) | An ASAR-based client modifcation for Discord. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
+| [Yelm](https://github.com/adryd325/yelm) |  A private Discord client mod and datamining utility used and developed around mid 2017. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [EnhancedDiscord](https://github.com/joe27g/EnhancedDiscord) | A lightweight Discord client mod. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Abandoned |
 | Acord Premium | A client you have to pay for that stole its code. | [Closed source] | ⛔ sus behavior (Stolen code) |
 | [GooseMod](https://goosemod.com/) | GooseMod is a new, store-driven Discord mod. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
