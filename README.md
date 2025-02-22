@@ -109,6 +109,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Yelm](https://github.com/adryd325/yelm) |  A private Discord client mod and datamining utility used and developed around mid 2017. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [EnhancedDiscord](https://github.com/joe27g/EnhancedDiscord) | A lightweight Discord client mod. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Abandoned |
 | Acord Premium | A client you have to pay for that stole its code. | [Closed source] | ⛔ sus behavior (Stolen code) |
+| hh3 | A private client mod. | [Closed source] | ⛔ *(Status[^4]\)*|
 | [GooseMod](https://goosemod.com/) | GooseMod is a new, store-driven Discord mod. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [HolyMod](https://github.com/HolyMod/HolyMod) | A lightweight client mod focused on simplicity and performance. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Lightcord](https://thelightcord.github.io/website/) | Lightcord is a simple and customizable client for Discord. | [Closed Source] | ⛔ Github and other stuff missing |
@@ -237,6 +238,7 @@ The following are server implementations that reimplement Discord's client-serve
 [^3]: While the main client is still On hiatus, the community has made patchs for the client to extend its usages and fix bugs that have occured over time.
 		- [Patcher](https://github.com/geniiii/patcher)
 		- [Audio Hook](https://github.com/geniiii/ripcord-audio-hook)
+[^4]: As of now we know little about this mod, but more info will be filled in as it is discovered.
 
 ## Contributing
 
