@@ -66,6 +66,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Bunny](https://github.com/pyoncord/Bunny) | A mod for Discord's mobile apps, fork of Vendetta. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 On hiatus, since September 2024 |
 | [Vendetta](https://github.com/vendetta-mod/Vendetta) | A Discord mod that is compatible with Android and iOS! | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Discord Classic](https://github.com/cellomonster/iOS-Discord-Classic) | A bare-bones Discord client for iOS 5 and 6. | [![Objective-C][Objective-C-Badge]][Objective-C-Url] | 🔴 Discontinued |
+| [Discord Classic (continuation)](https://github.com/ToruTheRedFox/iOS-Discord-Classic) | Discord client for Legacy iOS with enhanced UI and additional features. <br/> Based off the original Discord Classic. | [![Objective-C][Objective-C-Badge]][Objective-C-Url] | ⛔ Active. May get account banned. |
 
 ## Desktop
 
@@ -108,10 +109,11 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Yelm](https://github.com/adryd325/yelm) |  A private Discord client mod and datamining utility used and developed around mid 2017. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [EnhancedDiscord](https://github.com/joe27g/EnhancedDiscord) | A lightweight Discord client mod. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Abandoned |
 | Acord Premium | A client you have to pay for that stole its code. | [Closed source] | ⛔ sus behavior (Stolen code) |
+| hh3 | A private client mod. | [Closed source] | ⛔ *(Status[^4]\)*|
 | [GooseMod](https://goosemod.com/) | GooseMod is a new, store-driven Discord mod. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [HolyMod](https://github.com/HolyMod/HolyMod) | A lightweight client mod focused on simplicity and performance. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
-| [Lightcord](https://thelightcord.github.io/website/) | Lightcord is a simple and customizable client for Discord. | [Closed Source] | ⛔ Github and otherstuff missing |
-| [Powercord](https://powercord.dev/) | A lightweight Discord client mod focused on simplicity and performance. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
+| Lightcord | Lightcord is a simple and customizable client for Discord. | [Closed Source] | ⛔ sus behavior (Github and other stuff missing) |
+| [Powercord](https://github.com/powercord-org/powercord) | A lightweight Discord client mod focused on simplicity and performance. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Topaz](https://topaz.goosemod.com/) | Topaz is an upcoming mod which aims to be "next-gen" by using advanced tech to add never-before-seen innovative features. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [Velocity](https://github.com/Velocity-Discord/Velocity) | Velocity is a Discord Client modification that allows you to extend discord's functionality and capabilities. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 
@@ -236,6 +238,7 @@ The following are server implementations that reimplement Discord's client-serve
 [^3]: While the main client is still On hiatus, the community has made patchs for the client to extend its usages and fix bugs that have occured over time.
 		- [Patcher](https://github.com/geniiii/patcher)
 		- [Audio Hook](https://github.com/geniiii/ripcord-audio-hook)
+[^4]: As of now we know little about this mod, but more info will be filled in as it is discovered.
 
 ## Contributing
 
