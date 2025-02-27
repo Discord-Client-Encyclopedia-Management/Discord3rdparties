@@ -23,6 +23,13 @@ Please be aware of the following things when making suggestions:
    project does not says it's archived or discontinued, it will be
    marked as on hiatus. 👍
 
+3. Absolutely no forks unless the original is `discontinued`, or you have made significant changes and have a significant following. eg a significant amount of *(legitimate)* stars
+on the github repo.
+   
+   3(a). Forks being discontinued **Do Not Count**, the original repo must be discontinued. eg forking a discontinued fork of Vencord.
+
+   3(b). Forks also must be `1 month or older`. **⚠️ABSOLUTELY NO NEWLY MADE FORKS⚠️**
+
 > **:fire: Important:**
 > All of the entries are ordered alphabetically. 
 > Hence, while contributing, make sure to order to add the new 
