@@ -243,7 +243,7 @@ The following are server implementations that reimplement Discord's client-serve
 		- [Patcher](https://github.com/geniiii/patcher)
 		- [Audio Hook](https://github.com/geniiii/ripcord-audio-hook)
 [^4]: As of now we know little about this mod, but more info will be filled in as it is discovered.
-[^5]: The most recent update, that isn’t just a dependency update, seems to be Dec 18, 2024. 
+[^5]: Development blocked by missing features on the Spacebar Server. 
 
 ## Contributing
 
