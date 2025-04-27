@@ -164,8 +164,8 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [JankClient](https://github.com/MathMan05/JankClient) |  A SpaceBar Client written in TS HTML and CSS | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active <br/> ⛔ Does not support discord.com instead is a spacebar client |
 | [LibreDiscord](https://gitlab.com/zipdox/librediscord/-/tree/master?ref_type=heads) | LibreDiscord is a free and open source voice and video client for Discord written in C using GTK3 and GLib. | [![C][C-Badge]][C-Url] | 🟢 Active |
 | [QTCord](https://github.com/mak448a/QTCord/) | A lightweight, native Discord client written in Python with QT. | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
-| [Spacebar Chat](https://spacebar.chat/) | Open source, themeable and extendable discord-compatible native Spacebar client | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 Somewhat active, incomplete <br/> ⛔ Does not support discord.com instead is a spacebar client |
 | [Unicord](https://github.com/UnicordDev/Unicord) | Discord Client for Windows 10 and Windows 10 Mobile | [![C#][C#-Badge]][C#-Url] | 🟢 Active |
+| [Spacebar Chat](https://spacebar.chat/) | Open source, themeable and extendable discord-compatible native Spacebar client | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 On hiatus, since Dec 2024 *(Out of date[^1]\)* <br/> ⛔ Does not support discord.com instead is a spacebar client |
 | [Accord](https://github.com/evelyneee/accord) | Client for modern Macs | [![Swift][Swift-Badge]][Swift-Url] | 🟠 On hiatus, since December 2022 |
 | [Unofficial-discord-client](https://github.com/Coding-Bunker/unofficial-discord-client) | Unofficial client for discord build in C++ with Qt. | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since March 2022 |
 | [Ripcord](https://cancel.fm/ripcord/) | Alternative desktop chat client for Slack (and Discord) designed for power users. | [Closed source] | 🟠 On hiatus, since July 2021 *(Patchs[^3]\)* |
@@ -243,6 +243,7 @@ The following are server implementations that reimplement Discord's client-serve
 		- [Patcher](https://github.com/geniiii/patcher)
 		- [Audio Hook](https://github.com/geniiii/ripcord-audio-hook)
 [^4]: As of now we know little about this mod, but more info will be filled in as it is discovered.
+[^5]: The most recent update, that isn’t just a dependency update, seems to be Dec 18, 2024. 
 
 ## Contributing
 
