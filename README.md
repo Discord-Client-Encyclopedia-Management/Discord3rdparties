@@ -161,11 +161,11 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Discordo](https://github.com/ayntgl/discordo) | A lightweight, secure, and feature-rich Discord terminal client | [![Go][Go-Badge]][Go-Url] | 🟢 Active |
 | [Disrust](https://github.com/DvorakDwarf/disrust) | A discord TUI client written entirely in Rust | [![Rust][Rust-Badge]][Rust-Url] | 🟢 Active |
 | [Dissent](https://github.com/diamondburned/dissent) | Dissent (previously gtkcord4) is a third-party Discord client designed for a smooth, native experience on Linux desktops. | [![Go][Go-Badge]][Go-Url] | 🟢 Active |
-| [JankClient](https://github.com/MathMan05/JankClient) |  A SpaceBar Client written in TS HTML and CSS | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠🟢 Active, incomplete <br/> ⛔ Does not support discord.com instead is a spacebar client |
+| [JankClient](https://github.com/MathMan05/JankClient) |  A SpaceBar Client written in TS HTML and CSS | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active <br/> ⛔ Does not support discord.com instead is a spacebar client |
 | [LibreDiscord](https://gitlab.com/zipdox/librediscord/-/tree/master?ref_type=heads) | LibreDiscord is a free and open source voice and video client for Discord written in C using GTK3 and GLib. | [![C][C-Badge]][C-Url] | 🟢 Active |
 | [QTCord](https://github.com/mak448a/QTCord/) | A lightweight, native Discord client written in Python with QT. | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
-| [Spacebar Chat](https://spacebar.chat/) | Open source, themeable and extendable discord-compatible native Spacebar client | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 Somewhat active, incomplete <br/> ⛔ Does not support discord.com instead is a spacebar client |
 | [Unicord](https://github.com/UnicordDev/Unicord) | Discord Client for Windows 10 and Windows 10 Mobile | [![C#][C#-Badge]][C#-Url] | 🟢 Active |
+| [Spacebar Chat Client](https://spacebar.chat/) | Open source, themeable and extendable discord-compatible native Spacebar client | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢🟠 Inactive *(Variable[^5]\)* <br/> ⛔ Does not support discord.com instead is a spacebar client |
 | [Accord](https://github.com/evelyneee/accord) | Client for modern Macs | [![Swift][Swift-Badge]][Swift-Url] | 🟠 On hiatus, since December 2022 |
 | [Unofficial-discord-client](https://github.com/Coding-Bunker/unofficial-discord-client) | Unofficial client for discord build in C++ with Qt. | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since March 2022 |
 | [Ripcord](https://cancel.fm/ripcord/) | Alternative desktop chat client for Slack (and Discord) designed for power users. | [Closed source] | 🟠 On hiatus, since July 2021 *(Patchs[^3]\)* |
@@ -227,14 +227,15 @@ The following are server implementations that reimplement Discord's client-serve
 
 | Name | Features | Language(s) | Is Self-hostable | Development Status |
 | :---: | :---: | :---: | :---: | :---: |
-| [Polyphony](https://github.com/polyphony-chat/symfonia) | Almost fully featured re-implementation of Discord API Server, support for federation planned using Polyproto as the server-server API | [![Rust][Rust-Badge]][Rust-Url] | 🟢 Yes | 🟢 Active |
-| [Reflectcord](https://github.com/V3L0C1T13S/reflectcord) | Reimplementation of Discord API Server on top of Revolt.chat | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Yes | 🟢 Active |
+| [Polyphony](https://github.com/polyphony-chat) | Almost fully featured re-implementation of Discord API Server, support for federation planned using Polyproto as the server-server API | [![Rust][Rust-Badge]][Rust-Url] | 🟢 Yes | 🟢 Active |
 | [Spacebar Chat](https://spacebar.chat/) | Almost fully featured re-implementation of Discord API Server experimental branch implementing limited support for federation using ActivityPub as the server-server API | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Yes | 🟢 Active |
 | [Oldcord](https://oldcordapp.com/) | 2015-2018 Discord server reimplementation | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Yes | 🟢 Active |
 | [Hummus](https://hummus.sys42.net/) | 2017 Discord server reimplementation | [Closed source] | 🟠 Ask creator for permission | 🟢 Active |
 | Cacophony | An plugin for Catalyst matrix server implementing Discord's client-server API, partial reimplementation of Discord API | [![Rust][Rust-Badge]][Rust-Url] (Currently closed source, planned to be open sourced after further progress) | 🟠🟢 Yes, once open sourced | 🟠 Work in progress |
+| [Miranda NG](https://miranda-ng.org) | Multi Protocol Program that supports Discord | [![C++][C++-Badge]][C++-Url] | 🟢 Yes  | 🟢 Active |
+| [Reflectcord](https://github.com/V3L0C1T13S/reflectcord) | Reimplementation of Discord API Server on top of Revolt.chat | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Yes | 🟠 On hiatus, since Jan 2024 | 
 | [Litecord](https://gitlab.com/litecord/litecord) | Partial reimplementation of Discord API Server | [![Python][Python-Badge]][Python-Url] | 🟠 Allowed, not intended | 🟠 On hiatus, since December 2023 |
-| [Miranda NG](https://miranda-ng.org) | Multi Protocol Program that supports Discord | [![C++][C++-Badge]][C++-Url] | 🟢 Yes  | 🟢 Active | 
+
 
 [^1]: Discord brought a breaking change for the mod in question.
 [^2]: Some occasional breaks might occur depending on the maintainers' free time.
@@ -242,6 +243,7 @@ The following are server implementations that reimplement Discord's client-serve
 		- [Patcher](https://github.com/geniiii/patcher)
 		- [Audio Hook](https://github.com/geniiii/ripcord-audio-hook)
 [^4]: As of now we know little about this mod, but more info will be filled in as it is discovered.
+[^5]: Client missing features SpaceBar server has. 
 
 ## Contributing
 
