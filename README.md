@@ -59,12 +59,12 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
 | [Discord iOS](https://apps.apple.com/us/app/discord-chat-talk-hangout/id985746746) | Official iOS client | [Closed source] | 🟢 Active |
-| [Enmity](https://enmity.unbound.rip/) | The power of addons, all in your hand. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Stossycord](https://github.com/Stossycord/Stossycord) | Stossycord is a Discord Client Native to iOS Devices. It is made in 100% Swift and SwiftUI for Privacy, Responsiveness and Security | [![Swift][Swift-Badge]][Swift-Url]    | 🟠🟢 Active *(In a very early beta)* |
 | [Revenge](https://github.com/revenge-mod/Revenge) | Revenge is a fork of [Bunny](https://github.com/pyoncord/Bunny) | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Unbound](https://www.unbound.rip/) | Cross-platform client modification for discord on mobile. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 *(still in development state)* |
 | [Bunny](https://github.com/pyoncord/Bunny) | A mod for Discord's mobile apps, fork of Vendetta. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 On hiatus, since April 2025 |
 | [Vendetta](https://github.com/vendetta-mod/Vendetta) | A Discord mod that is compatible with Android and iOS! | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
+| [Enmity](https://enmity.unbound.rip/) | The power of addons, all in your hand. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Discord Classic](https://github.com/cellomonster/iOS-Discord-Classic) | A bare-bones Discord client for iOS 5 and 6. | [![Objective-C][Objective-C-Badge]][Objective-C-Url] | 🔴 Discontinued |
 | [Discord Classic (continuation)](https://github.com/ToruTheRedFox/iOS-Discord-Classic) | Discord client for Legacy iOS with enhanced UI and additional features. <br/> Based off the original Discord Classic. | [![Objective-C][Objective-C-Badge]][Objective-C-Url] | ⛔ Active. May get account banned. |
 
@@ -194,7 +194,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
 | [A-client-for-Discord-for-3DS](https://github.com/XeathJP/A-client-for-Discord-for-3DS) | Applications that can use discord on 3DS | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since since January 2022 |
-| [Quarrel](https://github.com/UWPCommunity/Quarrel) | Quarrel is a Discord client for Windows and Xbox that aims to bring voice chat to Xbox and improved support for varying screen sizes on devices running windows. | [![C#][C#-Badge]][C#-Url] | 🟠 On hiatus, since Augest 2022 |
+| [Quarrel](https://github.com/UWPCommunity/Quarrel) | Quarrel is a Discord client for Windows and Xbox that aims to bring voice chat to Xbox and improved support for varying screen sizes on devices running windows. | [![C#][C#-Badge]][C#-Url] | 🟠 On hiatus, since August 2022 |
 | [NXCord](https://github.com/Grarak/NXCord) | Unofficial Nintendo Switch Discord client | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since April 2020 |
 | [crcophony](https://github.com/freyamade/crcophony) | Fast, neat discord TUI written in Crystal (read: cacophony) | [![Crystal][Crystal-Badge]][Crystal-Url] | 🟠 On hiatus, since November 2019 |
 | [VitaCord](https://github.com/devingDev/VitaCord) | Discord Client for PS Vita / PS TV | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since March 2018 |
