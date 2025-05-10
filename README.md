@@ -230,9 +230,9 @@ The following are server implementations that reimplement Discord's client-serve
 | :---: | :---: | :---: | :---: | :---: |
 | [Polyphony](https://github.com/polyphony-chat) | Free, open source, federated communications software, compatible with the Discord API and built with [polyproto](https://polyproto.org/docs/intro/), Rust and love. | [![Rust][Rust-Badge]][Rust-Url] | 🟢 Yes | 🟠 Work in progress |
 | [Spacebar Chat](https://spacebar.chat/) | Almost fully featured re-implementation of Discord API Server experimental branch implementing limited support for federation using ActivityPub as the server-server API | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Yes | 🟢 Active |
-| [Oldcord](https://github.com/oldcordapp/OldCordV3) | 2015-2018 Discord server reimplementation | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Yes | 🟢 Active |
 | [Hummus](https://hummus.sys42.net/) | 2017 Discord server reimplementation | [Closed source] | 🟠 Ask creator for permission | 🟢 Active |
 | [Miranda NG](https://miranda-ng.org) | Multi Protocol Program that supports Discord | [![C++][C++-Badge]][C++-Url] | 🟢 Yes  | 🟢 Active |
+| [Oldcord](https://github.com/oldcordapp/OldCordV3) | 2015-2018 Discord server reimplementation | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Yes | 🟠 On hiatus, since May 2025 |
 | [Reflectcord](https://github.com/V3L0C1T13S/reflectcord) | Reimplementation of Discord API Server on top of Revolt.chat | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Yes | 🟠 On hiatus, since Jan 2024 | 
 | [Litecord](https://gitlab.com/litecord/litecord) | Partial reimplementation of Discord API Server | [![Python][Python-Badge]][Python-Url] | 🟠 Allowed, not intended | 🟠 On hiatus, since December 2023 |
 
