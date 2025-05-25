@@ -210,7 +210,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
 | [Discross](http://discross.rc24.xyz/index.html) | A webhook bridge to send messages on Discord through a webpage | [![JavaSript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
-| [EveryDiscord](https://github.com/gaouservbf/EveryDiscord) |EveryDiscord is a light weight FOSS client targeting old Windows, specifically NT5 but still trying to run on MS-DOS based Windows.  | Visual Basic 6.0 |  ⛔ Active, *(may/will get you banned[^6]\)* |
+| [EveryDiscord](https://github.com/gaouservbf/EveryDiscord) |EveryDiscord is a light weight FOSS client targeting old Windows, specifically NT5 but still trying to run on MS-DOS based Windows.  | Visual Basic 6.0 |   🟢 Active |
 | [purple-discord](https://github.com/EionRobb/purple-discord) | A libpurple/Pidgin plugin for Discord | [![C][C-Badge]][C-Url] | 🟢 Active |
 | [Reliable Discord-client IRC Daemon (rdircd)](https://github.com/mk-fg/reliable-discord-client-irc-daemon) | Reliable personal discord-client to irc-server translation daemon | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
 | [Sailcord (Previously SailDiscord)](https://github.com/roundedrectangle/SailDiscord) | A SailfishOS Discord Client | [![Python][Python-Badge]][Python-Url] [![Qt][Qt-Badge]][Qt-Url] | 🟢 Active |
@@ -247,7 +247,6 @@ The following are server implementations that reimplement Discord's client-serve
 		- [Audio Hook](https://github.com/geniiii/ripcord-audio-hook)
 [^4]: As of now we know little about this mod, but more info will be filled in as it is discovered.
 [^5]: Client missing features SpaceBar server has. 
-[^6]: [Github issue](https://github.com/gaouservbf/EveryDiscord/issues/3)
 
 ## Contributing
 
