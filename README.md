@@ -48,7 +48,8 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [VendroidEnhanced](https://github.com/VendroidEnhanced/Vendroid) | VendroidEnhanced is a fork of [Vencord/Vendroid](https://github.com/Vencord/Android) that improves upon the original project. | [![Kotlin][Kotlin-Badge]][Kotlin-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Vendroid](https://github.com/Vencord/Vendroid) | Vencord for Android! A WebView embedding the Discord site, loading Vencord and adding some goodies. | [![Java][Java-Badge]][Java-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Unbound](https://www.unbound.rip/) | Cross-platform client modification for discord on mobile. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 *(still in development state)* |
-| [Bunny](https://github.com/pyoncord/Bunny) | A mod for Discord's mobile apps, fork of Vendetta. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 On hiatus, since April 2025 | [Vendetta](https://github.com/vendetta-mod/Vendetta) | A Discord mod that is compatible with Android and iOS! | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
+| [Bunny](https://github.com/pyoncord/Bunny) | A mod for Discord's mobile apps, fork of Vendetta. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued | [Vendetta](https://github.com/vendetta-mod/Vendetta) | A Discord mod that is compatible with Android and iOS! | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
+ [Kettu](https://github.com/C0C0B01/Pupu) | A Discord mobile app client modification continuing Bunny's mission | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [CutTheCord](https://gitdab.com/distok/cutthecord) | Modular Client Mod for Discord's Android app. | [![Python][Python-Badge]][Python-Url] [![Java][Java-Badge]][Java-Url] | 🔴 Discontinued |
 | [OpenCord](https://github.com/X1nto/OpenCord) | An open-source implementation of the Discord Android app | [![Kotlin][Kotlin-Badge]][Kotlin-Url] | 🔴 Discontinued |
 | [Treecord](https://github.com/Treecord/Treecord) | A modded Discord client for Android! | [![Shell Script][Shell Script-Badge]][Shell Script-Url] | 🔴 Discontinued |
@@ -59,10 +60,11 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
 | [Discord iOS](https://apps.apple.com/us/app/discord-chat-talk-hangout/id985746746) | Official iOS client | [Closed source] | 🟢 Active |
+| [Bound](https://github.com/CloudySnowX/BoundTweak) | Unofficial builds of [Revenge](https://github.com/revenge-mod/Revenge) for iOS | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Stossycord](https://github.com/Stossycord/Stossycord) | Stossycord is a Discord Client Native to iOS Devices. It is made in 100% Swift and SwiftUI for Privacy, Responsiveness and Security | [![Swift][Swift-Badge]][Swift-Url]    | 🟠🟢 Active *(In a very early beta)* |
-| [Revenge](https://github.com/revenge-mod/Revenge) | Revenge is a fork of [Bunny](https://github.com/pyoncord/Bunny) | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Unbound](https://www.unbound.rip/) | Cross-platform client modification for discord on mobile. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 *(still in development state)* |
-| [Bunny](https://github.com/pyoncord/Bunny) | A mod for Discord's mobile apps, fork of Vendetta. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 On hiatus, since April 2025 |
+| [Revenge](https://github.com/revenge-mod/Revenge) | Revenge is a fork of [Bunny](https://github.com/pyoncord/Bunny) | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
+| [Bunny](https://github.com/pyoncord/Bunny) | A mod for Discord's mobile apps, fork of [Vendetta](https://github.com/vendetta-mod/Vendetta). | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Vendetta](https://github.com/vendetta-mod/Vendetta) | A Discord mod that is compatible with Android and iOS! | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Enmity](https://enmity.unbound.rip/) | The power of addons, all in your hand. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Discord Classic](https://github.com/cellomonster/iOS-Discord-Classic) | A bare-bones Discord client for iOS 5 and 6. | [![Objective-C][Objective-C-Badge]][Objective-C-Url] | 🔴 Discontinued |
@@ -210,6 +212,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
 | [Discross](http://discross.rc24.xyz/index.html) | A webhook bridge to send messages on Discord through a webpage | [![JavaSript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
+| [EveryDiscord](https://github.com/gaouservbf/EveryDiscord) |EveryDiscord is a light weight FOSS client targeting old Windows, specifically NT5 but still trying to run on MS-DOS based Windows.  | Visual Basic 6.0 |  ⛔ Active, *(may/will get you banned[^6]\)* |
 | [purple-discord](https://github.com/EionRobb/purple-discord) | A libpurple/Pidgin plugin for Discord | [![C][C-Badge]][C-Url] | 🟢 Active |
 | [Reliable Discord-client IRC Daemon (rdircd)](https://github.com/mk-fg/reliable-discord-client-irc-daemon) | Reliable personal discord-client to irc-server translation daemon | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
 | [Sailcord (Previously SailDiscord)](https://github.com/roundedrectangle/SailDiscord) | A SailfishOS Discord Client | [![Python][Python-Badge]][Python-Url] [![Qt][Qt-Badge]][Qt-Url] | 🟢 Active |
@@ -246,6 +249,7 @@ The following are server implementations that reimplement Discord's client-serve
 		- [Audio Hook](https://github.com/geniiii/ripcord-audio-hook)
 [^4]: As of now we know little about this mod, but more info will be filled in as it is discovered.
 [^5]: Client missing features SpaceBar server has. 
+[^6]: [Github issue](https://github.com/gaouservbf/EveryDiscord/issues/3)
 
 ## Contributing
 
