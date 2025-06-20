@@ -180,7 +180,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Swiftcord](https://github.com/cryptoAlgorithm/Swiftcord) | A completely native Discord client for macOS built 100% in Swift and SwiftUI! | [![Swift][Swift-Badge]][Swift-Url] | 🔴 Broken |
 | [6cord](https://gitlab.com/diamondburned/6cord) | A terminal front-end for the Discord chat service | [![Go][Go-Badge]][Go-Url] | 🔴 Broken |
 | [concord](https://github.com/volatide/concord) | Discord client made in Qt5 | [![Python][Python-Badge]][Python-Url] | 🔴 Discontinued |
-| [Cordless](https://github.com/Bios-Marcel/cordless) | Cordless is a custom Discord client that aims to have a low memory footprint and be aimed at power-users. | [![Go][Go-Badge]][Go-Url] | ⛔ Discontinued, Developer got banned during development |
+| [Cordless](https://github.com/Bios-Marcel/cordless) | Cordless is a custom Discord client that aims to have a low memory footprint and be aimed at power-users. | [![Go][Go-Badge]][Go-Url] | 🔴 Broken, Developer got banned during development |
 | [Discline](https://github.com/mitchweaver/Discline) | A terminal Discord client that you can actually use. | [![Python][Python-Badge]][Python-Url] | 🔴 Discontinued |
 | [discord-curses](https://github.com/RX14/discord-curses) | Terminal-based discord client | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [DiscordFlex](https://github.com/ZenithRogue/DiscordFlex) | A custom Discord client built from the ground up. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![Vue.js][Vue.js-Badge]][Vue.js-Url] | 🔴 Discontinued |
