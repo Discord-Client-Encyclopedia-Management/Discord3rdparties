@@ -167,7 +167,6 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Discord Messenger-DM](https://github.com/DiscordMessenger/dm) |Discord Messenger is a free Discord-compatible messaging client targeting both new and old Windows.  | [![C++][C++-Badge]][C++-Url] |  🟢 Active |
 | [EveryDiscord](https://github.com/gaouservbf/EveryDiscord) |EveryDiscord is a light-weight FOSS Win32 client targeting old Windows, specifically NT5 but still trying to run on MS-DOS based Windows. Supports built-in plugins.  | Visual Basic 6.0 |   🟢 Active |
 | [Discordo](https://github.com/ayntgl/discordo) | A lightweight, secure, and feature-rich Discord terminal client | [![Go][Go-Badge]][Go-Url] | 🟢 Active |
-| [Disrust](https://github.com/DvorakDwarf/disrust) | A discord TUI client written entirely in Rust | [![Rust][Rust-Badge]][Rust-Url] | 🟢 Active |
 | [Dissent](https://github.com/diamondburned/dissent) | Dissent (previously gtkcord4) is a third-party Discord client designed for a smooth, native experience on Linux desktops. | [![Go][Go-Badge]][Go-Url] | 🟢 Active |
 | [Endcord](https://github.com/mzivic7/endcord) | Feature rich Discord TUI client, with RPC server, ascii art media player, message search and theming | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
 | [JankClient](https://github.com/MathMan05/JankClient) |  A SpaceBar Client written in TS HTML and CSS | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active <br/> ⛔ Does not support discord.com instead is a spacebar client |
@@ -191,6 +190,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [discord-screenaudio](https://github.com/maltejur/discord-screenaudio) | A custom Discord client that supports streaming with audio on Linux. | [![C++][C++-Badge]][C++-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [Discord-Terminal](https://web.archive.org/web/20221120040653/https://github.com/atlx/discord-term) | An extensible Discord terminal client. Can be used with bot or user tokens. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [Disorder](https://github.com/lexffe/discorder) | Command line discord client | [![Go][Go-Badge]][Go-Url] | 🔴 Discontinued |
+| [Disrust](https://github.com/DvorakDwarf/disrust) | A discord TUI client written entirely in Rust | [![Rust][Rust-Badge]][Rust-Url] | 🔴 Discontinued |
 | [Fast-Discord](https://github.com/EnyoYoen/Fast-Discord) | Client written in C++ and Qt | [![C++][C++-Badge]][C++-Url] | 🔴 Discontinued |
 | [Harmony](https://github.com/hlafaille/Harmony) | A Java-based Discord client. | [![Java][Java-Badge]][Java-Url] | 🔴 Discontinued |
 | [micro-discord](https://github.com/soukouki/micro-discord) | Simple discord client that doesn't use javascript | [![Ruby][Ruby-Badge]][Ruby-Url] | 🔴 Discontinued |
