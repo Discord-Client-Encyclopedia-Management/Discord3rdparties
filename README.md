@@ -46,10 +46,10 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Revenge](https://github.com/revenge-mod/Revenge) | Revenge is a fork of [Bunny](https://github.com/pyoncord/Bunny) | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Aliucord](https://github.com/Aliucord/Aliucord) | A modification for the Android Discord app | [![Java][Java-Badge]][Java-Url] [![Kotlin][Kotlin-Badge]][Kotlin-Url] [![Dart][Dart-Badge]][Dart-Url] | 🔵 Active *(Out of date[^1]\)* |
 | [VendroidEnhanced](https://github.com/VendroidEnhanced/Vendroid) | VendroidEnhanced is a fork of [Vencord/Vendroid](https://github.com/Vencord/Android) that improves upon the original project. | [![Kotlin][Kotlin-Badge]][Kotlin-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
-| [Vendroid](https://github.com/Vencord/Vendroid) | Vencord for Android! A WebView embedding the Discord site, loading Vencord and adding some goodies. | [![Java][Java-Badge]][Java-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 [Kettu](https://github.com/C0C0B01/Kettu) | A Discord mobile app client modification continuing Bunny's mission | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 [Lumi](https://github.com/C0C0B01/Lumi) | A Fork of Wintry aiming to deliver a vencord like experience on android!| [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Unbound](https://www.unbound.rip/) | Cross-platform client modification for discord on mobile. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 *(still in development state)* |
+| [Vendroid](https://github.com/Vencord/Vendroid) | Vencord for Android! A WebView embedding the Discord site, loading Vencord and adding some goodies. | [![Java][Java-Badge]][Java-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [Bunny](https://github.com/pyoncord/Bunny) | A mod for Discord's mobile apps, fork of Vendetta. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 [Wintry](https://github.com/amsyarasyiq/wintry) | Make your Discord cooler, literally | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Broken |
 [Vendetta](https://github.com/vendetta-mod/Vendetta) | A Discord mod that is compatible with Android and iOS! | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
