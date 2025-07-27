@@ -227,13 +227,14 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [DiskCord](https://github.com/maem0/diskcord) | Discord client for older web browsers </br> (made for BlackBerry10 OS in mind) | [![JavaSript][JavaScript-Badge]][JavaScript-Url] | 🟠🟢 Active, NEW be careful. |
 | [DiscordBotClient](https://github.com/aiko-chan-ai/DiscordBotClient) | Discord Bot Client allows you to use your bot, just like any other user account. </br> (except Friends and Groups) | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active <br/> ⛔ This client is meant to be used with Discord Apps (Bots)  |
 | [DiscordBotClient (2022 - 2025)](https://github.com/ChrisEric1/ChrisEric1.GitHub.io) | older-style Discord Bot Client (lighter, fewer features). | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active <br/> ⛔ This client is meant to be used with Discord Apps (Bots) |
+| [Kori](https://github.com/cyan-2048/Discord4KaiOS) |Unofficial Discord Client for KaiOS made using SolidJS | [![TypeScript][TypeScript-Badge]][TypeScript-Url] |  🟢 Active |
+| [discord wap(wireless app protocol)](https://github.com/gtrxAC/discord-wap) | i made another client that could be added, it's for old mobile web browsers, Discord WAP | [![TypeScript][TypeScript-Badge]][TypeScript-Url] |  🟢 Active |
 | [bitlbee-discord](https://github.com/sm00th/bitlbee-discord) | Discord protocol plugin for BitlBee. | [![C][C-Badge]][C-Url] | 🟠 On hiatus, since September 2021 |
 | [crocodile](https://github.com/tbodt/crocodile) | Discord client for TempleOS. | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since November 2017 |
 | [discord-aos](https://github.com/ruslang02/discord-aos) | Discord client for Sailfish OS  | [![Qt][Qt-Badge]][Qt-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 On hiatus, since November 2021 |
 | [discord-ppc](https://github.com/vistafan12/discord-ppc) | Discord version for PowerPC architecture | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟠 On hiatus, since June 2017 |
 | [Arcscord](https://github.com/Arcoz0308/arcscord) | NodeJS library written in typescript who interact with the Discord API | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
-| [Kori](https://github.com/cyan-2048/Discord4KaiOS) |Unofficial Discord Client for KaiOS made using SolidJS | [![TypeScript][TypeScript-Badge]][TypeScript-Url] |  🟢 Active |
-| [discord wap(wireless app protocol)](https://github.com/gtrxAC/discord-wap) | i made another client that could be added, it's for old mobile web browsers, Discord WAP | [![TypeScript][TypeScript-Badge]][TypeScript-Url] |  🟢 Active |
+
 
 
 ## Third party server implementations
