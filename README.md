@@ -144,9 +144,9 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [ChimeraCord](https://github.com/RoboChimera/ChimeraCord) | A functional but elegant unofficial Discord client for freeBSD, that aims for feature-parity with the official Discord client. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟠 On hiatus, since 2023 |
 | [Discord-PWA](https://github.com/NeverDecaf/discord-PWA) | A wrapper for the Discord web client as a Progressive Web Application, for use with Chromium based browsers. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟠 On hiatus, since 2023 |
 | [LemonCord](https://github.com/japandotorg/LemonCord) | A fast & light weight Discord Client made with love using the Rust programming language. | [![Rust][Rust-Badge]][Rust-Url] | 🟠 On hiatus, since 2023 |
+| [Themecord](https://github.com/Theme-Cord/ThemeCord) | A lightweight application that allows users to customize the appearance of their Discord client using custom CSS themes. | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since Jun 2023 |
 | [Discord-Sandbox](https://github.com/khlam/discord-sandboxed) | Open-source Sandbox Discord client for the privacy-minded. Say NO to intrusive data collection. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟠 On hiatus, since 2022 |
 | [NativeCord](https://github.com/andre4ik3/NativeCord) | SSB (site-specific browser) for Discord. In other words, all it does is load Discord as a website... in an app. | [![Swift][Swift-Badge]][Swift-Url] | 🟠 On hiatus, since March 2022 |
-| [Themecord](https://github.com/Theme-Cord/ThemeCord) | A lightweight application that allows users to customize the appearance of their Discord client using custom CSS themes. | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since Jun 2023 |
 | ~~[ArmCord](https://github.com/armcord/armcord)~~ | ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | ⛔ DMCA'd by ARM, rebranded to LegCord |
 | [Sunroof](https://github.com/verticalsync/Sunroof) | A fork of Vesktop. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Discord-Lite](https://web.archive.org/web/20221230055539/https://github.com/therealcyber71/Discord-Lite) | A Light-Weight Discord Client written in Python for developers, by developers. | [![Python][Python-Badge]][Python-Url] | 🔴 Discontinued, Developer MIA, repo and account deleted |
@@ -230,8 +230,8 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Kori](https://github.com/cyan-2048/Discord4KaiOS) |Unofficial Discord Client for KaiOS made using SolidJS | [![TypeScript][TypeScript-Badge]][TypeScript-Url] |  🟢 Active |
 | [discord wap(wireless app protocol)](https://github.com/gtrxAC/discord-wap) | i made another client that could be added, it's for old mobile web browsers, Discord WAP | [![TypeScript][TypeScript-Badge]][TypeScript-Url] |  🟢 Active |
 | [bitlbee-discord](https://github.com/sm00th/bitlbee-discord) | Discord protocol plugin for BitlBee. | [![C][C-Badge]][C-Url] | 🟠 On hiatus, since September 2021 |
-| [crocodile](https://github.com/tbodt/crocodile) | Discord client for TempleOS. | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since November 2017 |
 | [discord-aos](https://github.com/ruslang02/discord-aos) | Discord client for Sailfish OS  | [![Qt][Qt-Badge]][Qt-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 On hiatus, since November 2021 |
+| [crocodile](https://github.com/tbodt/crocodile) | Discord client for TempleOS. | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since November 2017 |
 | [discord-ppc](https://github.com/vistafan12/discord-ppc) | Discord version for PowerPC architecture | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟠 On hiatus, since June 2017 |
 | [Arcscord](https://github.com/Arcoz0308/arcscord) | NodeJS library written in typescript who interact with the Discord API | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 
