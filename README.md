@@ -233,6 +233,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [discord-ppc](https://github.com/vistafan12/discord-ppc) | Discord version for PowerPC architecture | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟠 On hiatus, since June 2017 |
 | [Arcscord](https://github.com/Arcoz0308/arcscord) | NodeJS library written in typescript who interact with the Discord API | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Kori](https://github.com/cyan-2048/Discord4KaiOS) |Unofficial Discord Client for KaiOS made using SolidJS | [![TypeScript][TypeScript-Badge]][TypeScript-Url] |  🟢 Active |
+| [discord wap(wireless app protocol)](https://github.com/gtrxAC/discord-wap) | i made another client that could be added, it's for old mobile web browsers, Discord WAP | [![TypeScript][TypeScript-Badge]][TypeScript-Url] |  🟢 Active |
 
 
 ## Third party server implementations
