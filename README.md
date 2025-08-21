@@ -122,6 +122,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Powercord](https://github.com/powercord-org/powercord) | A lightweight Discord client mod focused on simplicity and performance. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Topaz](https://web.archive.org/web/20230920032845/https://topaz.goosemod.com/) | Topaz is an upcoming mod which aims to be "next-gen" by using advanced tech to add never-before-seen innovative features. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [Velocity](https://github.com/Velocity-Discord/Velocity) | Velocity is a Discord Client modification that allows you to extend discord's functionality and capabilities. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
+| [Yelm](https://github.com/adryd325/yelm) | yelm was a private client mod and build logger used by members of Memework. It was one of the earliest client mods to use regular expressions to patch Discord's code. Unlike modern client mods, it would download, patch, and rehost Discord's front end.In 2020, its code was made public by adryd for archival purposes. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 
 #### Plugin bundlers
 
