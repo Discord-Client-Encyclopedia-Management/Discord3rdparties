@@ -244,7 +244,7 @@ The following are server implementations that reimplement Discord's client-serve
 
 | Name | Features | Language(s) | Is Self-hostable | Development Status |
 | :---: | :---: | :---: | :---: | :---: |
-| [Polyphony](https://github.com/polyphony-chat) | Free, open source, federated communications software, compatible with the Discord API and built with [polyproto](https://polyproto.org/docs/intro/), Rust and love. | [![Rust][Rust-Badge]][Rust-Url] | 🟢 Yes | 🟠 Work in progress |
+| [Polyphony](https://github.com/polyphony-chat) | Free, open source, federated communications software, compatible with the Discord API and built with [polyproto](https://polyproto.org/docs/intro/), Rust and love. | [![Rust][Rust-Badge]][Rust-Url] | 🟢 Yes | 🟠 Incomplete, development discontinued in August 2025 |
 | [Spacebar Chat](https://spacebar.chat/) | Almost fully featured re-implementation of Discord API Server experimental branch implementing limited support for federation using ActivityPub as the server-server API | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Yes | 🟢 Active |
 | [Hummus](https://hummus.sys42.net/) | 2017 Discord server reimplementation | [Closed source] | 🟠 Ask creator for permission | 🟢 Active |
 | [Miranda NG](https://miranda-ng.org) | Multi Protocol Program that supports Discord | [![C++][C++-Badge]][C++-Url] | 🟢 Yes  | 🟢 Active |
