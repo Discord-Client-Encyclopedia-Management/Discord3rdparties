@@ -171,7 +171,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Discordo](https://github.com/ayntgl/discordo) | A lightweight, secure, and feature-rich Discord terminal client | [![Go][Go-Badge]][Go-Url] | 🟢 Active |
 | [Dissent](https://github.com/diamondburned/dissent) | Dissent (previously gtkcord4) is a third-party Discord client designed for a smooth, native experience on Linux desktops. | [![Go][Go-Badge]][Go-Url] | 🟢 Active |
 | [Endcord](https://github.com/mzivic7/endcord) | Feature rich Discord TUI client, with RPC server, ascii art media player, message search and theming | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
-| [JankClient](https://github.com/MathMan05/JankClient) |  A SpaceBar Client written in TS HTML and CSS | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active <br/> ⛔ Does not support discord.com instead is a spacebar client |
+| [Fermi Chat](https://github.com/MathMan05/Fermi) |  A SpaceBar Client written in TS HTML and CSS | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active <br/> ⛔ Does not support discord.com instead is a spacebar client |
 | [LibreDiscord](https://gitlab.com/zipdox/librediscord/-/tree/master?ref_type=heads) | LibreDiscord is a free and open source voice and video client for Discord written in C using GTK3 and GLib. | [![C][C-Badge]][C-Url] | 🟢 Active |
 | [QTCord](https://github.com/mak448a/QTCord/) | A lightweight, native Discord client written in Python with QT. | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
 | [Unicord](https://github.com/UnicordDev/Unicord) | Discord Client for Windows 10 and Windows 10 Mobile | [![C#][C#-Badge]][C#-Url] | 🟢 Active |
@@ -244,7 +244,7 @@ The following are server implementations that reimplement Discord's client-serve
 
 | Name | Features | Language(s) | Is Self-hostable | Development Status |
 | :---: | :---: | :---: | :---: | :---: |
-| [Polyphony](https://github.com/polyphony-chat) | Free, open source, federated communications software, compatible with the Discord API and built with [polyproto](https://polyproto.org/docs/intro/), Rust and love. | [![Rust][Rust-Badge]][Rust-Url] | 🟢 Yes | 🟠 Work in progress |
+| [Polyphony](https://codeberg.org/polyphony) | Free, open source, federated communications software, compatible with the Discord API and built with [polyproto](https://polyproto.org/docs/intro/), Rust and love. | [![Rust][Rust-Badge]][Rust-Url] | 🟢 Yes | 🟠 Work in progress |
 | [Spacebar Chat](https://spacebar.chat/) | Almost fully featured re-implementation of Discord API Server experimental branch implementing limited support for federation using ActivityPub as the server-server API | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Yes | 🟢 Active |
 | [Hummus](https://hummus.sys42.net/) | 2017 Discord server reimplementation | [Closed source] | 🟠 Ask creator for permission | 🟢 Active |
 | [Miranda NG](https://miranda-ng.org) | Multi Protocol Program that supports Discord | [![C++][C++-Badge]][C++-Url] | 🟢 Yes  | 🟢 Active |
