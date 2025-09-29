@@ -170,12 +170,12 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Discord Messenger-DM](https://github.com/DiscordMessenger/dm) |Discord Messenger is a free Discord-compatible messaging client targeting both new and old Windows.  | [![C++][C++-Badge]][C++-Url] |  🟢 Active |
 | [EveryDiscord](https://github.com/gaouservbf/EveryDiscord) |EveryDiscord is a light-weight FOSS Win32 client targeting old Windows, specifically NT5 but still trying to run on MS-DOS based Windows. Supports built-in plugins.  | Visual Basic 6.0 |   🟢 Active |
 | [Discordo](https://github.com/ayntgl/discordo) | A lightweight, secure, and feature-rich Discord terminal client | [![Go][Go-Badge]][Go-Url] | 🟢 Active |
-| [Dissent](https://github.com/diamondburned/dissent) | Dissent (previously gtkcord4) is a third-party Discord client designed for a smooth, native experience on Linux desktops. | [![Go][Go-Badge]][Go-Url] | 🟢 Active |
 | [Endcord](https://github.com/mzivic7/endcord) | Feature rich Discord TUI client, with RPC server, ascii art media player, message search and theming | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
 | [Fermi Chat](https://github.com/MathMan05/Fermi) |  A SpaceBar Client written in TS HTML and CSS | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active <br/> ⛔ Does not support discord.com instead is a spacebar client |
 | [LibreDiscord](https://gitlab.com/zipdox/librediscord/-/tree/master?ref_type=heads) | LibreDiscord is a free and open source voice and video client for Discord written in C using GTK3 and GLib. | [![C][C-Badge]][C-Url] | 🟢 Active |
 | [QTCord](https://github.com/mak448a/QTCord/) | A lightweight, native Discord client written in Python with QT. | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
 | [Unicord](https://github.com/UnicordDev/Unicord) | Discord Client for Windows 10 and Windows 10 Mobile | [![C#][C#-Badge]][C#-Url] | 🟢 Active |
+| [Dissent](https://github.com/diamondburned/dissent) | Dissent (previously gtkcord4) is a third-party Discord client designed for a smooth, native experience on Linux desktops. | [![Go][Go-Badge]][Go-Url] | 🟢 Active <br/> ⛔ Does not mimic a real client[^7] |
 | [MiniCord](https://github.com/thehatkid/Minicord) | A minimalist version of Discord based on the web version. | [![Python][Python-Badge]][Python-Url] | 🔵 Work In Progress </br>🟠 On hiatus, since Feb 2024  |
 | [Spacebar Chat Client](https://spacebar.chat/) | Open source, themeable and extendable discord-compatible native Spacebar client | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢🟠 Inactive *(Variable[^5]\)* <br/> ⛔ Does not support discord.com instead is a spacebar client |
 | [Accord](https://github.com/evelyneee/accord) | Client for modern Macs | [![Swift][Swift-Badge]][Swift-Url] | 🟠 On hiatus, since December 2022 |
@@ -262,7 +262,10 @@ The following are server implementations that reimplement Discord's client-serve
 		- [Audio Hook](https://github.com/geniiii/ripcord-audio-hook)
 [^4]: As of now we know little about this mod, but more info will be filled in as it is discovered.
 [^5]: Client missing features SpaceBar server has. 
-[^6]: Discord may temporarily suspend your account and ask you to reset password due to activities such as unauthorized token logins. 
+[^6]: Discord may temporarily suspend your account and ask you to reset password due to activities such as unauthorized token logins.
+[^7]: Dissent makes no effort to spoof a real client, and intentionally omits `X-Super-Properties` among other things a real client has.
+	  (source: [Hacker News](https://news.ycombinator.com/item?id=39763438))
+	  Dissent may cause your account to be flagged as a spammer or cause it to be banned.
 
 ## Contributing
 
