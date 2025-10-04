@@ -231,6 +231,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [DiscordBotClient (2022 - 2025)](https://github.com/ChrisEric1/ChrisEric1.GitHub.io) | older-style Discord Bot Client (lighter, fewer features). | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active <br/> ⛔ This client is meant to be used with Discord Apps (Bots) |
 | [Kori](https://github.com/cyan-2048/Discord4KaiOS) |Unofficial Discord Client for KaiOS made using SolidJS | [![TypeScript][TypeScript-Badge]][TypeScript-Url] |  🟢 Active |
 | [Discord WAP](https://github.com/gtrxAC/discord-wap) |  Client for old mobile web browsers with Wireless Application Protocol 1.x support | [![JavaScript][JavaScript-Badge]][JavaScript-Url] |  🟢 Active |
+| [Miranda NG](https://miranda-ng.org) | Multi Protocol Program that supports Discord | [![C++][C++-Badge]][C++-Url] | 🟢 Active | 
 | [bitlbee-discord](https://github.com/sm00th/bitlbee-discord) | Discord protocol plugin for BitlBee. | [![C][C-Badge]][C-Url] | 🟠 On hiatus, since September 2021 |
 | [discord-aos](https://github.com/ruslang02/discord-aos) | Discord client for Sailfish OS  | [![Qt][Qt-Badge]][Qt-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 On hiatus, since November 2021 |
 | [crocodile](https://github.com/tbodt/crocodile) | Discord client for TempleOS. | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since November 2017 |
@@ -252,7 +253,6 @@ The following are server implementations that reimplement Discord's client-serve
 | [Oldcord](https://github.com/oldcordapp/OldCordV3) | An open-source reimplementation of the old (2015-2018) Discord backend, including an on-demand client patcher. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Yes | 🔵 Active, official instance is down |
 | [Reflectcord](https://github.com/V3L0C1T13S/reflectcord) | Reimplementation of Discord API Server on top of Revolt.chat | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Yes | 🟠 On hiatus, since Jan 2024 | 
 | [Litecord](https://gitlab.com/litecord/litecord) | Partial reimplementation of Discord API Server | [![Python][Python-Badge]][Python-Url] | 🟠 Allowed, not intended | 🟠 On hiatus, since December 2023 |
-| [Miranda NG](https://miranda-ng.org) | Multi Protocol Program that supports Discord | [![C++][C++-Badge]][C++-Url] | 🟢 Yes  | 🟢 Active | 
 
 
 [^1]: Aliucord is based on the legacy Discord Android app, which was replaced by RNA in 2022. Despite this, development efforts continue to backport features to Aliucord.
