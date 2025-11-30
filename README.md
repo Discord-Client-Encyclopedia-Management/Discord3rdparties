@@ -43,23 +43,23 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
 | [Discord Android](https://play.google.com/store/apps/details?id=com.discord&fingerprint=1129189278619021403._iqMp85lJ8wwcey3i6XvuHeKLYA&attemptId=a267ef68-ca9f-435f-99a6-f6a11875cf6c) | Official Android client | [Closed source] | 🟢 Active |
-| [VendroidEnhanced](https://github.com/VendroidEnhanced/Vendroid) | A fork of [Vencord/Vendroid](https://github.com/Vencord/Android) that improves upon the original project. | [![Kotlin][Kotlin-Badge]][Kotlin-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
-| [Vendroid](https://github.com/Vencord/Vendroid) | [Vencord](https://github.com/Vendicated/Vencord) for Android! A WebView embedding the Discord site, loading [Vencord](https://github.com/Vendicated/Vencord) and adding some goodies. | [![Java][Java-Badge]][Java-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
+| [VendroidEnhanced](https://github.com/VendroidEnhanced/Vendroid) | A fork of [Vencord/Vendroid](https://github.com/Vencord/Android) that improves upon the original project. | [![Kotlin][Kotlin-Badge]][Kotlin-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] ![Vibe coded][Vibe coded-Badge] | 🟢 Active |
+| [Vendroid](https://github.com/Vencord/Vendroid) | [Vencord](https://github.com/Vendicated/Vencord) for Android! A WebView embedding the Discord site, loading [Vencord](https://github.com/Vendicated/Vencord) and adding some goodies. | [![Java][Java-Badge]][Java-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] ![AI assets used][AI assets-Badge] | 🟢 Active |
 | [Kettu](https://github.com/C0C0B01/Kettu) | A Discord mobile app client modification continuing [Bunny's](https://github.com/pyoncord/Bunny) mission | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
-| [Voxi](https://github.com/ApexTeamPL/voxi-bundle) | A Discord mobile app client, fork of [Revenge Classic](https://github.com/revenge-mod/revenge-bundle) with additional features | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
-| [ShiggyCord](https://github.com/kmmiio99o/ShiggyCord) | Shiggy your Discord! Fork of [Kettu](https://codeberg.org/cocobo1/Kettu). Faster, refreshed, and with additional features. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
+| [Voxi](https://github.com/ApexTeamPL/voxi-bundle) | A Discord mobile app client, fork of [Revenge Classic](https://github.com/revenge-mod/revenge-bundle) with additional features | [![TypeScript][TypeScript-Badge]][TypeScript-Url] ![Vibe coded][Vibe coded-Badge] | 🟢 Active |
+| [ShiggyCord](https://github.com/kmmiio99o/ShiggyCord) | Shiggy your Discord! Fork of [Kettu](https://codeberg.org/cocobo1/Kettu). Faster, refreshed, and with additional features. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] ![AI assets used][AI assets-Badge] | 🟢 Active |
 | [Aliucord](https://github.com/Aliucord/Aliucord) | A mod for the Android Discord app. | [![Kotlin][Kotlin-Badge]][Kotlin-Url] [![Java][Java-Badge]][Java-Url] | 🔵 Active *(Legacy App[^1]\)* |
-| [Unbound](https://www.unbound.rip/) | Cross-platform client modification for discord on mobile. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 *(still in development state)* |
-| [Revenge Next](https://github.com/revenge-mod/revenge-bundle-next) | A Discord mod for Android! | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 *(still in development state)* |
+| [Unbound](https://www.unbound.rip/) | Cross-platform client modification for discord on mobile. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] ![Vibe coded][Vibe coded-Badge] | 🔵 *(still in development state)* |
+| [Revenge Next](https://github.com/revenge-mod/revenge-bundle-next) | A Discord mod for Android! | [![TypeScript][TypeScript-Badge]][TypeScript-Url] ![AI assets used][AI assets-Badge] | 🔵 *(still in development state)* |
 | [Rain](https://github.com/ra1ncord/rain) | A Discord mod for mobile written from the ground up by the creators of [Kettu](https://github.com/C0C0B01/Kettu) | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 *(still in development state)* |
-| [Wintry](https://github.com/amsyarasyiq/wintry) | Make your Discord cooler, literally | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Broken |
-| [Lumi](https://github.com/C0C0B01/Lumi) | A Fork of [Wintry](https://github.com/amsyarasyiq/wintry) aiming to deliver a [Vencord](https://github.com/Vendicated/Vencord) like experience on android!| [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
+| [Wintry](https://github.com/amsyarasyiq/wintry) | Make your Discord cooler, literally | [![TypeScript][TypeScript-Badge]][TypeScript-Url] ![Vibe coded][Vibe coded-Badge] | 🔴 Broken |
+| [Lumi](https://github.com/C0C0B01/Lumi) | A Fork of [Wintry](https://github.com/amsyarasyiq/wintry) aiming to deliver a [Vencord](https://github.com/Vendicated/Vencord) like experience on android!| [![TypeScript][TypeScript-Badge]][TypeScript-Url] ![AI assets used][AI assets-Badge] | 🔴 Discontinued |
 | [Bunny](https://github.com/pyoncord/Bunny) | A mod for Discord's mobile apps, fork of [Vendetta](https://github.com/vendetta-mod/Vendetta). | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
-| [Revenge](https://github.com/revenge-mod/Revenge) | A fork of [Bunny](https://github.com/pyoncord/Bunny) | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
-| [Vendetta](https://github.com/vendetta-mod/Vendetta) | A Discord mod that is compatible with Android and iOS! | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
+| [Revenge](https://github.com/revenge-mod/Revenge) | A fork of [Bunny](https://github.com/pyoncord/Bunny) | [![TypeScript][TypeScript-Badge]][TypeScript-Url] ![Vibe coded][Vibe coded-Badge] | 🔴 Discontinued |
+| [Vendetta](https://github.com/vendetta-mod/Vendetta) | A Discord mod that is compatible with Android and iOS! | [![TypeScript][TypeScript-Badge]][TypeScript-Url] ![AI assets used][AI assets-Badge] | 🔴 Discontinued |
 | [CutTheCord](https://gitdab.com/distok/cutthecord) | Modular Client Mod for Discord's Android app. | [![Python][Python-Badge]][Python-Url] [![Java][Java-Badge]][Java-Url] | 🔴 Discontinued |
-| [OpenCord](https://github.com/X1nto/OpenCord) | An open-source implementation of the Discord Android app | [![Kotlin][Kotlin-Badge]][Kotlin-Url] | 🔴 Discontinued |
-| [Treecord](https://github.com/Treecord/Treecord) | A modded Discord client for Android! | [![Shell Script][Shell Script-Badge]][Shell Script-Url] | 🔴 Discontinued |
+| [OpenCord](https://github.com/X1nto/OpenCord) | An open-source implementation of the Discord Android app | [![Kotlin][Kotlin-Badge]][Kotlin-Url] ![Vibe coded][Vibe coded-Badge] | 🔴 Discontinued |
+| [Treecord](https://github.com/Treecord/Treecord) | A modded Discord client for Android! | [![Shell Script][Shell Script-Badge]][Shell Script-Url] ![AI assets used][AI assets-Badge] | 🔴 Discontinued |
 | Bluecord | Modded client mod for Android | [Closed source] | ⛔ Malware (scams and spying) |
 
 ### iOS Clients & Mods
@@ -347,3 +347,6 @@ We (contributors) are not responsible for you getting banned from using a 3rd pa
 
 [React-Badge]: https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&labelColor=black&color=blue
 [React-url]: https://en.wikipedia.org/wiki/React_(software) "React"
+
+[Vibe coded-Badge]: https://img.shields.io/badge/Vibe_coded-%23E91E63.svg
+[AI assets-Badge]: https://img.shields.io/badge/AI_assets-%239C27B0.svg
