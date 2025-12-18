@@ -258,6 +258,14 @@ The following are server implementations that reimplement Discord's client-serve
 | [Litecord](https://gitlab.com/litecord/litecord) | Partial reimplementation of Discord API Server | [![Python][Python-Badge]][Python-Url] | 🟠 Allowed, not intended | 🟠 On hiatus, since December 2023 |
 | [Miranda NG](https://miranda-ng.org) | Multi Protocol Program that supports Discord | [![C++][C++-Badge]][C++-Url] | 🟢 Yes  | 🟢 Active | 
 
+| AI  |     Description     |
+| :-: | :-----------------: |
+| 🚽  |     Vibe coded     |
+| 💩  |     AI art used    |
+| 🧻  |     AI assisted    |
+| 🪠  | Previously used AI |
+| 😇  |  No AI art used    |
+| ❔  |  NA we don't know  |
 
 [^1]: Aliucord is based on the legacy Discord Android app, which was replaced by RNA in 2022. Despite this, development efforts continue to backport features to Aliucord.
 [^2]: Some occasional breaks might occur depending on the maintainers' free time.
