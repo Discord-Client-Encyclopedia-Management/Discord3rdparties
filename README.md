@@ -61,7 +61,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [CutTheCord](https://gitdab.com/distok/cutthecord) | Modular Client Mod for Discord's Android app. | [![Python][Python-Badge]][Python-Url] [![Java][Java-Badge]][Java-Url] | 🔴 Discontinued |
 | [OpenCord](https://github.com/X1nto/OpenCord) | An open-source implementation of the Discord Android app | [![Kotlin][Kotlin-Badge]][Kotlin-Url] | 🔴 Discontinued |
 | [Treecord](https://github.com/Treecord/Treecord) | A modded Discord client for Android! | [![Shell Script][Shell Script-Badge]][Shell Script-Url] | 🔴 Discontinued |
-| Bluecord | Modded client mod for Android | [Closed source] | ⛔ Malware (scams and spying) |
+| Bluecord | Modded client mod for Android | [Closed source] | ⛔ Malware (scams and spying)[^8] |
 
 ### iOS Clients & Mods
 
@@ -280,6 +280,7 @@ The following are server implementations that reimplement Discord's client-serve
 [^7]: Dissent makes no effort to spoof a real client, and intentionally omits `X-Super-Properties` among other things a real client has.
 	  (source: [Hacker News](https://news.ycombinator.com/item?id=39763438))
 	  Dissent may cause your account to be flagged as a spammer or cause it to be banned.
+[^8]: While the owner does claim to have open-sourced the code, a long history of being behind scamming and stealing accounts has proven that they cannot be trusted nor any claims they make can be trusted. ([Source](https://drive.google.com/drive/folders/1Y2m2lMSpN3GlOcXyceaO88Ljnr8xuNcp?usp=drive_link))
 
 ## Contributing
 
