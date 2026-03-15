@@ -170,7 +170,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
 | [Abaddon](https://github.com/uowuo/abaddon) | Alternative Discord client made in C++ with GTK | [![C++][C++-Badge]][C++-Url] | 🟢 Active |
-| [Acheron](https://github.com/ouwou/acheron) | Alternative Discord client made in C++ with Qt6, rewrite of Abaddon made by the same person, contains DAVE encryption support. | [![C++][C++-Badge]][C++-Url] | 🔵 Work In Progress, can be downloaded [here](https://nightly.link/ouwou/acheron/workflows/build/master) |
+| [Acheron](https://github.com/ouwou/acheron) | Alternative Discord client made in C++ with Qt6, rewrite of Abaddon made by the same person, contains DAVE encryption support. | [![C++][C++-Badge]][C++-Url] | 🔵 Work In Progress (can be downloaded [here](https://nightly.link/ouwou/acheron/workflows/build/master)) |
 | [AeroChat](https://aerochat.live/) | A Discord client themed to look like WLM 09. | [![React][React-Badge]][React-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url]| 🟢 Active |
 | [Discord Lite](https://github.com/dosdude1/discord-lite) | An ultra-lightweight native Discord client for vintage and modern MacOS | [![Objective-C][Objective-C-Badge]][Objective-C-Url] | 🟢 Active |
 | [Discord Messenger-DM](https://github.com/DiscordMessenger/dm) |Discord Messenger is a free Discord-compatible messaging client targeting both new and old Windows.  | [![C++][C++-Badge]][C++-Url] |  🟢 Active |
