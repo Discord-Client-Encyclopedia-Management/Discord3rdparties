@@ -170,10 +170,10 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
 | [Abaddon](https://github.com/uowuo/abaddon) | Alternative Discord client made in C++ with GTK | [![C++][C++-Badge]][C++-Url] | 🟢 Active |
-| [AeroChat](https://aerochat.live/) | A Discord client themed to look like WLM 09. | [![React][React-Badge]][React-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url]| 🟢 Active |
+| [Acheron](https://github.com/ouwou/acheron) | Abaddon rewrite in Qt6, contains DAVE encryption support. | [![C++][C++-Badge]][C++-Url] | 🔵 Work In Progress (can be downloaded [here](https://nightly.link/ouwou/acheron/workflows/build/master)) |
+| [AeroChat](https://github.com/not-nullptr/Aerochat) | A Discord client themed to look like WLM 09. | [![React][React-Badge]][React-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url]| 🟢 Active |
 | [Discord Lite](https://github.com/dosdude1/discord-lite) | An ultra-lightweight native Discord client for vintage and modern MacOS | [![Objective-C][Objective-C-Badge]][Objective-C-Url] | 🟢 Active |
 | [Discord Messenger-DM](https://github.com/DiscordMessenger/dm) |Discord Messenger is a free Discord-compatible messaging client targeting both new and old Windows.  | [![C++][C++-Badge]][C++-Url] |  🟢 Active |
-| [EveryDiscord](https://github.com/gaouservbf/EveryDiscord) |EveryDiscord is a light-weight FOSS Win32 client targeting old Windows, specifically NT5 but still trying to run on MS-DOS based Windows. Supports built-in plugins.  | Visual Basic 6.0 |   🟢 Active |
 | [Discordo](https://github.com/ayntgl/discordo) | A lightweight, secure, and feature-rich Discord terminal client | [![Go][Go-Badge]][Go-Url] | 🟢 Active |
 | [Oxicord](https://github.com/linuxmobile/oxicord) | Oxicord is a high-performance, memory-safe Discord TUI client written in Rust. | [![Rust][rust-Badge]][Rust-Url] | 🟢 Active |
 | [Endcord](https://github.com/mzivic7/endcord) | Feature rich Discord TUI client, with RPC server, ascii art media player, message search and theming | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
@@ -184,6 +184,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Dissent](https://github.com/diamondburned/dissent) | Dissent (previously gtkcord4) is a third-party Discord client designed for a smooth, native experience on Linux desktops. | [![Go][Go-Badge]][Go-Url] | 🟢 Active <br/> ⛔ Does not mimic a real client[^7] |
 | [MiniCord](https://github.com/thehatkid/Minicord) | A minimalist version of Discord based on the web version. | [![Python][Python-Badge]][Python-Url] | 🔵 Work In Progress </br>🟠 On hiatus, since Feb 2024  |
 | [Paicord](https://github.com/llsc12/Paicord) | Discord client written in SwiftUI, with a goal of feature parity with customisation and Quality-of-Life additions! | [![Swift][Swift-Badge]][Swift-Url] | 🟢 Active  |
+| [EveryDiscord](https://github.com/gaouservbf/EveryDiscord) |EveryDiscord is a light-weight FOSS Win32 client targeting old Windows, specifically NT5 but still trying to run on MS-DOS based Windows. Supports built-in plugins.  | Visual Basic 6.0 | 🟠 On hiatus, since September 2025 |
 | [Spacebar Chat Client](https://spacebar.chat/) | Open source, themeable and extendable discord-compatible native Spacebar client | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 Inactive, Incomplete *(Variable[^5]\)* <br/> ⛔ Does not support discord.com instead is a spacebar client |
 | [Accord](https://github.com/evelyneee/accord) | Client for modern Macs | [![Swift][Swift-Badge]][Swift-Url] | 🟠 On hiatus, since December 2022 |
 | [Unofficial-discord-client](https://github.com/Coding-Bunker/unofficial-discord-client) | Unofficial client for discord build in C++ with Qt. | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since March 2022 |
