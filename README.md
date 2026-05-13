@@ -128,6 +128,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Powercord](https://github.com/powercord-org/powercord) | A lightweight Discord client mod focused on simplicity and performance. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Topaz](https://web.archive.org/web/20230920032845/https://topaz.goosemod.com/) | Topaz is an upcoming mod which aims to be "next-gen" by using advanced tech to add never-before-seen innovative features. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [Velocity](https://github.com/Velocity-Discord/Velocity) | Velocity is a Discord Client modification that allows you to extend discord's functionality and capabilities. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
+| [DiscordInjections](https://github.com/Snazzah/DiscordInjections) | was a client mod that claimed to "pick up where BeautifulDiscord ends" by offering custom JavaScript in addition to custom CSS, which later transformed into a plugin system. It used DOM manipulation via mutation observers and jQuery and interacted with Discord's backend via discord.js. It is a selfbotting risk by today's standards. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴⛔ Discontinued & Ban Risk |
 
 #### Plugin bundlers
 
