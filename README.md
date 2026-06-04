@@ -248,7 +248,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Arcscord](https://github.com/Arcoz0308/arcscord) | NodeJS library written in typescript who interact with the Discord API | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Scor](https://wiki.vencord.dev/article/Scor) | Discord client inside the macOS Settings/System Preferences app with Vencord support.Could not find github, best info we have for now | [![Swift][Swift-Badge]][Swift-Url] [![Objective-C][Objective-C-Badge]][Objective-C-Url] | 🔴 Discontinued |
 | [Nightcord](https://gist.github.com/Vendicated/bb30cb67878fa682bcee140f56af1531) | Discord client featuring stolen code from a couple clients and mods, as well as malware, avoid using,provided vencord source as link | private | 🔴 ⛔ Stolen code,malware and Ai Coded |
-| [Naticord](https://github.com/Naticord/naticord) | Discord client focused on bringing the best experience possible natively. Naticord uses DirectUI and Windows Forms, both bringing a native look to the client. DirectUI is an undocumented language made by Microsoft and was never released publicly. The library used in Naticord for DirectUI is DirectUI.Net. | [![C++][C++-Badge]][C++-Url] | 🔴 ⛔ Work in progress,listing for time being,dont use till more info. |
+| [~~Naticord~~](https://github.com/Naticord/naticord) | Discord client focused on bringing the best experience possible natively. Naticord uses DirectUI and Windows Forms, both bringing a native look to the client. DirectUI is an undocumented language made by Microsoft and was never released publicly. The library used in Naticord for DirectUI is DirectUI.Net. | [![C++][C++-Badge]][C++-Url] | 🔴 ⛔ Work in progress,listing for time being,dont use till more info. |
 
 
 
