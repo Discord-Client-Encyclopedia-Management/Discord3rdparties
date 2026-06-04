@@ -129,6 +129,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Topaz](https://web.archive.org/web/20230920032845/https://topaz.goosemod.com/) | Topaz is an upcoming mod which aims to be "next-gen" by using advanced tech to add never-before-seen innovative features. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [Velocity](https://github.com/Velocity-Discord/Velocity) | Velocity is a Discord Client modification that allows you to extend discord's functionality and capabilities. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [DiscordInjections](https://github.com/Snazzah/DiscordInjections) | was a client mod that claimed to "pick up where BeautifulDiscord ends" by offering custom JavaScript in addition to custom CSS, which later transformed into a plugin system. It used DOM manipulation via mutation observers and jQuery and interacted with Discord's backend via discord.js. It is a selfbotting risk by today's standards. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴⛔ Discontinued & Ban Risk |
+| [Pyoncord or POC](https://github.com/pyoncord/poc) | A proof-of-concept discord client,if you see poc or pyoncord said today, they usually mean bunnycord or their team. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 
 #### Plugin bundlers
 
