@@ -216,6 +216,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
+| [Tricord](https://github.com/2b-zipper/TriCord) | A modern Discord client for the Nintendo 3DS | [![C++][C++-Badge]][C++-Url] | 🟢active |
 | [A-client-for-Discord-for-3DS](https://github.com/XeathJP/A-client-for-Discord-for-3DS) | Applications that can use discord on 3DS | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since since January 2022 |
 | [Quarrel](https://github.com/UWPCommunity/Quarrel) | Quarrel is a Discord client for Windows and Xbox that aims to bring voice chat to Xbox and improved support for varying screen sizes on devices running windows. | [![C#][C#-Badge]][C#-Url] | 🟠 On hiatus, since August 2022 |
 | [NXCord](https://github.com/Grarak/NXCord) | Unofficial Nintendo Switch Discord client | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since April 2020 |
@@ -224,6 +225,8 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Unofficial Discord 3DS Client](https://github.com/yourWaifu/Unofficial-Discord-3DS-Client) | This just a simple Discord client for the 3DS build using the `Sleepy Discord` library and the `Wslay` library. | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since November 2017 |
 | [Switchcord](https://github.com/vbe0201/switchcord) | An unofficial Discord client for the Nintendo Switch console. | [![C++][C++-Badge]][C++-Url] | 🔴 Discontinued |
 | [3DiScord](https://github.com/cheuble/3DiScord) | A Discord client for the Nintendo 3DS | [![C++][C++-Badge]][C++-Url] | ⛔ Discontinued. will get you banned |
+
+## Other clients
 
 ## Other clients
 
