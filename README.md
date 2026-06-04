@@ -212,6 +212,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [protocord](https://github.com/diamondburned/protocord) | A prototype CLI for a tiny Discord client. | [![Go][Go-Badge]][Go-Url] | 🔴 Discontinued |
 | [Terminalcord](https://github.com/xynxynxyn/terminal-discord) | Simple terminal client for discord with a minimal look and UI. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [ToastCord](https://github.com/Traumatism/ToastCord) | Discord Terminal UI made in Python 3 | [![Python][Python-Badge]][Python-Url] | 🔴 Discontinued |
+| [DiscordBSD](https://github.com/SrWither/DiscordBSD) |An attempt at a native discord client for FreeBSD. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 
 ## Game console clients
 
