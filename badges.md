@@ -95,5 +95,5 @@ To use a badge:
 [Rust-Badge]: https://img.shields.io/badge/Rust-%23000000.svg?&logo=Rust
 [Rust-url]: https://en.wikipedia.org/wiki/Rust "Rust"
 
-[Rust-Badge]: https://img.shields.io/badge/Rust-%23000000.svg?&logo=Rust](https://github.com/Vendicated/Vendicated/assets/45497981/5794a4e1-292f-46cc-af3a-b33a27a2f15e
-[Rust-url]: https://en.wikipedia.org/wiki/Rust](https://en.wikipedia.org/wiki/Vending_machine "Ven"
+[Ven-Badge]: https://img.shields.io/badge/Rust-%23000000.svg?&logo=Rust](https://github.com/Vendicated/Vendicated/assets/45497981/5794a4e1-292f-46cc-af3a-b33a27a2f15e
+[Ven-url]: https://en.wikipedia.org/wiki/Rust](https://en.wikipedia.org/wiki/Vending_machine "Ven"
