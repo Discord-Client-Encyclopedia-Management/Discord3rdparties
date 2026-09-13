@@ -219,7 +219,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [ToastCord](https://github.com/Traumatism/ToastCord) | Discord Terminal UI made in Python 3 | [![Python][Python-Badge]][Python-Url] | 🔴 Discontinued |
 | [DiscordBSD](https://github.com/SrWither/DiscordBSD) |An attempt at a native discord client for FreeBSD. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [RustCord](https://github.com/ulughann/rustCord) |Tiny (5MiB) Discord client built with Pake/Tauri.Warning: This is a showcase of Pake and Tauri and is not meant to be daily-driven all though working. | [![Rust][Rust-Badge]][Rust-Url] | 🔴⛔ Discontinued |
-| [Serein](https://github.com/ViceVerse-cz/Serein) |Tiny, Performant & 100% Native client for Discord made in Rust.AI USED FOR CODE. | [![Rust][Rust-Badge]][Rust-Url] | 🚽 🔴 ⛔ Work in progress,listing for time being,dont use till more info. |
+| [Serein](https://github.com/ViceVerse-cz/Serein) |Tiny, Performant & 100% Native client for Discord made in Rust.AI USED FOR CODE. | [![Rust][Rust-Badge]][Rust-Url] | 🚽 🚽🔴🚽 🚽⛔🚽 Work in progress,listing for time being,dont use till more info. |
 
 ## Game console clients
 
