@@ -174,6 +174,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
 | [Abaddon](https://github.com/uowuo/abaddon) | Alternative Discord client made in C++ with GTK | [![C++][C++-Badge]][C++-Url] | 🟢 Active |
+| [AeroCord](https://github.com/VerityOfficial/AeroCord) |AeroCord is a Discord client designed for Windows 7 and older, dating back to Windows XP. | [![C++][C++-Badge]][C++-Url] | 🔴 ⛔ Work in progress,listing for time being,dont use till more info. |
 | [IMDiscord](https://github.com/hiddenFSBuser/IMDiscord) | Very functional client writed without CRT and in ImGui,github page in russian. | [![C++][C++-Badge]][C++-Url] | 🟢 Active |
 | [Acheron](https://github.com/ouwou/acheron) | Abaddon rewrite in Qt 6.| [![C++][C++-Badge]][C++-Url] | 🔵 Work In Progress (can be downloaded [here](https://nightly.link/ouwou/acheron/workflows/build/master)) |
 | [AeroChat](https://github.com/not-nullptr/Aerochat) | A Discord client themed to look like WLM 09. | [![React][React-Badge]][React-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url]| 🔴 Discontinued |
