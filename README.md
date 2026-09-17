@@ -178,7 +178,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [IMDiscord](https://github.com/hiddenFSBuser/IMDiscord) | Very functional client writed without CRT and in ImGui,github page in russian. | [![C++][C++-Badge]][C++-Url] | 🟢 Active |
 | [Acheron](https://github.com/ouwou/acheron) | Abaddon rewrite in Qt 6.| [![C++][C++-Badge]][C++-Url] | 🔵 Work In Progress (can be downloaded [here](https://nightly.link/ouwou/acheron/workflows/build/master)) |
 | [AeroChat](https://github.com/not-nullptr/Aerochat) | A Discord client themed to look like WLM 09. | [![React][React-Badge]][React-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
-| [Concord](https://github.com/chojs23/concord) | A feature rich Discord TUI client written in Rust | [![Rust][Rust-Badge]][Rust-Url] | 🟢 Active |
+| [Concord](https://github.com/chojs23/concord) | A feature rich Discord TUI client written in Rust | [![Rust][Rust-Badge]][Rust-Url] | 🟢 🧻 Active |
 | [Discord Lite](https://github.com/dosdude1/discord-lite) | An ultra-lightweight native Discord client for vintage and modern MacOS | [![Objective-C][Objective-C-Badge]][Objective-C-Url] | 🟢 Active |
 | [Discord Messenger-DM](https://github.com/DiscordMessenger/dm) |Discord Messenger is a free Discord-compatible messaging client targeting both new and old Windows.  | [![C++][C++-Badge]][C++-Url] |  🟢 Active |
 | [Discordo](https://github.com/ayntgl/discordo) | A lightweight, secure, and feature-rich Discord terminal client | [![Go][Go-Badge]][Go-Url] | 🟢 Active |
