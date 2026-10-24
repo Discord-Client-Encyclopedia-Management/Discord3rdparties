@@ -104,6 +104,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) | Simple Python script that adds CSS hot-reload to Discord. | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
 | [BetterDiscord](https://betterdiscord.app/) | BetterDiscord extends the functionality of DiscordApp by enhancing it with new features.  | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [DiscoCSS](https://github.com/mlvzk/discocss) | A tiny Discord CSS injector for Linux and Mac OS. | [![Shell Script][Shell Script-Badge]][Shell Script-Url] | 🟢 Active |
+| [Evi](https://evi.rest/) | A client mod for the Discord desktop app on Windows, macOS and Linux. Plugins, themes and wallpapers from one built-in store, installed in a click, with fixes delivered when a Discord update breaks a plugin. [Source](https://github.com/BleedDev/evi) | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Kernel](https://github.com/kernel-mod) | A super small and fast Electron client mod with the most capability. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Moonlight](https://moonlight-mod.github.io/) | Yet another Discord client mod, focused on providing a decent user and developer experience. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [OpenAsar](https://openasar.dev/) | Alternative `app.asar` for Discord. Makes your client feel snappier. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![Nim][Nim-Badge]][Nim-Url] | 🟢 Active |
