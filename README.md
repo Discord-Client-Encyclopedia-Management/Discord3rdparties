@@ -183,8 +183,9 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
 | [Acheron](https://github.com/ouwou/acheron) | Abaddon rewrite in Qt 6. | [![C++][C++-Badge]][C++-Url] | 🟢🧻 Active |
+| [Maicord](https://github.com/maj113/MaiCord) | Lightweight native Discord client for Windows. C++23 and Direct3D 11, no Electron, ~7 MB. Voice with E2EE, plugins and themes. | [![C++][C++-Badge]][C++-Url] | 🟢🚽 Active |
 | [Yapfast](https://github.com/yapfast/yapfast) | The chat app that doesn't eat your PC. A lightweight, native Discord client in Rust. | [![Rust][Rust-Badge]][Rust-Url] | 🟢🚽 Active |
-| [Serein](https://github.com/ViceVerse-cz/Serein) | Tiny, Performant & 100% Native client for Discord made in Rust. AI used for code. | [![Rust][Rust-Badge]][Rust-Url] | 🟢🚽 Active |
+| [Serein](https://github.com/ViceVerse-cz/Serein) | Tiny, Performant & 100% Native client for Discord made in Rust. | [![Rust][Rust-Badge]][Rust-Url] | 🟢🚽 Active |
 | [IMDiscord](https://github.com/hiddenFSBuser/IMDiscord) | Very functional client written without CRT and in ImGui, GitHub page in russian. | [![C++][C++-Badge]][C++-Url] | 🟢🚽 Active |
 | [Lampcord](https://github.com/l6t9/Lampcord) | A Kotlin Multiplatform Material 3 Discord client. | [![Kotlin][Kotlin-Badge]][Kotlin-Url] | 🔵🧻 Active *(In beta)* |
 | [Abaddon](https://github.com/uowuo/abaddon) | Alternative Discord client made in C++ with GTK | [![C++][C++-Badge]][C++-Url] | 🔴 Discontinued in favor of Acheron |
