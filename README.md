@@ -200,7 +200,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Fermi Chat](https://github.com/MathMan05/Fermi) |  A SpaceBar Client written in TS HTML and CSS | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active <br/> ⛔ Does not support discord.com instead is a spacebar client |
 | [LibreDiscord](https://gitlab.com/zipdox/librediscord/-/tree/master?ref_type=heads) | LibreDiscord is a free and open source voice and video client for Discord written in C using GTK3 and GLib. | [![C][C-Badge]][C-Url] | 🟢 Active |
 | [QTCord](https://github.com/mak448a/QTCord/) | A lightweight, native Discord client written in Python with QT. | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
-| [Unicord](https://github.com/UnicordDev/Unicord) | Discord Cli ent for Windows 10 and Windows 10 Mobile | [![C#][C#-Badge]][C#-Url] | 🟢 Active |
+| [Unicord](https://github.com/UnicordDev/Unicord) | Discord Client for Windows 10 and Windows 10 Mobile | [![C#][C#-Badge]][C#-Url] | 🟢 Active |
 | [Swiftcordv2](https://swiftcord.app) | Discord, but it finally feels good. | [Closed Source] | 🟢 🚽 Active <br/> ⛔️ *(Drama currently surrounding the client[^9]\)*
 | [Dissent](https://github.com/diamondburned/dissent) | Dissent (previously gtkcord4) is a third-party Discord client designed for a smooth, native experience on Linux desktops. | [![Go][Go-Badge]][Go-Url] | 🟢 Active <br/> ⛔ Does not mimic a real client[^7] |
 | [MiniCord](https://github.com/thehatkid/Minicord) | A minimalist version of Discord based on the web version. | [![C++][C++-Badge]][C++-Url] | 🔵 Work In Progress </br>🟠 On hiatus, since Feb 2024  |
