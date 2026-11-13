@@ -317,7 +317,7 @@ The following are server implementations that reimplement Discord's client-serve
 	  (source: [Hacker News](https://news.ycombinator.com/item?id=39763438))
 	  Dissent may cause your account to be flagged as a spammer or cause it to be banned.
 [^8]: While the owner does claim to have open-sourced the code, a long history of being behind scamming and stealing accounts has proven that they cannot be trusted nor any claims they make can be trusted. ([Source](https://drive.google.com/drive/folders/1Y2m2lMSpN3GlOcXyceaO88Ljnr8xuNcp?usp=drive_link))
-[^9]: Accused of using dude stolen code, admitting to license violations when caught and only making a public once community noted, Not making client open-sourced even when promised. (Source [Vencord Wiki](https://wiki.vencord.dev/article/Swiftcord) [Twitter screenshot from Vencord](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/qljem55q.jpeg))
+[^9]: For now we seem it best to just link to a Vencord Wiki page regarding this drama. (Source [Vencord Wiki](https://wiki.vencord.dev/article/Swiftcord) [Twitter screenshot from Vencord](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/qljem55q.jpeg))
 
 ## Contributing
 
