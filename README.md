@@ -200,7 +200,8 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Fermi Chat](https://github.com/MathMan05/Fermi) |  A SpaceBar Client written in TS HTML and CSS | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active <br/> ⛔ Does not support discord.com instead is a spacebar client |
 | [LibreDiscord](https://gitlab.com/zipdox/librediscord/-/tree/master?ref_type=heads) | LibreDiscord is a free and open source voice and video client for Discord written in C using GTK3 and GLib. | [![C][C-Badge]][C-Url] | 🟢 Active |
 | [QTCord](https://github.com/mak448a/QTCord/) | A lightweight, native Discord client written in Python with QT. | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
-| [Unicord](https://github.com/UnicordDev/Unicord) | Discord Client for Windows 10 and Windows 10 Mobile | [![C#][C#-Badge]][C#-Url] | 🟢 Active |
+| [Unicord](https://github.com/UnicordDev/Unicord) | Discord Cli ent for Windows 10 and Windows 10 Mobile | [![C#][C#-Badge]][C#-Url] | 🟢 Active |
+| [Swiftcordv2](https://swiftcord.app) | Discord, but it finally feels good. | [Closed Source] | 🟢 🚽 Active <br/> ⛔️ *(Drama currently surrounding the client[^9]\)*
 | [Dissent](https://github.com/diamondburned/dissent) | Dissent (previously gtkcord4) is a third-party Discord client designed for a smooth, native experience on Linux desktops. | [![Go][Go-Badge]][Go-Url] | 🟢 Active <br/> ⛔ Does not mimic a real client[^7] |
 | [MiniCord](https://github.com/thehatkid/Minicord) | A minimalist version of Discord based on the web version. | [![C++][C++-Badge]][C++-Url] | 🔵 Work In Progress </br>🟠 On hiatus, since Feb 2024  |
 | [Paicord](https://github.com/llsc12/Paicord) | Discord client written in SwiftUI, with a goal of feature parity with customisation and Quality-of-Life additions! | [![Swift][Swift-Badge]][Swift-Url] | 🟢 Active  |
@@ -211,7 +212,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Unofficial-discord-client](https://github.com/Coding-Bunker/unofficial-discord-client) | Unofficial client for discord build in C++ with Qt. | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since March 2022 |
 | [Ripcord](https://cancel.fm/ripcord/) | Alternative desktop chat client for Slack (and Discord) designed for power users. | [Closed source] | 🔴 Broken *(Patches[^3]\)* <br/> ⛔ *(Warning[^6]\)* |
 | [MiniCord](https://github.com/OJddJO/MiniCord) | A minimalist version of Discord based on the web version. | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since Oct 2022  |
-| [Swiftcord](https://github.com/cryptoAlgorithm/Swiftcord) | A completely native Discord client for macOS built 100% in Swift and SwiftUI! | [![Swift][Swift-Badge]][Swift-Url] | 🔴 Broken |
+| [Swiftcordv1](https://web.archive.org/web/20260629173133/https://github.com/SwiftcordApp/Swiftcord/tree/main) | A completely native Discord client for macOS built 100% in Swift and SwiftUI! | [![Swift][Swift-Badge]][Swift-Url] | 🔴 Broken/Abandoned |
 | [6cord](https://gitlab.com/diamondburned/6cord) | A terminal front-end for the Discord chat service | [![Go][Go-Badge]][Go-Url] | 🔴 Broken |
 | [concord](https://github.com/volatide/concord) | Discord client made in Qt5 | [![Python][Python-Badge]][Python-Url] | 🔴 Discontinued |
 | [Cordless](https://github.com/Bios-Marcel/cordless) | Cordless is a custom Discord client that aims to have a low memory footprint and be aimed at power-users. | [![Go][Go-Badge]][Go-Url] | 🔴 Broken, Developer got banned during development |
@@ -316,6 +317,7 @@ The following are server implementations that reimplement Discord's client-serve
 	  (source: [Hacker News](https://news.ycombinator.com/item?id=39763438))
 	  Dissent may cause your account to be flagged as a spammer or cause it to be banned.
 [^8]: While the owner does claim to have open-sourced the code, a long history of being behind scamming and stealing accounts has proven that they cannot be trusted nor any claims they make can be trusted. ([Source](https://drive.google.com/drive/folders/1Y2m2lMSpN3GlOcXyceaO88Ljnr8xuNcp?usp=drive_link))
+[^9]: Accused of using stolen code, admitting to license violations when caught and only making a public once community noted, Not making client open-sourced even when promised. (Source [Vencord Wiki](https://wiki.vencord.dev/article/Swiftcord) )
 
 ## Contributing
 
