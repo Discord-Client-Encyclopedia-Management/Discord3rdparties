@@ -314,7 +314,7 @@ The following are server implementations that reimplement Discord's client-serve
 [^5]: Client missing features SpaceBar server has. 
 [^6]: Discord may temporarily suspend your account and ask you to reset password due to activities such as unauthorized token logins.
 [^7]: Dissent makes no effort to spoof a real client, and intentionally omits `X-Super-Properties` among other things a real client has.
-	  (source: [Hacker News](https://news.ycombinator.com/item?id=39763438))
+	  (source: [Hacker News](https://news.ycombinator.com/item?id=39763438). [Archive](http://web.archive.org/web/20260207181228/https://news.ycombinator.com/item?id=39763438) from February 7, 2026.)
 	  Dissent may cause your account to be flagged as a spammer or cause it to be banned.
 [^8]: While the owner does claim to have open-sourced the code, a long history of being behind scamming and stealing accounts has proven that they cannot be trusted nor any claims they make can be trusted. ([Source](https://drive.google.com/drive/folders/1Y2m2lMSpN3GlOcXyceaO88Ljnr8xuNcp?usp=drive_link))
 [^9]: For now we seem it best to just link to a Vencord Wiki page regarding this drama. (Source [Vencord Wiki](https://wiki.vencord.dev/article/Swiftcord) [Twitter screenshot from Vencord](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/qljem55q.jpeg))
