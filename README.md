@@ -38,12 +38,13 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 	- [Disclaimer](#disclaimer)
 
 ## Mobile
+ 
 
 ### Android Clients & Mods
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
-| [Discord Android](https://play.google.com/store/apps/details?id=com.discord&fingerprint=1129189278619021403._iqMp85lJ8wwcey3i6XvuHeKLYA&attemptId=a267ef68-ca9f-435f-99a6-f6a11875cf6c) | Official Android client | [Closed source] | 🟢 Active |
+| [Discord Android](https://play.google.com/store/apps/details?id=com.discord&fingerprint=1129189278619021403._iqMp85lJ8wwcey3i6XvuHeKLYA&attemptId=a267ef68-ca9f-435f-99a6-f6a11875cf6c) | Official Android client | [Closed source] | 🟢 *(Active[^6]\)* |
 | [Microcord](https://github.com/microcord/microcord) | A native Android Discord client remade in Kotlin with Android Views and XML with a lot of backports and features from new Discord, based on Discord Android 126.21 Stable. | [![Kotlin][Kotlin-Badge]][Kotlin-Url] | 🟢🚽 Active |
 | [VendroidEnhanced](https://git.nin0.dev/nin0/VendroidEnhanced) | A fork of [Vencord/Vendroid](https://github.com/Vencord/Android) that improves upon the original project. | [![Kotlin][Kotlin-Badge]][Kotlin-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Vendroid](https://github.com/Vencord/Vendroid) | [Vencord](https://github.com/Vendicated/Vencord) for Android! A WebView embedding the Discord site, loading [Vencord](https://github.com/Vendicated/Vencord) and adding some goodies. | [![Java][Java-Badge]][Java-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
@@ -318,6 +319,7 @@ The following are server implementations that reimplement Discord's client-serve
 	  Dissent may cause your account to be flagged as a spammer or cause it to be banned.
 [^8]: While the owner does claim to have open-sourced the code, a long history of being behind scamming and stealing accounts has proven that they cannot be trusted nor any claims they make can be trusted. ([Source](https://drive.google.com/drive/folders/1Y2m2lMSpN3GlOcXyceaO88Ljnr8xuNcp?usp=drive_link))
 [^9]: For now we seem it best to just link to a Vencord Wiki page regarding this drama. (Source [Vencord Wiki](https://wiki.vencord.dev/article/Swiftcord). [Vencord wiki archive](https://web.archive.org/web/20261114182843/https://wiki.vencord.dev/article/Swiftcord) from November 14, 2026. Also see [Twitter screenshot from Vencord](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/qljem55q.jpeg))
+[^10]: When it comes to Discord Work-In Progess rewrite (Phoenix). Please see [Sunbird](https://github.com/sunbird-tools/sunbird).
 
 ## Contributing
 
