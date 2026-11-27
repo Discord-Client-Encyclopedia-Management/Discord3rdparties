@@ -43,22 +43,25 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
-| [Discord Android](https://play.google.com/store/apps/details?id=com.discord&fingerprint=1129189278619021403._iqMp85lJ8wwcey3i6XvuHeKLYA&attemptId=a267ef68-ca9f-435f-99a6-f6a11875cf6c) | Official Android client | [Closed source] | 🟢 Active[^10] |
-| [Microcord](https://github.com/microcord/microcord) | A native Android Discord client remade in Kotlin with Android Views and XML with a lot of backports and features from new Discord, based on Discord Android 126.21 Stable. | [![Kotlin][Kotlin-Badge]][Kotlin-Url] | 🟢 🚽 Active |
-| [VendroidEnhanced](https://git.nin0.dev/nin0/VendroidEnhanced) | A fork of [Vencord/Vendroid](https://github.com/Vencord/Android) that improves upon the original project. | [![Kotlin][Kotlin-Badge]][Kotlin-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
+| [Discord Android *("Unified")*](https://play.google.com/store/apps/details?id=com.discord) | Official React Native Android client | [Closed source] | 🟢 Active |
+| [Discord Android *("Unified")* Beta](https://support.google.com/googleplay/answer/7003180?hl=en) | Official Beta React Native Android client | [Closed source] | 🟢 Active[^14] *(Can be unstable)* |
+| [Discord Android *("Unified")* Alpha](https://groups.google.com/g/discord-android-alpha-testers) | Official Alpha React Native Android client | [Closed source] | 🟢 Active[^14] *(Can be unstable)* |
+| [Discord Android *("Phoenix")*](https://x.com/svishnevskiy/status/2125350233316200944) | Official Rust core Android client (WIP) | [Closed source] | 🔵 Active[^10] <br/> 🟠 *(In alpha development state)* |
+| [VendroidEnhanced](https://git.nin0.dev/nin0/VendroidEnhanced) | A fork of [Vendroid](https://github.com/Vencord/Vendroid) that improves upon the original project. | [![Kotlin][Kotlin-Badge]][Kotlin-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Vendroid](https://github.com/Vencord/Vendroid) | [Vencord](https://github.com/Vendicated/Vencord) for Android! A WebView embedding the Discord site, loading [Vencord](https://github.com/Vendicated/Vencord) and adding some goodies. | [![Java][Java-Badge]][Java-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
-| [Kettu](https://github.com/C0C0B01/Kettu) | A Discord mobile app client modification continuing [Bunny's](https://github.com/pyoncord/Bunny) mission | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
-| [Voxi](https://github.com/ApexTeamPL/voxi-bundle) | A Discord mobile app client, fork of [Revenge Classic](https://github.com/revenge-mod/revenge-bundle) with additional features | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Revenge](https://github.com/revenge-mod/Revenge) | A fork of [Bunny](https://github.com/pyoncord/Bunny) | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
-| [Valenced](https://github.com/Valenced/valenced) | Supercharge your Discord experience. Valenced is a client modification for Discord mobile. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 🧻 Active |
+| [Valenced](https://github.com/Valenced/valenced) | Supercharge your Discord experience. Valenced is a client modification for Discord mobile. Successor of [Kettu](https://github.com/C0C0B01/Kettu) & [Revenge Next](https://github.com/revenge-mod/revenge-bundle-next). | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 🧻 Active |
 | [Unbound](https://www.unbound.rip/) | Cross-platform client modification for discord on mobile. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
-| [ShiggyCord](https://github.com/kmmiio99o/ShiggyCord) | Shiggy your Discord! Fork of [Kettu](https://codeberg.org/cocobo1/Kettu). Faster, refreshed, and with additional features. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 🧻 On Hitaus, locked to v350.8 |
-| [Aliucord](https://github.com/Aliucord/Aliucord) | A mod for the Android Discord app. | [![Kotlin][Kotlin-Badge]][Kotlin-Url] [![Java][Java-Badge]][Java-Url] | 🔵 Active *(Legacy App[^1]\)* |
 | [Reseam](https://reseam.app/) | A native Android app patcher with patches for the official react native Discord Client | [![Kotlin][Kotlin-Badge]][Kotlin-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔵 Active *(In beta)* |
 | [Lampcord](https://github.com/l6t9/Lampcord) | A Kotlin Multiplatform Material 3 Discord client. | [![Kotlin][Kotlin-Badge]][Kotlin-Url] | 🔵 🧻 Active *(In beta)* |
 | [Rain](https://codeberg.org/raincord/rain) | A Discord mod for mobile written from the ground up by the creators of [Kettu](https://github.com/C0C0B01/Kettu) | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 Active *(In beta)* |
-| [Linecord](https://github.com/rniii/linecord) | WIP Discord RN client mod. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 *(still in development state)* |
-| [Revenge Next](https://github.com/revenge-mod/revenge-bundle-next) | A Discord mod for Android! | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Rebranded into Valenced |
+| [Aliucord](https://github.com/Aliucord/Aliucord) | A mod for the Android Discord app. | [![Kotlin][Kotlin-Badge]][Kotlin-Url] [![Java][Java-Badge]][Java-Url] | 🟢 Active[^1] <br/> *(Continuation of "Kotlin"v126.21)* |
+| [Microcord](https://github.com/microcord/microcord) | A native Android Discord client remade in Kotlin with Android Views and XML with a lot of backports and features from new Discord, based on Discord Android 126.21 Stable. | [![Kotlin][Kotlin-Badge]][Kotlin-Url] | 🟢 🚽 Active[^12] <br/> *(Continuation of "Kotlin"v126.21)* |
+| [Linecord](https://github.com/rniii/linecord) | WIP Discord RN client mod. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 Active *(still in development state)* |
+| [ShiggyCord](https://github.com/kmmiio99o/ShiggyCord) | Shiggy your Discord! Fork of [Kettu](https://codeberg.org/cocobo1/Kettu). Faster, refreshed, and with additional features. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 🧻 On Hitaus *(locked to v350.8)* |
+| [Kettu](https://github.com/C0C0B01/Kettu) | A Discord mobile app client modification continuing [Bunny's](https://github.com/pyoncord/Bunny) mission | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued in favor of [Valenced](https://github.com/Valenced/valenced) |
+| [Revenge Next](https://github.com/revenge-mod/revenge-bundle-next) | A Discord mod for Android! | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Rebranded into [Valenced](https://github.com/Valenced/valenced) |
+| [Voxi](https://github.com/ApexTeamPL/voxi-bundle) | A Discord mobile app client, fork of [Revenge Classic](https://github.com/revenge-mod/revenge-bundle) with additional features | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Abandoned, since Nov 2025 |
 | [ReCord](https://github.com/record-mod/record-bundle) | A work-in-progress Discord mod, inspired by mods such as Bunny and Revenge, aimed at being lightweight and user friendly. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Wintry](https://github.com/amsyarasyiq/wintry) | Make your Discord cooler, literally | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Broken |
 | [Lumi](https://github.com/C0C0B01/Lumi) | A Fork of [Wintry](https://github.com/amsyarasyiq/wintry) aiming to deliver a [Vencord](https://github.com/Vendicated/Vencord) like experience on android!| [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
@@ -68,27 +71,31 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [OpenCord](https://github.com/X1nto/OpenCord) | An open-source implementation of the Discord Android app | [![Kotlin][Kotlin-Badge]][Kotlin-Url] | 🔴 Discontinued |
 | [Treecord](https://github.com/Treecord/Treecord) | A modded Discord client for Android! | [![Shell Script][Shell Script-Badge]][Shell Script-Url] | 🔴 Discontinued |
 | Bluecord | Modded client mod for Android | [Closed source] | ⛔ Malware (scams and spying)[^8] |
+| [Discord Android *("Kotlin")*](https://wiki.vencord.dev/article/V126.21) | Official Kotlin & Java Android client | [Closed source] | 🔴 Discontinued in favor of RNA[^11] |
 
 ### iOS Clients & Mods
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
 | [Discord iOS](https://apps.apple.com/us/app/discord-chat-talk-hangout/id985746746) | Official iOS client | [Closed source] | 🟢 Active |
-| [Kettu](https://github.com/C0C0B01/Kettu) | A Discord mobile app client modification continuing [Bunny's](https://github.com/pyoncord/Bunny) mission | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
+| [Discord iOS Beta](https://testflight.apple.com/join/gdE4pRzI) | Official Testflight Beta iOS client | [Closed source] | 🟢 Active[^14] *(Can be unstable)* |
+| [Discord iOS *("Phoenix")*](https://x.com/svishnevskiy/status/2125350233316200944) | Official Rust core iOS client (WIP) | [Closed source] | 🔵 Active[^10] <br/> 🟠 *(In alpha development state)* |
 | [Unbound](https://www.unbound.rip/) | Cross-platform client modification for discord on mobile. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
+| [Valenced](https://github.com/Valenced/valenced) | Supercharge your Discord experience. Valenced is a client modification for Discord mobile. Successor of [Kettu](https://github.com/C0C0B01/Kettu) & [Revenge Next](https://github.com/revenge-mod/revenge-bundle-next). | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 🧻 Active |
 | [Rain](https://codeberg.org/raincord/rain) | A Discord mod for mobile written from the ground up by the creators of [Kettu](https://github.com/C0C0B01/Kettu) | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 Active *(In beta)* |
+| [Discord Classic](https://github.com/bag-xml/Discord-Classic) | The definitive way of using Discord on legacy iOS. Compatible with iOS 5.0+ | [![Objective-C][Objective-C-Badge]][Objective-C-Url] | 🟢 Active |
+| [Stossycord](https://github.com/Stossycord/Stossycord) | Stossycord is a Discord Client Native to iOS Devices. It is made in 100% Swift and SwiftUI for Privacy, Responsiveness and Security | [![Swift][Swift-Badge]][Swift-Url] | 🔵 Active <br/> 🟠 *(In a very early beta)* |
 | [Lampcord](https://github.com/l6t9/Lampcord) | A Kotlin Multiplatform Material 3 Discord client. | [![Kotlin][Kotlin-Badge]][Kotlin-Url] | 🔵 🧻 Active *(In beta)* |
-| [Stossycord](https://github.com/Stossycord/Stossycord) | Stossycord is a Discord Client Native to iOS Devices. It is made in 100% Swift and SwiftUI for Privacy, Responsiveness and Security | [![Swift][Swift-Badge]][Swift-Url]    | 🟠🔵 Active *(In a very early beta)* |
-| [Paicord](https://github.com/llsc12/Paicord) | A native Discord client for iOS and macOS written in Swift using SwiftUI, with a goal of feature parity with customisation and Quality-of-Life additions! | [![Swift][Swift-Badge]][Swift-Url] | 🟠🔵 Active *(still in development state)* |
-| [Valenced](https://github.com/Valenced/valenced) | Supercharge your Discord experience. Valenced is a client modification for Discord mobile. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 *(still in development state)* |
-| [Linecord](https://github.com/rniii/linecord) | WIP Discord RN client mod. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 *(still in development state)* |
-| [BTLoader](https://github.com/CloudySn0w/BTLoader) | Provides builds of [Kettu](https://github.com/C0C0B01/Kettu) (a fork of [Bunny](https://github.com/pyoncord/Bunny)) for iOS, but will utilise [Rain](https://codeberg.org/raincord/rain) once it is fully released.| [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
-| [Revenge](https://github.com/revenge-mod/Revenge) | Revenge is a fork of [Bunny](https://github.com/pyoncord/Bunny) | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
+| [Paicord](https://github.com/llsc12/Paicord) | A native Discord client for iOS and macOS written in Swift using SwiftUI, with a goal of feature parity with customisation and Quality-of-Life additions! | [![Swift][Swift-Badge]][Swift-Url] | 🔵 Active <br/> 🟠 *(still in development state)* |
+| [Linecord](https://github.com/rniii/linecord) | WIP Discord RN client mod. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 Active <br/> 🟠 *(still in development state)* |
+| [Kettu](https://github.com/C0C0B01/Kettu) | A Discord mobile app client modification continuing [Bunny's](https://github.com/pyoncord/Bunny) mission | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued in favor of [Valenced](https://github.com/Valenced/valenced) 
+| [BTLoader](https://github.com/CloudySn0w/BTLoader) | Provides builds of [Kettu](https://github.com/C0C0B01/Kettu) (a fork of [Bunny](https://github.com/pyoncord/Bunny)) for iOS, ~~but will utilise [Rain](https://codeberg.org/raincord/rain) once it is fully released.~~| [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
+| [Revenge](https://github.com/revenge-mod/Revenge) | Revenge is a fork of [Bunny](https://github.com/pyoncord/Bunny) | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued *(iOS version only)* |
 | [Bunny](https://github.com/pyoncord/Bunny) | A mod for Discord's mobile apps, fork of [Vendetta](https://github.com/vendetta-mod/Vendetta). | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Vendetta](https://github.com/vendetta-mod/Vendetta) | A Discord mod that is compatible with Android and iOS! | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
-| [Enmity](https://enmity.unbound.rip/) | The power of addons, all in your hand. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
-| [Discord Classic](https://github.com/cellomonster/iOS-Discord-Classic) | A bare-bones Discord client for iOS 5 and 6. | [![Objective-C][Objective-C-Badge]][Objective-C-Url] | 🔴 Discontinued |
-| [Discord Classic (continuation)](https://github.com/ToruTheRedFox/iOS-Discord-Classic) | Discord client for Legacy iOS with enhanced UI and additional features. <br/> Based off the original Discord Classic. | [![Objective-C][Objective-C-Badge]][Objective-C-Url] | ⛔ On hiatus. May get account banned. |
+| [Enmity](https://enmity.unbound.rip/) | The power of addons, all in your hand. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Rebranded into [Unbound](https://www.unbound.rip/) |
+| [iOS-Discord-Classic](https://github.com/cellomonster/iOS-Discord-Classic) | A bare-bones Discord client for iOS 5 and 6. | [![Objective-C][Objective-C-Badge]][Objective-C-Url] | 🔴 Discontinued |
+| [iOS-Discord-Classic (continuation)](https://github.com/ToruTheRedFox/iOS-Discord-Classic) | Discord client for Legacy iOS with enhanced UI and additional features. <br/> Based off the original [iOS-Discord-Classic](https://github.com/cellomonster/iOS-Discord-Classic). | [![Objective-C][Objective-C-Badge]][Objective-C-Url] | 🔴 Discontinued in favor of [Discord Classic](https://github.com/bag-xml/Discord-Classic) <br/> ⛔ May get account banned. |
 
 ## Desktop
 
@@ -96,10 +103,11 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 
 | Name | Link | Infos |
 | :---: | :---: | :---: |
-| [Discord](https://discord.com) | [Web](https://discord.com/app), [Windows x64](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64), [Windows arm64](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=arm64), [macOS](https://discord.com/api/download/stable?platform=osx), [Debian/Ubuntu](https://discord.com/api/download/stable?platform=linux), [Tarball](https://discord.com/api/download/stable?platform=linux&format=tar.gz) | Main software |
-| [Discord PTB](https://ptb.discord.com) | [Web](https://ptb.discord.com/app), [Windows x64](https://discord.com/api/downloads/distributions/app/installers/latest?channel=ptb&platform=win&arch=x64), [Windows arm64](https://discord.com/api/downloads/distributions/app/installers/latest?channel=ptb&platform=win&arch=arm64), [macOS](https://discord.com/api/download/ptb?platform=osx), [Debian/Ubuntu](https://discord.com/api/download/ptb?platform=linux), [Tarball](https://discord.com/api/download/ptb?platform=linux&format=tar.gz) | Public Test Build |
-| [Discord Canary](https://canary.discord.com) | [Web](https://canary.discord.com/app), [Windows x64](https://discord.com/api/downloads/distributions/app/installers/latest?channel=canary&platform=win&arch=x64), [Windows arm64](https://discord.com/api/downloads/distributions/app/installers/latest?channel=canary&platform=win&arch=arm64), [macOS](https://discord.com/api/download/canary?platform=osx), [Debian/Ubuntu](https://discord.com/api/download/canary?platform=linux), [Tarball](https://discord.com/api/download/canary?platform=linux&format=tar.gz) | Discord's [canary build](https://semaphoreci.com/blog/what-is-canary-deployment), releases features earlier than PTB |
-| Discord Development | [Windows x64](https://discord.com/api/downloads/distributions/app/installers/latest?channel=development&platform=win&arch=x64), [Windows arm64](https://discord.com/api/downloads/distributions/app/installers/latest?channel=development&platform=win&arch=arm64), [macOS](https://discord.com/api/download/development?platform=osx), [Debian/Ubuntu](https://discord.com/api/download/development?platform=linux), [Tarball](https://discord.com/api/download/development?platform=linux&format=tar.gz) | Essentially Discord's canary build but with updates a few days earlier |
+| [Discord](https://discord.com) | [Web](https://discord.com/app), [Windows x64](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64), [Windows arm64](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=arm64), [macOS](https://discord.com/api/download/stable?platform=osx), [Debian/Ubuntu](https://discord.com/api/download/stable?platform=linux), [Tarball](https://discord.com/api/download/stable?platform=linux&format=tar.gz) | Main software[^14] |
+| [Discord PTB](https://ptb.discord.com) | [Web](https://ptb.discord.com/app), [Windows x64](https://discord.com/api/downloads/distributions/app/installers/latest?channel=ptb&platform=win&arch=x64), [Windows arm64](https://discord.com/api/downloads/distributions/app/installers/latest?channel=ptb&platform=win&arch=arm64), [macOS](https://discord.com/api/download/ptb?platform=osx), [Debian/Ubuntu](https://discord.com/api/download/ptb?platform=linux), [Tarball](https://discord.com/api/download/ptb?platform=linux&format=tar.gz) | Public Test Build[^14] |
+| [Discord Canary](https://canary.discord.com) | [Web](https://canary.discord.com/app), [Windows x64](https://discord.com/api/downloads/distributions/app/installers/latest?channel=canary&platform=win&arch=x64), [Windows arm64](https://discord.com/api/downloads/distributions/app/installers/latest?channel=canary&platform=win&arch=arm64), [macOS](https://discord.com/api/download/canary?platform=osx), [Debian/Ubuntu](https://discord.com/api/download/canary?platform=linux), [Tarball](https://discord.com/api/download/canary?platform=linux&format=tar.gz) | Discord's [Canary build](https://semaphoreci.com/blog/what-is-canary-deployment), releases features earlier than PTB[^14] |
+| Discord Development | [Windows x64](https://discord.com/api/downloads/distributions/app/installers/latest?channel=development&platform=win&arch=x64), [Windows arm64](https://discord.com/api/downloads/distributions/app/installers/latest?channel=development&platform=win&arch=arm64), [macOS](https://discord.com/api/download/development?platform=osx), [Debian/Ubuntu](https://discord.com/api/download/development?platform=linux), [Tarball](https://discord.com/api/download/development?platform=linux&format=tar.gz) | Essentially Discord's canary build but with updates a few days earlier and doesn't have a web version[^14] |
+| [Discord "Phoenix"[^13]]([https://canary.discord.com](https://x.com/svishnevskiy/status/2125350233316200944)) | [Windows x64](https://sunbird.tools/#windows), [macOS](https://sunbird.tools/#macos), [Linux](https://sunbird.tools/#linux) | Discord's brand new (WIP) Rust + GPUI (a GPU-accelerated UI framework for Rust) rewrite that ditches Electron. Expected release is Q1 2027, until then you can try [Sunbird](https://sunbird.tools/) |
 
 ### Mods
 
@@ -112,13 +120,12 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Kernel](https://github.com/kernel-mod) | A super small and fast Electron client mod with the most capability. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Moonlight](https://moonlight-mod.github.io/) | Yet another Discord client mod, focused on providing a decent user and developer experience. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [OpenAsar](https://openasar.dev/) | Alternative `app.asar` for Discord. Makes your client feel snappier. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![Nim][Nim-Badge]][Nim-Url] | 🟢 Active |
-| [reUpdater](https://github.com/cordpackers/reUpdater) | An open-source alternative to Discord's updater.node, featuring multithreaded downloads and allowing custom desktop client patches via an alternative update API. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Replugged](https://replugged.dev) | A lightweight Discord client mod focused on simplicity and performance. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [shelter](https://github.com/uwu/shelter) | shelter is a new generation client mod built to be essentially bulletproof (i.e. Discord switch to SWC). | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Equicord](https://github.com/Equicord/Equicord) | Fork of Vencord with extra plugins and features. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Vencord](https://github.com/Vendicated/Vencord) | Proper context isolation, inline patches, Custom CSS, Useful™ plugins | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
-| [Paicord](https://github.com/llsc12/Paicord) | A native Discord client for iOS and macOS written in Swift using SwiftUI, with a goal of feature parity with customisation and Quality-of-Life additions! | [![Swift][Swift-Badge]][Swift-Url] | 🟠🔵 Active *(still in development state)* |
 | [VX](https://github.com/doggybootsy/vx) | A lightweight client modification for Discord, compatible with the desktop, and web browser applications. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 Active *(Variable[^2]\)* |
+| [reUpdater](https://github.com/cordpackers/reUpdater) | An open-source alternative to Discord's updater.node, featuring multithreaded downloads and allowing custom desktop client patches via an alternative update API. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 Abandoned, since Aug 2024 |
 | [Voxa](https://github.com/plyght/voxa) | Voxa is a sleek, lightweight, and native macOS Discord client built using SwiftUI. | [![Swift][Swift-Badge]][Swift-Url] | 🟠 On hiatus, since Jul 2026 |
 | [Crycord](https://crycord.geopjr.dev/) | A Discord Client modification with plugins. Uses BeautifulDiscord's CSS injector. Oh it's also written in Crystal! | [![Crystal][Crystal-Badge]][Crystal-Url] | 🟠 On hiatus, since May 2021 |
 | [Aero](https://github.com/aero-mod/aero) | A next-generation Discord mod empowering users and developers alike. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
@@ -132,15 +139,15 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Yelm](https://github.com/adryd325/yelm) |  A private Discord client mod and datamining utility used and developed around mid 2017. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [EnhancedDiscord](https://github.com/joe27g/EnhancedDiscord) | A lightweight Discord client mod. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Abandoned |
 | Acord Premium | A client you have to pay for that stole its code. | [Closed source] | ⛔ sus behavior (Stolen code) |
-| hh3 | A private client mod. | [Closed source] | ⛔ *(Status[^4]\)*|
+| hh3 | A private client mod. | [Closed source] | ⛔ *(Status[^4])* |
 | [GooseMod](https://goosemod.com/) | GooseMod is a new, store-driven Discord mod. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [HolyMod](https://github.com/HolyMod/HolyMod) | A lightweight client mod focused on simplicity and performance. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | Lightcord | Lightcord is a simple and customizable client for Discord. | [Closed Source] | ⛔ sus behavior (Github and other stuff missing) |
 | [Powercord](https://github.com/powercord-org/powercord) | A lightweight Discord client mod focused on simplicity and performance. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Topaz](https://web.archive.org/web/20230920032845/https://topaz.goosemod.com/) | Topaz is an upcoming mod which aims to be "next-gen" by using advanced tech to add never-before-seen innovative features. *Runs on web browsers too* | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [Velocity](https://github.com/Velocity-Discord/Velocity) | Velocity is a Discord Client modification that allows you to extend discord's functionality and capabilities. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
-| [DiscordInjections](https://github.com/Snazzah/DiscordInjections) | was a client mod that claimed to "pick up where BeautifulDiscord ends" by offering custom JavaScript in addition to custom CSS, which later transformed into a plugin system. It used DOM manipulation via mutation observers and jQuery and interacted with Discord's backend via discord.js. It is a selfbotting risk by today's standards. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴⛔ Discontinued & Ban Risk |
-| [Pyoncord or POC](https://github.com/pyoncord/poc) | A proof-of-concept discord client,if you see poc or pyoncord said today, they usually mean bunnycord or their team. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
+| [DiscordInjections](https://github.com/Snazzah/DiscordInjections) | was a client mod that claimed to "pick up where BeautifulDiscord ends" by offering custom JavaScript in addition to custom CSS, which later transformed into a plugin system. It used DOM manipulation via mutation observers and jQuery and interacted with Discord's backend via discord.js. It is a selfbotting risk by today's standards. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued <br/> ⛔ Ban Risk |
+| [Pyoncord or POC](https://github.com/pyoncord/poc) | A proof-of-concept discord client, if you see poc or pyoncord said today, they usually mean bunnycord or their team. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 
 #### Plugin bundlers
 
@@ -154,13 +161,13 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
-| [Datcord](https://github.com/gamingdoom/datcord) | An open-source discord client using firefox. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟠 On hiatus, since Feb 2025 |
 | [Dorion](https://github.com/SpikeHD/Dorion) | Lightweight alternative Discord client with a smaller footprint and some fancy extensible features | [![Rust][Rust-Badge]][Rust-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url]  | 🟢 Active |
-| [GoofCord](https://github.com/Milkshiift/GoofCord) | A privacy-focused client with features like message encryption, script loading, and more. Based on ArmCord. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 On hiatus, since Jul 2026 |
 | [LegCord](https://github.com/legcord/legcord) | LegCord is a custom client designed to enhance your Discord experience while keeping everything lightweight. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Vesktop](https://github.com/Vencord/Vesktop) | Vesktop is a cross platform desktop app aiming to give you a snappier Discord experience with Vencord pre-installed | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Equibop](https://github.com/Equicord/equibop) | Fork of Vesktop with extra plugins and features. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [WebCord](https://github.com/SpacingBat3/WebCord) | A Discord API-less client made with Electron | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 Active *(Variable[^2]\)* |
+| [GoofCord](https://github.com/Milkshiift/GoofCord) | A privacy-focused client with features like message encryption, script loading, and more. Based on ArmCord. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 On hiatus, since Jul 2026 |
+| [Datcord](https://github.com/gamingdoom/datcord) | An open-source discord client using firefox. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟠 On hiatus, since Feb 2025 |
 | [ChimeraCord](https://github.com/RoboChimera/ChimeraCord) | A functional but elegant unofficial Discord client for freeBSD, that aims for feature-parity with the official Discord client. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟠 On hiatus, since 2023 |
 | [Discord-PWA](https://github.com/NeverDecaf/discord-PWA) | A wrapper for the Discord web client as a Progressive Web Application, for use with Chromium based browsers. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟠 On hiatus, since 2023 |
 | [LemonCord](https://github.com/japandotorg/LemonCord) | A fast & light weight Discord Client made with love using the Rust programming language. | [![Rust][Rust-Badge]][Rust-Url] | 🟠 On hiatus, since 2023 |
@@ -170,10 +177,9 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | ~~[ArmCord](https://github.com/armcord/armcord)~~ | ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | ⛔ DMCA'd by ARM, rebranded to LegCord |
 | [Sunroof](https://github.com/verticalsync/Sunroof) | A fork of Vesktop. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Discord-Lite](https://web.archive.org/web/20221230055539/https://github.com/therealcyber71/Discord-Lite) | A Light-Weight Discord Client written in Python for developers, by developers. | [![Python][Python-Badge]][Python-Url] | 🔴 Discontinued, Developer MIA, repo and account deleted |
-| [2018cord](https://github.com/OldCord-Client/2018Cord) | A Client meant to replicate the look, and feel of Discord in 2018 | [![Python][Python-Badge]][Python-Url] | 🔴 Discontinued/ Abandon |
+| [2018cord](https://github.com/OldCord-Client/2018Cord) | A Client meant to replicate the look, and feel of Discord in 2018 | [![Python][Python-Badge]][Python-Url] | 🔴 Discontinued/Abandoned |
 | [Discord Tauri](https://github.com/DiscordTauri/discord-tauri) |A lightweight Discord wrapper made in Tauri | [![Rust][Rust-Badge]][Rust-Url] | 🔴 Discontinued |
 | [FeatherCord](https://github.com/OfficiallySp/FeatherCord) | FeatherCord is a lightweight alternative to the Discord client and uses up to 25% less resources compared to the default desktop client. | [Closed source] | 🔴 Discontinued |
-| [GTK3cord](https://github.com/diamondburned/gtkcord3) | A Gtk3 Discord client in Golang | [![Go][Go-Badge]][Go-Url] | 🔴 Discontinued. development shifted to GTK4cord |
 | [Rikka](https://github.com/rikka-org/Rikka) | Rikka is a fast, powerful, and extendable Discord modification. It can load plugins, manage plugins, and features a rich API. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] [![JavaSript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [RyU](https://github.com/Muunatic/RyU) | Powerful Discord Client written in JavaScript. Lightweight, Efficient, Feature-rich. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Broken |
 | [Voidcord](https://web.archive.org/web/20230517194514/https://github.com/logoskosmos/voidcord) | A lightweight and extendable Discord web client on top of Neutralinojs. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued, Developer repo and account deleted |
@@ -185,12 +191,11 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Acheron](https://github.com/ouwou/acheron) | Abaddon rewrite in Qt 6. | [![C++][C++-Badge]][C++-Url] | 🟢 🧻 Active |
 | [Maicord](https://github.com/maj113/MaiCord) | Lightweight native Discord client for Windows. C++23 and Direct3D 11, no Electron, ~7 MB. Voice with E2EE, plugins and themes. | [![C++][C++-Badge]][C++-Url] | 🟢 🚽 Active |
 | [Yapfast](https://github.com/yapfast/yapfast) | The chat app that doesn't eat your PC. A lightweight, native Discord client in Rust. | [![Rust][Rust-Badge]][Rust-Url] | 🟢 🚽 Active |
-| [gravecord](https://github.com/LoreanXavier/gravecord) | A native Discord client in Rust and GPUI: no Electron, the same look, ships native ports of popular [Vencord](https://github.com/Vendicated/Vencord) and [Equicord](https://github.com/Equicord/Equicord) plugins. Early development. | [![Rust][Rust-Badge]][Rust-Url] | 🟠🟢 🚽🧻 Active, NEW be careful. |
+| [gravecord](https://github.com/LoreanXavier/gravecord) | A native Discord client in Rust and GPUI: no Electron, the same look, ships native ports of popular [Vencord](https://github.com/Vendicated/Vencord) and [Equicord](https://github.com/Equicord/Equicord) plugins. Early development. | [![Rust][Rust-Badge]][Rust-Url] | 🟢 🚽🧻 Active <br/> 🟠 NEW be careful. |
 | [Serein](https://github.com/ViceVerse-cz/Serein) | Tiny, Performant & 100% Native client for Discord made in Rust. | [![Rust][Rust-Badge]][Rust-Url] | 🟢 🚽 Active |
 | [IMDiscord](https://github.com/hiddenFSBuser/IMDiscord) | Very functional client written without CRT and in ImGui, GitHub page in russian. | [![C++][C++-Badge]][C++-Url] | 🟢 🚽 Active |
 | [Lampcord](https://github.com/l6t9/Lampcord) | A Kotlin Multiplatform Material 3 Discord client. | [![Kotlin][Kotlin-Badge]][Kotlin-Url] | 🔵 🧻 Active *(In beta)* |
-| [Abaddon](https://github.com/uowuo/abaddon) | Alternative Discord client made in C++ with GTK | [![C++][C++-Badge]][C++-Url] | 🔴 Discontinued in favor of Acheron |
-| [AeroCord](https://github.com/VerityOfficial/AeroCord) |AeroCord is a Discord client designed for Windows 7 and older, dating back to Windows XP. | [![C++][C++-Badge]][C++-Url] | 🔴 ⛔ Work in progress, listing for time being, dont use till more info. |
+| [AeroCord](https://github.com/VerityOfficial/AeroCord) |AeroCord is a Discord client designed for Windows 7 and older, dating back to Windows XP. | [![C++][C++-Badge]][C++-Url] | 🔴 Work in progress <br/> ⛔ listing for time being, don't use till more info |
 | [AeroChat](https://github.com/not-nullptr/Aerochat) | A Discord client themed to look like WLM 09. | [![React][React-Badge]][React-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Concord](https://github.com/chojs23/concord) | A feature rich Discord TUI client written in Rust | [![Rust][Rust-Badge]][Rust-Url] | 🟢 🧻 Active |
 | [Discord Lite](https://github.com/dosdude1/discord-lite) | An ultra-lightweight native Discord client for vintage and modern MacOS | [![Objective-C][Objective-C-Badge]][Objective-C-Url] | 🟢 Active |
@@ -198,28 +203,31 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Discordo](https://github.com/ayntgl/discordo) | A lightweight, secure, and feature-rich Discord terminal client | [![Go][Go-Badge]][Go-Url] | 🟢 Active |
 | [Oxicord](https://github.com/linuxmobile/oxicord) | Oxicord is a high-performance, memory-safe Discord TUI client written in Rust. | [![Rust][rust-Badge]][Rust-Url] | 🟢 Active |
 | [Endcord](https://github.com/mzivic7/endcord) | Feature rich Discord TUI client, with RPC server, ascii art media player, message search and theming | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
-| [Fermi Chat](https://github.com/MathMan05/Fermi) |  A SpaceBar Client written in TS HTML and CSS | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active <br/> ⛔ Does not support discord.com instead is a spacebar client |
 | [LibreDiscord](https://gitlab.com/zipdox/librediscord/-/tree/master?ref_type=heads) | LibreDiscord is a free and open source voice and video client for Discord written in C using GTK3 and GLib. | [![C][C-Badge]][C-Url] | 🟢 Active |
 | [QTCord](https://github.com/mak448a/QTCord/) | A lightweight, native Discord client written in Python with QT. | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
 | [Unicord](https://github.com/UnicordDev/Unicord) | Discord Client for Windows 10 and Windows 10 Mobile | [![C#][C#-Badge]][C#-Url] | 🟢 Active |
 | [Swiftcordv2](https://swiftcord.app) | Discord, but it finally feels good. | [Closed Source] | 🟢 🚽 Active <br/> ⛔️ *(Drama currently surrounding the client[^9]\)*
 | [Dissent](https://github.com/diamondburned/dissent) | Dissent (previously gtkcord4) is a third-party Discord client designed for a smooth, native experience on Linux desktops. | [![Go][Go-Badge]][Go-Url] | 🟢 Active <br/> ⛔ Does not mimic a real client[^7] |
-| [MiniCord](https://github.com/thehatkid/Minicord) | A minimalist version of Discord based on the web version. | [![C++][C++-Badge]][C++-Url] | 🔵 Work In Progress </br>🟠 On hiatus, since Feb 2024  |
-| [Paicord](https://github.com/llsc12/Paicord) | Discord client written in SwiftUI, with a goal of feature parity with customisation and Quality-of-Life additions! | [![Swift][Swift-Badge]][Swift-Url] | 🟢 Active  |
-| [Sakuracord](https://github.com/SakuraCordApp/SakuraCord) | Discord client made with Swift and Swiftui, aiming to be a faster and lighter client for MacOS with a native design and all the features of Discord! | [![Swift][Swift-Badge]][Swift-Url] | 🚽🟢 Active  | 🚽 AI used |
+| [Paicord](https://github.com/llsc12/Paicord) | Discord client written in SwiftUI, with a goal of feature parity with customisation and Quality-of-Life additions! | [![Swift][Swift-Badge]][Swift-Url] | 🔵 Active <br/> 🟠 *(still in development state)* |
+| [Sakuracord](https://github.com/SakuraCordApp/SakuraCord) | Discord client made with Swift and Swiftui, aiming to be a faster and lighter client for MacOS with a native design and all the features of Discord! | [![Swift][Swift-Badge]][Swift-Url] | 🟢 🚽💩 Active |
+| [Miranda NG](https://miranda-ng.org) | Multi Protocol Program that supports Discord | [![C++][C++-Badge]][C++-Url] | 🟢 Active | 
+| [Fermi Chat](https://github.com/MathMan05/Fermi) |  A SpaceBar Client written in TS HTML and CSS | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active <br/> ⛔ Does not support discord.com instead is a spacebar client |
+| [MiniCord](https://github.com/thehatkid/Minicord) | A minimalist version of Discord based on the web version. | [![C++][C++-Badge]][C++-Url] | 🔵 Work In Progress </br> 🟠 On hiatus, since Feb 2024  |
+| [Abaddon](https://github.com/uowuo/abaddon) | Alternative Discord client made in C++ with GTK | [![C++][C++-Badge]][C++-Url] | 🔴 Discontinued in favor of [Acheron](https://github.com/ouwou/acheron) |
 | [EveryDiscord](https://github.com/gaouservbf/EveryDiscord) |EveryDiscord is a light-weight FOSS Win32 client targeting old Windows, specifically NT5 but still trying to run on MS-DOS based Windows. Supports built-in plugins.  | Visual Basic 6.0 | 🟠 On hiatus, since September 2025 |
 | [Spacebar Chat Client](https://spacebar.chat/) | Open source, themeable and extendable discord-compatible native Spacebar client | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 Inactive, Incomplete *(Variable[^5]\)* <br/> ⛔ Does not support discord.com instead is a spacebar client |
 | [Accord](https://github.com/evelyneee/accord) | Client for modern Macs | [![Swift][Swift-Badge]][Swift-Url] | 🟠 On hiatus, since December 2022 |
 | [Unofficial-discord-client](https://github.com/Coding-Bunker/unofficial-discord-client) | Unofficial client for discord build in C++ with Qt. | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since March 2022 |
 | [Ripcord](https://cancel.fm/ripcord/) | Alternative desktop chat client for Slack (and Discord) designed for power users. | [Closed source] | 🔴 Broken *(Patches[^3]\)* <br/> ⛔ *(Warning[^6]\)* |
 | [MiniCord](https://github.com/OJddJO/MiniCord) | A minimalist version of Discord based on the web version. | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since Oct 2022  |
-| [Swiftcordv1](https://web.archive.org/web/20260629173133/https://github.com/SwiftcordApp/Swiftcord/tree/main) | A completely native Discord client for macOS built 100% in Swift and SwiftUI! | [![Swift][Swift-Badge]][Swift-Url] | 🔴 Broken/Abandoned |
+| [Swiftcordv1](https://web.archive.org/web/20260629173133/https://github.com/SwiftcordApp/Swiftcord/tree/main) | A completely native Discord client for macOS built 100% in Swift and SwiftUI! | [![Swift][Swift-Badge]][Swift-Url] | 🔴 Discontinued in favor of [SwiftCordv2](https://swiftcord.app/) |
 | [6cord](https://gitlab.com/diamondburned/6cord) | A terminal front-end for the Discord chat service | [![Go][Go-Badge]][Go-Url] | 🔴 Broken |
 | [concord](https://github.com/volatide/concord) | Discord client made in Qt5 | [![Python][Python-Badge]][Python-Url] | 🔴 Discontinued |
 | [Cordless](https://github.com/Bios-Marcel/cordless) | Cordless is a custom Discord client that aims to have a low memory footprint and be aimed at power-users. | [![Go][Go-Badge]][Go-Url] | 🔴 Broken, Developer got banned during development |
 | [Discline](https://github.com/mitchweaver/Discline) | A terminal Discord client that you can actually use. | [![Python][Python-Badge]][Python-Url] | 🔴 Discontinued |
 | [discord-curses](https://github.com/RX14/discord-curses) | Terminal-based discord client | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [DiscordFlex](https://github.com/ZenithRogue/DiscordFlex) | A custom Discord client built from the ground up. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![Vue.js][Vue.js-Badge]][Vue.js-Url] | 🔴 Discontinued |
+| [GTK3cord](https://github.com/diamondburned/gtkcord3) | A Gtk3 Discord client in Golang | [![Go][Go-Badge]][Go-Url] | 🔴 Discontinued. development shifted to [Dissent](https://github.com/diamondburned/dissent) |
 | [DiscordQt](https://github.com/ruslang02/discord-qt) | A Discord desktop client powered by Node.JS and NodeGui. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [discord-screenaudio](https://github.com/maltejur/discord-screenaudio) | A custom Discord client that supports streaming with audio on Linux. | [![C++][C++-Badge]][C++-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
 | [Discord-Terminal](https://web.archive.org/web/20221120040653/https://github.com/atlx/discord-term) | An extensible Discord terminal client. Can be used with bot or user tokens. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Discontinued |
@@ -262,21 +270,20 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Sailcord (Previously SailDiscord)](https://github.com/roundedrectangle/SailDiscord) | A SailfishOS Discord Client | [![Python][Python-Badge]][Python-Url] [![Qt][Qt-Badge]][Qt-Url] | 🟢 Active |
 | [discord-j2me](https://github.com/gtrxAC/discord-j2me) | Discord client for Java ME (MIDP 1.0 & 2.0) devices | [![Java][Java-Badge]][Java-Url] | 🟢 Active |
 | [Weechat Discord](https://github.com/terminal-discord/weechat-discord) | Weechat plugin for Discord support. | [![Rust][Rust-Badge]][Rust-Url] | 🟢 Active |
-| [DiskCord](https://github.com/maem0/diskcord) | Discord client for older web browsers </br> (made for BlackBerry10 OS in mind) | [![JavaSript][JavaScript-Badge]][JavaScript-Url] | 🟠🟢 Active, NEW be careful. |
-| [DiscordBotClient](https://github.com/aiko-chan-ai/DiscordBotClient) | Discord Bot Client allows you to use your bot, just like any other user account. </br> (except Friends and Groups) | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active <br/> ⛔ This client is meant to be used with Discord Apps (Bots)  |
+| [DiskCord](https://github.com/maem0/diskcord) | Discord client for older web browsers </br> (made for BlackBerry10 OS in mind) | [![JavaSript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active <br/> 🟠 NEW be careful. |
+| [DiscordBotClient](https://github.com/aiko-chan-ai/DiscordBotClient) | Discord Bot Client allows you to use your bot, just like any other user account. </br> (except Friends and Groups) | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active <br/> ⛔ This client is meant to be used with Discord Apps (Bots) |
 | [DiscordBotClient (2022 - 2025)](https://github.com/ChrisEric1/ChrisEric1.GitHub.io) | older-style Discord Bot Client (lighter, fewer features). | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active <br/> ⛔ This client is meant to be used with Discord Apps (Bots) |
 | [Kori](https://github.com/cyan-2048/Discord4KaiOS) |Unofficial Discord Client for KaiOS made using SolidJS | [![TypeScript][TypeScript-Badge]][TypeScript-Url] |  🟢 Active |
 | [Discord WAP](https://github.com/gtrxAC/discord-wap) |  Client for old mobile web browsers with Wireless Application Protocol 1.x support | [![JavaScript][JavaScript-Badge]][JavaScript-Url] |  🟢 Active |
-| [Miranda NG](https://miranda-ng.org) | Multi Protocol Program that supports Discord | [![C++][C++-Badge]][C++-Url] | 🟢 Active | 
 | [bitlbee-discord](https://github.com/sm00th/bitlbee-discord) | Discord protocol plugin for BitlBee. | [![C][C-Badge]][C-Url] | 🟠 On hiatus, since September 2021 |
 | [discord-aos](https://github.com/ruslang02/discord-aos) | Discord client for Sailfish OS  | [![Qt][Qt-Badge]][Qt-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 On hiatus, since November 2021 |
 | [crocodile](https://github.com/tbodt/crocodile) | Discord client for TempleOS. | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since November 2017 |
 | [discord-ppc](https://github.com/vistafan12/discord-ppc) | Discord version for PowerPC architecture | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟠 On hiatus, since June 2017 |
 | [Arcscord](https://github.com/Arcoz0308/arcscord) | NodeJS library written in typescript who interact with the Discord API | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
 | [Scor](https://wiki.vencord.dev/article/Scor) | Discord client inside the macOS Settings/System Preferences app with Vencord support.Could not find github, best info we have for now | [![Swift][Swift-Badge]][Swift-Url] [![Objective-C][Objective-C-Badge]][Objective-C-Url] | 🔴 Discontinued |
-| [Nightcord](https://gist.github.com/Vendicated/bb30cb67878fa682bcee140f56af1531) | Discord client featuring stolen code from a couple clients and mods, as well as malware, avoid using,provided vencord source as link | private | 🔴 ⛔ Stolen code,malware and Ai Coded |
-| [~~Naticord~~](https://github.com/Naticord/naticord) | Discord client focused on bringing the best experience possible natively. Naticord uses DirectUI and Windows Forms, both bringing a native look to the client. DirectUI is an undocumented language made by Microsoft and was never released publicly. The library used in Naticord for DirectUI is DirectUI.Net. | [![C++][C++-Badge]][C++-Url] | 🔴 ⛔ Work in progress,listing for time being,dont use till more info. |
-| [~~Fshcord~~](https://github.com/fsh-org/Fshcord) | Open and light-weight alternative discord client.WIP | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 ⛔ Work in progress,listing for time being,dont use till more info. |
+| [Nightcord](https://gist.github.com/Vendicated/bb30cb67878fa682bcee140f56af1531) | Discord client featuring stolen code from a couple clients and mods, as well as malware, avoid using, provided Vencord source as link | private | 🔴⛔ 🚽 Stolen code, malware |
+| [~~Naticord~~](https://github.com/Naticord/naticord) | Discord client focused on bringing the best experience possible natively. Naticord uses DirectUI and Windows Forms, both bringing a native look to the client. DirectUI is an undocumented language made by Microsoft and was never released publicly. The library used in Naticord for DirectUI is DirectUI.Net. | [![C++][C++-Badge]][C++-Url] | 🔴 Work in progress <br/> ⛔ listing for time being, don't use till more info |
+| [~~Fshcord~~](https://github.com/fsh-org/Fshcord) | Open and light-weight alternative discord client. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔴 Work in progress <br/> ⛔ listing for time being, don't use till more info. |
 
 
 
@@ -291,11 +298,9 @@ The following are server implementations that reimplement Discord's client-serve
 | [Polyphony](https://codeberg.org/polyphony) | Free, open source, federated communications software, compatible with the Discord API and built with [polyproto](https://polyproto.org/docs/intro/), Rust and love. | [![Rust][Rust-Badge]][Rust-Url] | 🟢 Yes | 🟠 Work in progress |
 | [Spacebar Chat](https://spacebar.chat/) | Almost fully featured re-implementation of Discord API Server experimental branch implementing limited support for federation using ActivityPub as the server-server API | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Yes | 🟢 Active |
 | [Hummus](https://hummus.sys42.net/) | 2017 Discord server reimplementation | [Closed source] | 🟠 Ask creator for permission | 🟢 Active |
-| [Miranda NG](https://miranda-ng.org) | Multi Protocol Program that supports Discord | [![C++][C++-Badge]][C++-Url] | 🟢 Yes  | 🟢 Active |
 | [Oldcord](https://github.com/oldcordapp/OldCordV3) | An open-source reimplementation of the old (2015-2018) Discord backend, including an on-demand client patcher. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Yes | 🔵 Active, official instance is down |
 | [Reflectcord](https://github.com/V3L0C1T13S/reflectcord) | Reimplementation of Discord API Server on top of Revolt.chat | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Yes | 🟠 On hiatus, since Jan 2024 | 
 | [Litecord](https://gitlab.com/litecord/litecord) | Partial reimplementation of Discord API Server | [![Python][Python-Badge]][Python-Url] | 🟠 Allowed, not intended | 🟠 On hiatus, since December 2023 |
-| [Miranda NG](https://miranda-ng.org) | Multi Protocol Program that supports Discord | [![C++][C++-Badge]][C++-Url] | 🟢 Yes  | 🟢 Active | 
 
 | AI  |     Description     |
 | :-: | :-----------------: |
@@ -306,7 +311,7 @@ The following are server implementations that reimplement Discord's client-serve
 | 😇  |  No AI art used    |
 | ❔  |  NA we don't know  |
 
-[^1]: Aliucord is based on the legacy Discord Android app, which was replaced by RNA in 2022. Despite this, development efforts continue to backport features to Aliucord.
+[^1]: Aliucord is based on the last ([v126.21](https://wiki.vencord.dev/article/V126.21)) version of legacy Discord "Kotlin" Android app, which was replaced by RNA in 2022. Despite this, development efforts continue to backport features to Aliucord. Users perfer Aliucord over other clients because of its exceptional performance.
 [^2]: Some occasional breaks might occur depending on the maintainers' free time.
 [^3]: While the main client is still On hiatus, the community has made patchs for the client to extend its usages and fix bugs that have occured over time.
 		- [Patcher](https://github.com/geniiii/patcher)
@@ -319,7 +324,11 @@ The following are server implementations that reimplement Discord's client-serve
 	  Dissent may cause your account to be flagged as a spammer or cause it to be banned.
 [^8]: While the owner does claim to have open-sourced the code, a long history of being behind scamming and stealing accounts has proven that they cannot be trusted nor any claims they make can be trusted. ([Source](https://drive.google.com/drive/folders/1Y2m2lMSpN3GlOcXyceaO88Ljnr8xuNcp?usp=drive_link))
 [^9]: For now we seem it best to just link to a Vencord Wiki page regarding this drama. (Source [Vencord Wiki](https://wiki.vencord.dev/article/Swiftcord). [Vencord wiki archive](https://web.archive.org/web/20261114182843/https://wiki.vencord.dev/article/Swiftcord) from November 14, 2026. Also see [Twitter screenshot from Vencord](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/qljem55q.jpeg))
-[^10]: When it comes to Discord Work-In Progess rewrite (Phoenix). Please see [Sunbird](https://github.com/sunbird-tools/sunbird).
+[^10]: When it comes to the Work-In-Progress rewrite, Discord "Phoenix" for mobile has shared Rust backends, but [all UI and platform-specific code is platform-native](https://x.com/svishnevskiy/status/2118753826815742254) (that means Kotlin + Jetpack Compose for Android, and Swift + SwiftUI / UIKit for iOS). Please see [Sunbird](https://github.com/sunbird-tools/sunbird). These unreleased Discord alpha builds will contain bugs, crashes, and missing features. VERY NEW AND EXPERIMENTAL. USE CAREFULLY, ALT ACCOUNT RECOMMENDED.
+[^11]: It was replaced by the unified React Native client in 2022. This was done to make development easier across the iOS and Android versions of Discord on mobile. Last version was [v126.21](https://wiki.vencord.dev/article/V126.21).
+[^12]: A native Android Discord client reconstructed in Kotlin with Android Views and XML, based on the very last "Kotlin" Discord Android 126.21 Stable version (replaced by RNA "Unified" in 2022). Microcord keeps the classic Android interface while adding compatibility with newer Discord features and local customization. It performs very well thanks to its use of native tools.
+[^13]: When it comes to the Work-In-Progress rewrite, Discord "Phoenix" replaces Discord's current Elector web-browser wrapper with a native, GPU-accelerated app built entirely in Rust. Please see [Sunbird](https://github.com/sunbird-tools/sunbird). These unreleased Discord alpha builds will contain bugs, crashes, and missing features. VERY NEW AND EXPERIMENTAL. USE CAREFULLY, ALT ACCOUNT RECOMMENDED.
+[^14]: Resources regarding official clients can be found [here](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients).
 
 ## Contributing
 
@@ -329,7 +338,7 @@ Please refer to [CONTRIBUTING.md](/.github/CONTRIBUTING.md) if you want to contr
 
 Will update as needed!
 
-If you would like feel free to reach out to [Nekopara#4266](https://discord.gg/qQQAnahBxZ) (Head of Team) on the official Discord:
+If you would like feel free to reach out to [@neko__para](https://discord.com/users/1071679058674458705) (Head of Team) on the official Discord:
 https://discord.gg/qQQAnahBxZ
 
 ## Disclaimer
