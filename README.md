@@ -312,7 +312,7 @@ The following are server implementations that reimplement Discord's client-serve
 | 😇  |  No AI art used    |
 | ❔  |  NA we don't know  |
 
-[^1]: Aliucord is based on the legacy Discord Android app, which was replaced by RNA in 2022. Despite this, development efforts continue to backport features to Aliucord.
+[^1]: Aliucord is based on the last ([v126.21](https://wiki.vencord.dev/article/V126.21)) version of legacy Discord "Kotlin" Android app, which was replaced by RNA in 2022. Despite this, development efforts continue to backport features to Aliucord. Users perfer Aliucord over other clients because of its exceptional performance.
 [^2]: Some occasional breaks might occur depending on the maintainers' free time.
 [^3]: While the main client is still On hiatus, the community has made patchs for the client to extend its usages and fix bugs that have occured over time.
 		- [Patcher](https://github.com/geniiii/patcher)
@@ -327,7 +327,7 @@ The following are server implementations that reimplement Discord's client-serve
 [^9]: For now we seem it best to just link to a Vencord Wiki page regarding this drama. (Source [Vencord Wiki](https://wiki.vencord.dev/article/Swiftcord). [Vencord wiki archive](https://web.archive.org/web/20261114182843/https://wiki.vencord.dev/article/Swiftcord) from November 14, 2026. Also see [Twitter screenshot from Vencord](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/qljem55q.jpeg))
 [^10]: When it comes to the Work-In-Progress rewrite, Discord "Phoenix" for mobile has shared Rust backends, but [all UI and platform-specific code is platform-native](https://x.com/svishnevskiy/status/2118753826815742254) (that means Kotlin + Jetpack Compose for Android, and Swift + SwiftUI / UIKit for iOS). Please see [Sunbird](https://github.com/sunbird-tools/sunbird). These unreleased Discord alpha builds will contain bugs, crashes, and missing features. VERY NEW AND EXPERIMENTAL. USE CAREFULLY, ALT ACCOUNT RECOMMENDED.
 [^11]: It was replaced by the unified React Native client in 2022. This was done to make development easier across the iOS and Android versions of Discord on mobile. Last version was [v126.21](https://wiki.vencord.dev/article/V126.21).
-[^12]: A native Android Discord client reconstructed in Kotlin with Android Views and XML, based on Discord Android 126.21 Stable. Microcord keeps the classic Android interface while adding compatibility with newer Discord features and local customization.
+[^12]: A native Android Discord client reconstructed in Kotlin with Android Views and XML, based on the very last "Kotlin" Discord Android 126.21 Stable version (replaced by RNA "Unified" in 2022). Microcord keeps the classic Android interface while adding compatibility with newer Discord features and local customization. It performs very well thanks to its use of native tools.
 [^13]: When it comes to the Work-In-Progress rewrite, Discord "Phoenix" replaces Discord's current Elector web-browser wrapper with a native, GPU-accelerated app built entirely in Rust. Please see [Sunbird](https://github.com/sunbird-tools/sunbird). These unreleased Discord alpha builds will contain bugs, crashes, and missing features. VERY NEW AND EXPERIMENTAL. USE CAREFULLY, ALT ACCOUNT RECOMMENDED.
 
 ## Contributing
