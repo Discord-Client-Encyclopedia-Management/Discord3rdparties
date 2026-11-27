@@ -71,7 +71,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [OpenCord](https://github.com/X1nto/OpenCord) | An open-source implementation of the Discord Android app | [![Kotlin][Kotlin-Badge]][Kotlin-Url] | 🔴 Discontinued |
 | [Treecord](https://github.com/Treecord/Treecord) | A modded Discord client for Android! | [![Shell Script][Shell Script-Badge]][Shell Script-Url] | 🔴 Discontinued |
 | Bluecord | Modded client mod for Android | [Closed source] | ⛔ Malware (scams and spying)[^8] |
-| [Discord Android *("Kotlin")*]([https://play.google.com/store/apps/details](https://wiki.vencord.dev/article/V126.21)) | Official Kotlin & Java Android client | [Closed source] | 🔴 Discontinued in favor of RNA[^11] |
+| [Discord Android *("Kotlin")*](https://wiki.vencord.dev/article/V126.21) | Official Kotlin & Java Android client | [Closed source] | 🔴 Discontinued in favor of RNA[^11] |
 
 ### iOS Clients & Mods
 
