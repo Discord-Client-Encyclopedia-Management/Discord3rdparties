@@ -51,12 +51,12 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Voxi](https://github.com/ApexTeamPL/voxi-bundle) | A Discord mobile app client, fork of [Revenge Classic](https://github.com/revenge-mod/revenge-bundle) with additional features | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Revenge](https://github.com/revenge-mod/Revenge) | A fork of [Bunny](https://github.com/pyoncord/Bunny) | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Valenced](https://github.com/Valenced/valenced) | Supercharge your Discord experience. Valenced is a client modification for Discord mobile. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 🧻 Active |
+| [Unbound](https://www.unbound.rip/) | Cross-platform client modification for discord on mobile. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [ShiggyCord](https://github.com/kmmiio99o/ShiggyCord) | Shiggy your Discord! Fork of [Kettu](https://codeberg.org/cocobo1/Kettu). Faster, refreshed, and with additional features. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟠 🧻 On Hitaus, locked to v350.8 |
 | [Aliucord](https://github.com/Aliucord/Aliucord) | A mod for the Android Discord app. | [![Kotlin][Kotlin-Badge]][Kotlin-Url] [![Java][Java-Badge]][Java-Url] | 🔵 Active *(Legacy App[^1]\)* |
 | [Reseam](https://reseam.app/) | A native Android app patcher with patches for the official react native Discord Client | [![Kotlin][Kotlin-Badge]][Kotlin-Url] [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🔵 Active *(In beta)* |
 | [Lampcord](https://github.com/l6t9/Lampcord) | A Kotlin Multiplatform Material 3 Discord client. | [![Kotlin][Kotlin-Badge]][Kotlin-Url] | 🔵 🧻 Active *(In beta)* |
 | [Rain](https://codeberg.org/raincord/rain) | A Discord mod for mobile written from the ground up by the creators of [Kettu](https://github.com/C0C0B01/Kettu) | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 Active *(In beta)* |
-| [Unbound](https://www.unbound.rip/) | Cross-platform client modification for discord on mobile. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 *(still in development state)* |
 | [Linecord](https://github.com/rniii/linecord) | WIP Discord RN client mod. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 *(still in development state)* |
 | [Revenge Next](https://github.com/revenge-mod/revenge-bundle-next) | A Discord mod for Android! | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Rebranded into Valenced |
 | [ReCord](https://github.com/record-mod/record-bundle) | A work-in-progress Discord mod, inspired by mods such as Bunny and Revenge, aimed at being lightweight and user friendly. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
@@ -75,11 +75,11 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | :---: | :---: | :---: | :---: |
 | [Discord iOS](https://apps.apple.com/us/app/discord-chat-talk-hangout/id985746746) | Official iOS client | [Closed source] | 🟢 Active |
 | [Kettu](https://github.com/C0C0B01/Kettu) | A Discord mobile app client modification continuing [Bunny's](https://github.com/pyoncord/Bunny) mission | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
+| [Unbound](https://www.unbound.rip/) | Cross-platform client modification for discord on mobile. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Rain](https://codeberg.org/raincord/rain) | A Discord mod for mobile written from the ground up by the creators of [Kettu](https://github.com/C0C0B01/Kettu) | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 Active *(In beta)* |
 | [Lampcord](https://github.com/l6t9/Lampcord) | A Kotlin Multiplatform Material 3 Discord client. | [![Kotlin][Kotlin-Badge]][Kotlin-Url] | 🔵 🧻 Active *(In beta)* |
 | [Stossycord](https://github.com/Stossycord/Stossycord) | Stossycord is a Discord Client Native to iOS Devices. It is made in 100% Swift and SwiftUI for Privacy, Responsiveness and Security | [![Swift][Swift-Badge]][Swift-Url]    | 🟠🔵 Active *(In a very early beta)* |
 | [Paicord](https://github.com/llsc12/Paicord) | A native Discord client for iOS and macOS written in Swift using SwiftUI, with a goal of feature parity with customisation and Quality-of-Life additions! | [![Swift][Swift-Badge]][Swift-Url] | 🟠🔵 Active *(still in development state)* |
-| [Unbound](https://www.unbound.rip/) | Cross-platform client modification for discord on mobile. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 *(still in development state)* |
 | [Valenced](https://github.com/Valenced/valenced) | Supercharge your Discord experience. Valenced is a client modification for Discord mobile. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 *(still in development state)* |
 | [Linecord](https://github.com/rniii/linecord) | WIP Discord RN client mod. | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔵 *(still in development state)* |
 | [BTLoader](https://github.com/CloudySn0w/BTLoader) | Provides builds of [Kettu](https://github.com/C0C0B01/Kettu) (a fork of [Bunny](https://github.com/pyoncord/Bunny)) for iOS, but will utilise [Rain](https://codeberg.org/raincord/rain) once it is fully released.| [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🔴 Discontinued |
