@@ -185,6 +185,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Acheron](https://github.com/ouwou/acheron) | Abaddon rewrite in Qt 6. | [![C++][C++-Badge]][C++-Url] | 🟢🧻 Active |
 | [Maicord](https://github.com/maj113/MaiCord) | Lightweight native Discord client for Windows. C++23 and Direct3D 11, no Electron, ~7 MB. Voice with E2EE, plugins and themes. | [![C++][C++-Badge]][C++-Url] | 🟢🚽 Active |
 | [Yapfast](https://github.com/yapfast/yapfast) | The chat app that doesn't eat your PC. A lightweight, native Discord client in Rust. | [![Rust][Rust-Badge]][Rust-Url] | 🟢🚽 Active |
+| [gravecord](https://github.com/LoreanXavier/gravecord) | A native Discord client in Rust and GPUI: no Electron, the same look, ships native ports of popular Vencord and Equicord plugins. Early development. | [![Rust][Rust-Badge]][Rust-Url] | 🟠🟢🚽🧻 Active, NEW be careful. |
 | [Serein](https://github.com/ViceVerse-cz/Serein) | Tiny, Performant & 100% Native client for Discord made in Rust. | [![Rust][Rust-Badge]][Rust-Url] | 🟢🚽 Active |
 | [IMDiscord](https://github.com/hiddenFSBuser/IMDiscord) | Very functional client written without CRT and in ImGui, GitHub page in russian. | [![C++][C++-Badge]][C++-Url] | 🟢🚽 Active |
 | [Lampcord](https://github.com/l6t9/Lampcord) | A Kotlin Multiplatform Material 3 Discord client. | [![Kotlin][Kotlin-Badge]][Kotlin-Url] | 🔵🧻 Active *(In beta)* |
@@ -239,7 +240,7 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
-| [Tricord](https://github.com/2b-zipper/TriCord) | A modern Discord client for the Nintendo 3DS | [![C++][C++-Badge]][C++-Url] | 🟢active |
+| [Tricord](https://github.com/2b-zipper/TriCord) | A modern Discord client for the Nintendo 3DS | [![C++][C++-Badge]][C++-Url] | 🟢 Active |
 | [A-client-for-Discord-for-3DS](https://github.com/XeathJP/A-client-for-Discord-for-3DS) | Applications that can use discord on 3DS | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since since January 2022 |
 | [Quarrel](https://github.com/UWPCommunity/Quarrel) | Quarrel is a Discord client for Windows and Xbox that aims to bring voice chat to Xbox and improved support for varying screen sizes on devices running windows. | [![C#][C#-Badge]][C#-Url] | 🟠 On hiatus, since August 2022 |
 | [NXCord](https://github.com/Grarak/NXCord) | Unofficial Nintendo Switch Discord client | [![C++][C++-Badge]][C++-Url] | 🟠 On hiatus, since April 2020 |
